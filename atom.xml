@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Y.K&#39;s BLOG</title>
+  
+  <subtitle>理想是成为全才</subtitle>
+  <link href="https://silkiller.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://silkiller.github.io/"/>
+  <updated>2021-11-14T22:53:20.486Z</updated>
+  <id>https://silkiller.github.io/</id>
+  
+  <author>
+    <name>YUKL</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周记2</title>
+    <link href="https://silkiller.github.io/posts/b6a6a1fa.html"/>
+    <id>https://silkiller.github.io/posts/b6a6a1fa.html</id>
+    <published>2021-11-14T22:25:00.000Z</published>
+    <updated>2021-11-14T22:53:20.486Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;上一次更新还是在一月前，从日记到周记，现在都成了月记了，最近发生了一些事情还是值得记录一下。</p><span id="more"></span><p>&emsp;&emsp;首先是博客更新延迟，原因是电脑从Windows11换成Windows10，博客需要重新部署，最近一直没抽时间弄这件事，今晚终于弄好了，于是便乘兴写点东西。要说这个月来发生的几件大事，其一就是抽中了H2S的DNA，万万没想到又抽中了（之前也抽中了一次而且两次都是同一个帐号，也是运气非常好了），不知道后台是不是看我坚持了好几周，就把这幸运的彩票发给了我，反正，11月22就能搬进独门独户的studio了！当然，代价也是有一点的，首先便是这边的违约金，9个月，每个月35欧，就得从押金里扣掉300多欧，然后11.22住进DAN还得交十天的房租，一来二去就是500多欧的损失。不过好在可以申请房补，这点一时的损失也就不放在心上了。但结果就是最近手头颇为拮据，需要控制一切不必要的开支，熬过这阵就好了。<br>&emsp;&emsp;其次就是研究上的进展。从9月份底开始跟导师开会，到现在开了6次会了，从最初一些想法到一个可以收数据的模型，进展还算比较快。目前需要跟中国那边的联系人沟通收数据的可能性，一切都在朝着正确的道路前进。除了这个收数据的机会外，还有Daan 的一个博士生和Anne的一个大课可以收数据，可谓是前景一篇美好，longintudal team research最难的数据收集，如果反倒不成问题了，真是幸运并且幸福啊。目前需要做的就是继续完善研究设计和问卷设计，尽可能地提前解决一些问题。CDQ的那篇文章，原本10.30的DDL又延期了一个月，时间上应该是问题不大，希望也能有一个好的结果。<br>&emsp;&emsp;感情上，复合希望渺茫，站在对方的角度，我恐怕不会原谅，更别说复合了。但不管怎么样，我都不会再摇摆不定了，尽人事然后听天命。我给自己设定了期限是一年，如果一年之后，还是没有希望，那就放弃，我再也不会纠缠，开始新的生活。我也不知道我的坚持是不是对的，我跟她是不是命中注定，不想了，且看分晓吧。<br>&emsp;&emsp;下周就能搬到新房子了，希望生活也能重新开始，一切都有个新的开始。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;上一次更新还是在一月前，从日记到周记，现在都成了月记了，最近发生了一些事情还是值得记录一下。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Diary" scheme="https://silkiller.github.io/categories/Diary/"/>
+    
+    
+    <category term="research" scheme="https://silkiller.github.io/tags/research/"/>
+    
+    <category term="life" scheme="https://silkiller.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>周记1</title>
+    <link href="https://silkiller.github.io/posts/2faff040.html"/>
+    <id>https://silkiller.github.io/posts/2faff040.html</id>
+    <published>2021-10-15T20:16:23.000Z</published>
+    <updated>2021-10-15T20:44:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;一个星期没更新了，发现一天写一篇日记是一件很奢侈的事情，改为一周一更新吧。从07-10到现在又发生了一些事情，还是值得记录一下。</p><span id="more"></span><p>&emsp;&emsp;首先呢，跟导师的meeting因为他们比较忙，延迟到了这一周。于是利用中间的时间把proposal又重新修改了一下，更新了一下research model 1的模型。这周三讨论的时候，导师们还是比较认可的，觉得整体的逻辑没有太大的问题，但是还是不够细化，需要多读一些team cognition的文献。好吧，又重新掉进了一个新的坑里，下载的两篇AMA的文献都是厚厚的大部头，背着回家好几趟了，都没认真读进去，这周末还是要好好读一读。周一和周二认真思考一下Team mental model，prior experience，diversity change awareness的具体化的问题，重新构建两个模型。相信能从文献中找到一些答案。目标就是今年内把模型确定下来，开始收数据，然后争取明年就投稿AOM的会议。理想的情况是，明年还能正式投稿一篇A，开始修改。期间再发展一些新的idea，希望能在team diversity这个领域做出一点成绩。<br>&emsp;&emsp;然后就是我的bike，原本链条有一些摩擦的声音，后来联系了Fabian解决了，骑起来甚是给力。龙头稍微有点矮的问题也去Maga bike找师傅解决了，目前唯一还觉得有些不舒服的就是自行车的坐垫还不是很舒服，以后可以考虑换一个舒服点的坐垫。这个不用太着急，每天上下班倒也还行。<br>&emsp;&emsp;再就是昨天跟小组成员一起讨论了group assignment，讨论了两个小时，成果斐然，从无厘头的idea开始到一个稍微成熟点的模型，还是很有成就感和建设感的，大家一起集思广益，头脑风暴，团队的力量还是比个人的力量要强。一点启示就是以后要多跟别人交流自己的研究，peer-review很重要。<br>&emsp;&emsp;情绪上，这周开始有点失恋综合征犯了，情绪一直不太高，不过看到她发了一条朋友圈，似乎她已经走出来了，既然她已经走出来了，我也没必要一直纠结了，遗憾的确是遗憾，但也不能一直被往事萦绕，该往前看还是往前看。那么多的paper没读，那么多的东西没做，是该认认真真搞学习了。<br>&emsp;&emsp;十月过半了，金九银十，到了十一月时间就过得快了，还是要多思考多沉淀！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;一个星期没更新了，发现一天写一篇日记是一件很奢侈的事情，改为一周一更新吧。从07-10到现在又发生了一些事情，还是值得记录一下。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Diary" scheme="https://silkiller.github.io/categories/Diary/"/>
+    
+    
+    <category term="emotion" scheme="https://silkiller.github.io/tags/emotion/"/>
+    
+    <category term="bike" scheme="https://silkiller.github.io/tags/bike/"/>
+    
+    <category term="group assignment" scheme="https://silkiller.github.io/tags/group-assignment/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>07-10-2021</title>
+    <link href="https://silkiller.github.io/posts/5282f3dd.html"/>
+    <id>https://silkiller.github.io/posts/5282f3dd.html</id>
+    <published>2021-10-07T07:33:39.000Z</published>
+    <updated>2021-10-07T08:25:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;最近两天的早餐都是 麦片+坚果+Dutch糖豆</p><span id="more"></span><p>&emsp;&emsp;终于处理完了和supervisor team 讨论的Research proposal，昨晚十二点半发给了他们，没想到早上七点多就都跟我回复邮件了。昨天又上了engaged research，第二个part的Rob说的一些engaged research的观点，我觉得非常有帮助，特此记录。有一个终极的问题：what’s the end of research? What if you survive the tenture track and become a full professor, then what’s next? 回答这个问题的关键词是motivation和career，如果有成功的career但是没有motivation，研究也只能是自我成就的一种方式，而不能普惠大众。科学家，不管是自然科学家还是社会科学家，我们都要aim high，要真正做出一些有价值的东西，就像我的I WILL statament说的：“expand the field of human knowledge”。就像公司追求愿景和目标，PhD candidate也应该追求更加宏大的东西，那些一下子实现不了或者根本无法通过个人实现的东西，朝着这个方向前进，哪怕最后做一点很小的贡献，我们也推动了一些更大的东西，这是很了不起的。<br>&emsp;&emsp;发AMJ一直是我的目标，但如果发了10篇呢（当然不太可能），恐怕后续的几篇就不再有那么激动了。科学的存在就是探讨哲学问题，对科研的哲学思考应该领先于科研本身。至少从现在看，我对科研的motivation还是比较高的，想在本领域做出一些开创性的成绩，就像很多往后成为优秀科学家的人一样，他们在phd阶段也是在思考一些前人没有思考过的问题，我也应该去主动地思考一些本领域悬而未决的问题。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;最近两天的早餐都是 麦片+坚果+Dutch糖豆&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Diary" scheme="https://silkiller.github.io/categories/Diary/"/>
+    
+    
+    <category term="motivation" scheme="https://silkiller.github.io/tags/motivation/"/>
+    
+    <category term="career" scheme="https://silkiller.github.io/tags/career/"/>
+    
+    <category term="PhD" scheme="https://silkiller.github.io/tags/PhD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>05-10-2021</title>
+    <link href="https://silkiller.github.io/posts/7c74db5b.html"/>
+    <id>https://silkiller.github.io/posts/7c74db5b.html</id>
+    <published>2021-10-05T19:04:19.000Z</published>
+    <updated>2021-10-05T19:20:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;最近两天的早餐：两个面包；麦片加上坚果，牛奶。发生了一些事情。</p><span id="more"></span><p>&emsp;&emsp;原本周一周二是要全身心专注在周四的meeting上的，周一因为手机的事情没有完全沉下心，中午跟卖家约好时间，下午就拿到了新的手机，顺便还去中超买了麦片和老抽。卖家人挺不错，手机成色特别新，还告诉我怎么完美破解Google FCM限制。晚上跟小宋把桌子安装好，回去也没沉下心来改CDQ的paper，坐了一会儿（玩了一会儿新手机hhh）。<br>&emsp;&emsp;周二呢，倒是沉下心来思考了一下model的事情，也有了一些进展，但是感觉自己还是不太满意，没有完全达到自己的期望，不过还算ok吧，晚上再把思路完整地写出来，明天安排一下meeting。这周末必须处理完CDQ paper的事情，两天时间写完response letter，修改一下正文，大概的雏形要搭建出来，下一周再进行一些小的缝缝补补工作。第三篇paper，希望能顺利accept。  </p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;最近两天的早餐：两个面包；麦片加上坚果，牛奶。发生了一些事情。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Diary" scheme="https://silkiller.github.io/categories/Diary/"/>
+    
+    
+    <category term="DDL" scheme="https://silkiller.github.io/tags/DDL/"/>
+    
+    <category term="效率" scheme="https://silkiller.github.io/tags/%E6%95%88%E7%8E%87/"/>
+    
+    <category term="新手机" scheme="https://silkiller.github.io/tags/%E6%96%B0%E6%89%8B%E6%9C%BA/"/>
+    
+    <category term="痤疮" scheme="https://silkiller.github.io/tags/%E7%97%A4%E7%96%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>03-10-2021</title>
+    <link href="https://silkiller.github.io/posts/f6ea2d1.html"/>
+    <id>https://silkiller.github.io/posts/f6ea2d1.html</id>
+    <published>2021-10-03T21:11:42.000Z</published>
+    <updated>2021-10-03T21:45:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;周末</p><span id="more"></span><p>&emsp;&emsp;周末两天还算丰富，周六上午去了central，去了中超，又逛了CA,HM和Zara（买了一件羊毛衫），还去了Open market，吃到了正宗的越南米粉和越南冰咖啡，晚上随便打发一点，不知怎么就过去了。周日做饭：番茄牛腩，西红柿炒鸡蛋，青椒炒肉丝，特地多做了一点，当第二天的午饭。<br>&emsp;&emsp;周末两天嗖得一下就过去了。学习方面没啥进展，还是太懒了。本来打算趁周末好好修改一下CDQ的那篇文章，结果一坐下来就没心思了，也不知道最近心思在啥地方，我自己也搞不清楚。感觉还是想太多，做得太少。目前有几块任务要做，一个就是跟supervisor team的meeting，需要提前写好东西（大量的阅读），然后安排meeting；其次是CDQ的修改任务，10.30是ddl的话，15之前就需要发给涂老师，所以在这两周之内需要有个结果了。上课呢，现在不要花太多时间，除非是核心课程，一切想着PUB看齐，缺什么补什么，Mplus的学习也不能落下，研究方法还是要温故知新。<br>&emsp;&emsp;phd需要对自己有一个什么样的期待呢？或者说达到什么样的目标？我觉得有几点：1. 研究方法上，longintudial和experiment两种类型的研究方法要熟悉，涉及的method，analysis要非常熟悉，研究工具如Mplus或R Package也要熟悉，趁着每一次学习的机会进行加强；2. 发表上，每年一篇文章online，争取发出AMJ，JAP，JOB或者OBHDP等高水平文章（至少一篇）；3. 多参加学术会议和讲座，建立social network，让自己的名字被同行所知道；为了达成这三点目标，在时间利用率上一定要提升，学术是top priority！每天必须保证10个小时的学习时间（白天6晚上4），周末只能休息一天；适当减少无意义的社交活动，中午自己带饭，节省开支，养成记账的好习惯。心态上做到静谧的激情，不患得患失，向前看。<br>&emsp;&emsp;phd五年是最适合思考，成长的五年，无数的大牛都是在在PHD阶段做出了创新的成果，然后开始崭露头角的，一定要把握这五年；phd五年也是很快的，从完整的学术生涯来看，五年不过是很短的一个阶段，还是要好好珍惜，时间一晃就过去了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;周末&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Diary" scheme="https://silkiller.github.io/categories/Diary/"/>
+    
+    
+    <category term="weekend" scheme="https://silkiller.github.io/tags/weekend/"/>
+    
+    <category term="一个月" scheme="https://silkiller.github.io/tags/%E4%B8%80%E4%B8%AA%E6%9C%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01-10-2021</title>
+    <link href="https://silkiller.github.io/posts/21988a57.html"/>
+    <id>https://silkiller.github.io/posts/21988a57.html</id>
+    <published>2021-10-01T11:37:39.000Z</published>
+    <updated>2021-10-01T11:56:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;早餐：昨晚吃剩下的HAS，一杯牛奶<br>&emsp;&emsp;信息大爆炸的一天</p><span id="more"></span><p>&emsp;&emsp;从昨天早上开始到下午，一直在紧张中度过，紧张地准备下午的meeting。下午两点的meeting，虽然只有一个小时的时间，信息量堪比几十篇paper，各种我不熟悉的概念和method，好在记忆力还不错，虽然不是全部懂，总结下来还是能慢慢消化的吗，Jia在这个过程中帮助了我很多。也是昨晚的dinner meeting，我才知道JIA一直以来有这么不容易。一个人在一个领域深耕，十几年的漫漫长夜，如今终于看到了曙光。我们聊到中国学者，为什么中国学者没有自己的理论？Liu Dong虽然有Event system theory（EST），但也只是第三作者，中国学者应该发出自己的声音而不仅仅是跟随者，做一些修修补补的工作。这一点，我跟她看法颇为相同，或许也是因为我还只是一名博士生，理想化的想法总是很多，而她在这个领域这么多年仍然还能这么想，实属难得，我看到了中国学者的风骨和自信。我也越发地觉得自己很幸运，能在一开始就跟这么多accomplished的学者合作，他们从不限制我的思维，而是耐心地引导我去思考，哪怕他们心中早已经有了答案。在鹿特丹的五年，注定是艰难的，也一定是收获颇丰的，脱胎换骨的。五年后，我会成为什么样子呢，一时间好想透过时间的迷雾过去看看。你想成为什么样的人决定了你最终可能会成为什么样的人，加油吧。<br>&emsp;&emsp;今天也突然有些莫名的情绪，或许是因为突然意识到十月了，感觉时间过得太快，也有些怀念在国内的日子，怀念她。  </p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;早餐：昨晚吃剩下的HAS，一杯牛奶&lt;br&gt;&amp;emsp;&amp;emsp;信息大爆炸的一天&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Diary" scheme="https://silkiller.github.io/categories/Diary/"/>
+    
+    
+    <category term="meeting" scheme="https://silkiller.github.io/tags/meeting/"/>
+    
+    <category term="Chinese scholars" scheme="https://silkiller.github.io/tags/Chinese-scholars/"/>
+    
+    <category term="future" scheme="https://silkiller.github.io/tags/future/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>30-09-2021</title>
+    <link href="https://silkiller.github.io/posts/5cac7f6b.html"/>
+    <id>https://silkiller.github.io/posts/5cac7f6b.html</id>
+    <published>2021-09-29T22:32:51.000Z</published>
+    <updated>2021-10-01T11:55:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;早餐：面包+黄油+熏肉+生菜，牛奶<br>&emsp;&emsp;办公室一日游。</p><span id="more"></span><p>&emsp;&emsp;八点出门，八点半到办公室，到了之后发现一层楼一个人没有。天气太冷了，直接打开了暖气。看了两个小时paper，JIA过来上课，顺便来我办公室看我，聊了聊生活，聊聊学术。中午一起吃了Sohmi的面，聊了一些学术上的趣事，又聊了聊感情的事儿，才知道她39了还没结婚，感情经历倒是丰富，但是国外男人对中国女性的stereotype还是很严重，所以一直没有找到伴。我呢跟她说了一下我的broke up，还是得向前看。下午上课，发了两次言，还算actively involved。请的guest lecturer很有趣，因为博士给钱，而MBA不给钱走上学术道路。下班路上下大雨，简单做了一个意面，从八点开始写paper，直到现在12：30.<br>&emsp;&emsp;日记太难写了，以后还是一周记录一下吧。。。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;早餐：面包+黄油+熏肉+生菜，牛奶&lt;br&gt;&amp;emsp;&amp;emsp;办公室一日游。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Diary" scheme="https://silkiller.github.io/categories/Diary/"/>
+    
+    
+    <category term="DDL" scheme="https://silkiller.github.io/tags/DDL/"/>
+    
+    <category term="天气" scheme="https://silkiller.github.io/tags/%E5%A4%A9%E6%B0%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>晚风中闪过，几帧从前啊</title>
+    <link href="https://silkiller.github.io/posts/641e1824.html"/>
+    <id>https://silkiller.github.io/posts/641e1824.html</id>
+    <published>2021-09-25T23:12:07.000Z</published>
+    <updated>2021-09-26T01:00:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这世界有那么多人<br>人群里 敞着一扇门<br>我迷朦的眼睛里长存<br>初见你 蓝色清晨<br>这世界有那么多人<br>多幸运 我有个我们<br>这悠长命运中的晨昏<br>常让我 望远方出神<br>灰树叶飘转在池塘<br>看飞机轰的一声去远乡<br>光阴的长廊 脚步声叫嚷<br>灯一亮 无人的空荡<br>晚风中闪过 几帧从前啊<br>飞驰中旋转 已不见了吗<br>远光中走来 你一身晴朗<br>身旁那么多人 可世界不声 不响</p><span id="more"></span><p>&emsp;&emsp;一周后，我们还是分手了。当真正面临分开时，当听到你说“这是我们最后一次通话了”，当听到你说“在国外一切平安”时，眼泪还是止不住流下来。一起经历了三年多，中间虽然也说过分手，还不止一次，但都会神奇般地和好，然后感情进一步加深。但这一次，你我都知道，再也回不去了。看着视频中那个曾经最熟悉的面孔，看着熟悉的背景，伤心止不住，眼泪也止不住。还爱嘛，爱；舍得嘛，舍不得；有未来嘛，未来虚无缥缈……舍不得挂断电话，生怕挂断电话就成了永远的告别，于是一次次延长，延长到抽泣变成嚎啕大哭，反而是我主动挂断了电话。<br>&emsp;&emsp;2017年第一次认识。当时只是因为我们俩同时考一个学校，一个学校的研究生，开始互相鼓励，互相帮助，还记得你找我要管理学的资料，我一口气给你拍了好多照片，我当时就这么热情啊，或许是被另外一个有梦想的女生所打动。后来考研结束，你问我跨年穿什么衣服合适去蹦迪，我跨年去北京跟喜欢的女孩告别，你给我出谋划策。再后来，考研成绩出来，你没考好，唯一的名额被我霸占。再后来，2018.5.5下午，跟曾博隆一起在外面吃虾，那是一个黄昏的时刻，我们俩微信聊着聊着说要不我们俩试试看。再到毕业，别人的旅行都是天南海北，我的旅行便是朝向你的方向。出发前的一个晚上，我待在学校破烂的宿舍里，畅想第二天见到你的样子。好不容易到了天津，那天来接我的你迟到了，迟到得将将好，好让我在脑海里描绘了好多你的样子，实际比所有想象的样子都美，我忍不住抱了你。回熙景园的路上，我一直盯着你看，好不容易到了家，去吃吴鑫顺，洗完澡，第一次不那么成功，但晚上就连续来了好几次。青春的荷尔蒙和初见面的惊喜一起，组成了我2018年夏天最美好的样子。我们做爱，做饭，陪你上下班，幸福的样子就是陌生人也能感受到。<br>&emsp;&emsp;快乐的日子总是短暂，我暑假回家了。八月份，我们又再聚首，给你布置生日的房间，准备生日礼物，一起和羊妈吃火锅，一起许下生日愿望，然后再离开，从此开启了长达一年时间的异地恋。10月份你来武汉，准备好花去接你；十一月份，我去天津，稀里糊涂去了周邓纪念馆，只留下一张照片。十二月份，你再来武汉，我们一起去听新年音乐会，在便利店吃东西，雕像上的心型雪铭刻着爱情的模样。一起在梅操看电影，一起在东湖的迷宫般的巷子穿行，在鱼虾乐吃最好吃的烤面筋。5月，你搬来了武汉。虽然开始有些担心，接你回去的出租车上，紧握你的手却一直没有放开。我们开始了没羞没臊的同居生活，学习的压力让我狠下心搬回宿舍，我们开始每周末见面，那段时间没有那么快乐，记忆中都是周末的离别。十月，我们去了杭州，苏州，上海，杭州的老友相聚，第一次知道原来在一起久了还能这么甜蜜竟然是一件不正常的事情；苏州的城楼，小桥流水，第一次喝到7分甜；上海的拥挤人流，五星级的酒店；一晃2019年又快结束了，因为坊间流传的新冠疫情，跨年夜我们就在家里度过，然后成功在武汉封城之前一起离开了武汉，又开始了长达3个月的分别。<br>&emsp;&emsp;进入2020年，时间都变得紧张起来，投稿的论文进行修改阶段，托福考试一再延期，每天都活在焦躁之中，自然也就冷落了你。好在我们终于再见面了，我们开始一起做饭，也就是这段时间，我们做遍了各类菜式，大厨的名号也逐渐转移到我这里。一起去逛武汉周边，一起去逛街，然后我开始了高强度的PhD申请阶段。准备托福的那段时间，我早出晚归，晚上回来就能见到你的感觉真好。有一次鞋子坏了，你大老远给我送鞋子过来，我们晚上一起骑自行车回家，真想让时间停在那一刻。2020年的跨年，我们依旧还在家里过，我们自己手写春联，贴福娃，在楼下放烟花，像两个小孩，那一刻我也好希望时间停下来。<br>&emsp;&emsp;2021就像一个倒计时。随着申请逐渐确定，我们也有更多时间一起出去玩玩，咸宁的温泉，武功山的山路十八弯好像还是昨天，出国的日期确定，我回家，办各类手续，时间好像一转眼就到了出国前。出发前一晚，你忍不住在我怀里哭了，积累的情绪一下释放出来，我心里也很难受。<br>&emsp;&emsp;总结来看，2018年是最快乐无忧无虑的一年，刚开始在一起，我们毫无忧虑地奔赴对方，后来便开始有了这样或那样的顾虑，加上学业的紧张，一段时间一度认为感情是负担，不管怎么说，总算一路走过来了。中间经历了好几次大的吵架，2018年我到学校之后的吵架，2019年支付宝合种树的吵架，2020关于未来的吵架，以及中间无数小的吵架，不管怎么吵架，只要我们开始说话，那么对话的尽头则一定是和好，每一次吵完，感情总能更进一步，三年时间，已经像是共同生活过十几年的老夫老妻了。进入2021年之后，我们甚至没有一次大的争吵，我们太熟悉彼此了，知道对方在耍脾气也能清晰地感知到然后相应做出让步。而出国打乱了一切安排，5年的时间足以改变一个人。来到异国他乡之后，我没能守住，或许也是知道未来不可期，我放任了自己，或许也是不想耽误你，我选择了坦白。跟你坦白的那天晚上，失恋的感觉包裹着我，难受了很久。<br>&emsp;&emsp;今天，我们分开了。从一段感情中抽离注定需要很久，对不起。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这世界有那么多人&lt;br&gt;人群里 敞着一扇门&lt;br&gt;我迷朦的眼睛里长存&lt;br&gt;初见你 蓝色清晨&lt;br&gt;这世界有那么多人&lt;br&gt;多幸运 我有个我们&lt;br&gt;这悠长命运中的晨昏&lt;br&gt;常让我 望远方出神&lt;br&gt;灰树叶飘转在池塘&lt;br&gt;看飞机轰的一声去远乡&lt;br&gt;光阴的长廊 脚步声叫嚷&lt;br&gt;灯一亮 无人的空荡&lt;br&gt;晚风中闪过 几帧从前啊&lt;br&gt;飞驰中旋转 已不见了吗&lt;br&gt;远光中走来 你一身晴朗&lt;br&gt;身旁那么多人 可世界不声 不响&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="分手" scheme="https://silkiller.github.io/tags/%E5%88%86%E6%89%8B/"/>
+    
+    <category term="爱情" scheme="https://silkiller.github.io/tags/%E7%88%B1%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Say-Something</title>
+    <link href="https://silkiller.github.io/posts/5a2d7eba.html"/>
+    <id>https://silkiller.github.io/posts/5a2d7eba.html</id>
+    <published>2021-09-20T08:44:14.000Z</published>
+    <updated>2021-09-26T01:00:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="a36b042a1866be785af3c3c95f1a6e9f1cb094f702681b2c53a769860a3e0b54">f93873ba22b46f83688175ee13567c87de2741c2ec9a1214bbc76a9afdaa6ec9bc0af9d50adb921743926380e3514917576e24c09763812aa8318045c91f234d3f19f1422ce5dc9d6fac85f8865dd260ebf8b18579dfe833e19a2c164ddf6e0078b2724fb7f91e2495e0de6347d85e1a7e770cccf7222b4878d80bc1c245a3d8a4a7212a2e72ccb2a55b293b0d8812b5392b030b7b32c88abff67faf95c705cdedf10b043f15f0a59506bfbcb6a4ee7f6ef08556f71bd897fce697aa112b51341439acce48f19011791242b898ea134c28ba8c17095f13a8905e0177fa15bf0616abf6dde6319713e7a43be657dd6cf8951ff54bffe963110c407044044d305fa5b4d56d0ebd0c3103a7e5d4d8923055925c8fb6f69b43f4e2ef8bfc070e056298fc416d3743494505086ad65ad4f4faf39eee6a4824bc73644d98938c0ae3db0bef47b5f2e73407a84172b34a277be68eb8c17f02c0c083cccf8ad461c9cf5dcd6da5cb32f7560e78a600c1452de28dd89b0483b2e05b71965d88dea3f1db4f1980f2999248e5a3c9e2c82f91016bbc08de632ae40f63a3aea34601c54ff186df7756d5cbebc40e738b4c84a6517d4a8db613ed7ad40c9905676845f3f861e37d07fa46ea494f8b2540551544a5ab755bbd1b5d7da5016b3e3f1d26769c94412554154fda3abb40416ba3e4b548b515375a57cec646d7e43a2f1070928c88881f46cbd70b97e5de45b492bafa991bc8c6f1a8ce5e96c36bdaeb9b0e1c13b7a8a6863cfe3530f0160c1a12e3c444fe7c9796036eed4b104ee34d0669470aea108a5fb99f6e4f6a312d2affc5eafc97af03c0b8f6829d87597b69f064fdacc495822c884753e00b7395d8539adb15701e2f3078ee4de2b2af9a71a9c586a8f2e479b793a40b4f5be8848b9ab439a6d0af95c5834b04ec83ae2eca5d2eec652d11658bb820fc73f4ab5eff3e2092ec96b4dc99b911fde918057afdb24a54b203cf1fd4ae4114bf49c12531cf48248a3940de9a20e71bc55afe6f68b6bf896705d49d5b34062d1502a6d6bddba628089def9d6ecb2c811c6ceda2c2c5a64db5bf2e2d15b7b25505d04858401efb272ea3d7a6f94013a6b9cef3fa6e8573202b5a5f4ba47c9ac46f37bca4c2ca1ccd05dd2cdb7ad5d58cae3df2324f873b74a8c51764f3b6bbacfd80c2734635446e19610cc61891a082b2cbf253ecdf152cf4a056f7e2bc99d6a59684e3cd3e62ade2c8d21ad5023a9f06eb4b3e3b044284bb5761473f624a1474c83708bf9c2b57ee54a31be2050bdcd4f84bf28618337535160ee804ef0c1eb14f145620e847d4503ed2e89f8eef3d3e1023276c13c9df99f24089b862b3225bb6ea8be920db52a6f026c933c1c04d790d2625b1022f576ffb0324be9e78e7357ef82b121724d454789705e4d8701070c852509b78348eaa091fa4a755d7229ae5db2b21e193be8eb335c568c1c23e6a168c3c4b8deaba3ea2116fafa92370c2e1ecc6e4a68004e4658ba1bef89003b319bfa3a213f245a16598df48d2908185ec00d6ee70250f317077d30a187c4b44bd6046092425ac7f841b37f2f7a45a018b2e12480de918b484266f8f2b52cc65a97c0f778aafb1f7691abb677217c6a9291c9a81de412e14c6f8ce6e7bc279aa99d4745d3ff43f46a846e029458af6cf58671a199f464cb0f26df9612f3122bcb0832b63dd57d73e23b1c20a4663a2440840c41dc230648960e2647b7c88c82904b65d2137b57f6919e78cd8864243ed8b2eee156df163ef5d3e7c73616cd8d820eefe04be6267600565e97c4f6001b93b3ef07bef446263c96f3eda7e39dee9117b2e66c36ce4e3c7e5e27575731b8da94d2be2659fc3a4b1ce1611abc512397662ac64c906da7f8696917514f1526ddc829cfd76a275c35487774a6eb965e24196b52676b94c1b9baae6c40ac3089a2acf5ce1f184674c6be0b94791ea7c739c45f379a3b1be3f5bed2d1003b38cba03a39cbec71078367fffba0a58a6ebe1f1f5aed5c08904969d746015800ff2ef3cda14dc9b0042763751</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="emotion" scheme="https://silkiller.github.io/tags/emotion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rotterdam</title>
+    <link href="https://silkiller.github.io/posts/ab2dc073.html"/>
+    <id>https://silkiller.github.io/posts/ab2dc073.html</id>
+    <published>2021-09-09T22:55:34.000Z</published>
+    <updated>2021-09-17T23:37:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;2021年8月25日下午四点到达Schiphol机场，到2021年9月10日晚上8点43分写这篇Blog，时间已经过去超过2周。回想过去的两周，除了感叹时间过得太快外，另外一个重要的感受便是：我好像本来就属于这里，只是重新回到熟悉的地方。几乎没有太多的适应时间，开始去买菜，去学校，去逛Center。</p><span id="more"></span><p>&emsp;&emsp;适应得很快的优点是可以更快地用更好的状态去面对新的生活，缺点是好像在这里待了很久而一些情绪也渐渐涌上心头。来学校之后见了很多人，有同一届的phd，也有faculty member，还有中国的同学，虽然自己以前不曾过多social，来了之后却也很快进入了角色，反而看起来有些健谈。但性格里固定的东西，时间久了还是会显露出来，这不，从这几天开始，便有些不自觉地想逃避了。想让自己的生活简单点，更多地专注在学术上。<br>——2021.9.18——<br>&emsp;&emsp;没想到一篇博客这么难产，9.10硬是啥也没憋出来。又过去了一周，想说的话也更多了，今天应该可以把这篇博客写完。  </p><p><strong>来到鹿特丹之后，和我在国内的想象一致吗？</strong>  </p><p>&emsp;&emsp;就在刚刚，原本准备用工作电脑更新完这条博客，因为软件和操作习惯的缘故，又重新换回了我的LG gram。来到鹿特丹之后，很多事情也是如此。订购的工作电脑虽然是性能强大的移动工作站，但是有诸多限制，不能独立安装软件和浏览器插件，不能登录个人账号，曾经试图在工作电脑上安装网页版本各类软件，比如网页版本的微信，WhatsApp，OneDrive，notion等，算是勉强实现了各项功能，但是时间久了还是不习惯，索性删掉这些，让工作电脑更加纯粹。我的gram虽然已“三岁高龄”，使用起来却依然很顺手，用来看看剧，更新博客，聊微信非常好用。所以工作是工作，生活是生活，两者不能混为一谈。<br>&emsp;&emsp;来之前知道CSC会有诸多限制，但是万万没想到限制有这么多——和学校不是雇佣关系，不能享受学校的一些福利；每个月的收入只能勉强生活；发的CSC银行卡在很多地方无法使用……也因此最近有一些失落感。印象最深刻的是，有一天在办公室，同办公室的同事对一个open position的phd说，你可以找秘书订购monitor，我问我可不可以，他说这个你没有。当时就感觉很失望，整个人跟泄了劲一样。不管怎么说，能申请到CSC的人，在国内都是人中龙凤了，大部分都是出自985高校，我也不是没有open position的offer，为什么会有这种待遇呢？转念一想，也释然了（虽然花了一些时间才想通），我们和学校不是雇佣关系，自然没有那么尽心尽力。更重要的是，我是冲着Daan来的，冲着这个世界顶尖的做team diversity研究的团队来的，而不是冲着钱来的，够用就行一直是我的money哲学，所以倒也不必想太多。钱少也是件好事，没啥闲钱去过“奢靡”的生活，反而更加专注在学术和其他更重要的事情上。<br>&emsp;&emsp;知道欧洲这边的博士是雇佣制，真正感受起来也和想象的大不相同。Phd candidate是学校的雇员，有专门的秘书服务我们，每个人都有办公室，虽然目前是flexible room，但也算有个自己的窝。同事之间，不管是associate professor，系主任，还是phd candidate，大家交流没有所谓的头衔和地位，完全平等，这一点也让我颇为享受。在工作上，以结果为导向，过程倒没有太多人关心，不来办公室也没人去催你，只要完成相应的任务就好。平常中午约着一起吃饭，周末约着一起喝喝酒聊天，在这里，工作并不是生活的全部，工作是为了更好地生活。说到社交，刚开始会想着尽可能地认识人，参加这些social events，现在却更加想专注在自己地事情上，有些无意义的social可以尽量避免，毕竟people don’t Judge，做好自己更加重要。<br>&emsp;&emsp;费尽心思租的房子，以为可以安心住一年，住了一段时间才发现和想象中并不完全相同。房间没有25平米那么大，但因为并没有写到合同上，也不好和房东argue，这点就算了。最难以忍受的是，房东的强迫症过于严重，因为厨房有个地方没擦干净，多次叫我出来，洗澡间的水，洗完要拖干净；房间的窗户没关好，也跟我强调；而且每周还要轮流打扫卫生，做到“无灰尘”。忍无可忍之下，又开始了新一轮的H2S抽签，想着哪天就能搬出去，哪怕付违约金也值了。还是一个人住更加舒服一些，可以稍微布置一下自己的房间，可以每天下班回家就能畅快地躺在床上发出呻吟，可以做完饭过一会儿再洗碗而不必担心有人责怪……希望自己的运气更加好一些吧。<br>&emsp;&emsp;情感上，经过了一段时间的新鲜感，现在也逐渐开始有些emotional。出国之前憧憬满满，觉得自己不会被感情所牵绊，不会情绪化，现在也有些想念，要是女朋友在身边多好啊。但转头一想，5年是多么漫长啊，所处疫情时代，回国不易，见面更难，未来又在何方？曾经那么坚定的自己，也觉得有些不确定了。这几天人也有些depressed，做什么都提不起精神，连续两天没有看paper。<br>&emsp;&emsp;总的来说，一切并不是和脑海中建构的图景一一模一样，但总的方向仍然是积极的，开始走上正轨，开始熟悉新的生活。生活嘛，总是有好有坏，no judge，no comparison，做好自己就行了，尽人事，结果如何自有评说。  </p><p><strong>PhD应该达到什么样的工作状态？</strong><br>&emsp;&emsp;这是我一直很想静下心来思考的一个问题。从research master到Phd candidate，身份转变的同时，工作的性质和强度等等都会完全不同。虽然我自认为自己的硕士阶段已经够努力够辛苦了，但从大佬们的言行中仍然觉得自己做的远远不够，不谈工作效率，首先在工作时间上就不达标。<br>&emsp;&emsp;<strong><em>博士应该达到什么样的工作时间？</em></strong>早上9点到晚上11，12点应该是常态，每天工作至少10小时，周六日可以休息半天。以自己的实际情况来说，周一到周五，上午9点到办公室，下午5，6点下班离开，回家做饭洗澡，休息一会儿，晚上9点到12点应该继续工作，这样计算下来，工作时间也能达到10-11个小时，保证每天7个小时睡眠的同时，早上可以适当早起出去跑跑步。周六可以休息一上午，周日继续在家办公，或者去学校图书馆。工作时间有保证，才会有output的产出，这一点很重要。<br>&emsp;&emsp;<strong><em>如何进行有效地学习？</em></strong>以我最近的经历来看，phd需要处理大量并行的工作，meeting，seminar，course，assignment，lecture，conference，Research desigh，data collecting，paper revision等等，如果没有一个很好的计划，则每天都是手忙脚乱的，在忙中失去了任务的重心，失去专注和可持续的力量。一个比较可行的办法是，用outlook的日历进行任务的记录，然后每天用sticky note明确一天要完成的任务，按照时间段划分，任务一旦确定，则必须不择不扣地完成。<br>如何<br>&emsp;&emsp;<strong><em>如何产生高质量的成果？</em></strong>phd是要成为某一个领域的专家的，这就要求对该领域有非常透彻的理解，对经典的前沿的研究有着很好的掌握。在文献上，跟踪top tier journals，了解最新研究动态，多参加conference和lecture，熟悉本领域的常用研究方法和理论。多跟导师和其他学者进行交流探讨……<br>&emsp;&emsp;<strong><em>如何做好工作-生活平衡？</em></strong>工作很重要，但并不是生活的全部，运动保持身体健康，放松娱乐保持心理健康都是必不可少的，也是必须和工作放在同等位置的。一周跑三次步，周六休息半天或者一天，出去逛逛街，买买东西等，和同事聊聊天等等。  </p><p>&emsp;&emsp;一写就停不下来，写了2个小时，刚刚心跳突然蹦到124，手环还给我报了一次警，早点休息，明天早上去跑跑步，调整调整状态，迎接新的挑战吧！加油！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;2021年8月25日下午四点到达Schiphol机场，到2021年9月10日晚上8点43分写这篇Blog，时间已经过去超过2周。回想过去的两周，除了感叹时间过得太快外，另外一个重要的感受便是：我好像本来就属于这里，只是重新回到熟悉的地方。几乎没有太多的适应时间，开始去买菜，去学校，去逛Center。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="Rotterdam" scheme="https://silkiller.github.io/tags/Rotterdam/"/>
+    
+    <category term="PhD Journey" scheme="https://silkiller.github.io/tags/PhD-Journey/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Predeparture</title>
+    <link href="https://silkiller.github.io/posts/75ce6aba.html"/>
+    <id>https://silkiller.github.io/posts/75ce6aba.html</id>
+    <published>2021-07-20T13:02:31.000Z</published>
+    <updated>2021-09-09T22:34:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>八月将近，七月已进入倒计时，玩了差不多小一个月，也差不多该收收心，准备准备去荷兰前的事宜了。</p><span id="more"></span><p>首先是学术上，要开始熟悉team diversity的文章和相应的研究方法，实验研究的开展等等，并在这个阶段思考有潜力的研究问题（EL与team diversity的结合），有价值的题目可以试着写写proposal；要提升其他基础性的学术技能，比如Youtube上的Mplus教程，要熟悉相应的研究方法（管理研究方法的书-原理），利用手头的数据进行训练；Summer Vacation的文章等等，乃至于之前听过的讲座等等，利用这段时间好好梳理学习；建立一套跟踪顶刊paper的习惯，并持续到博士阶段；写作上，持续训练，读完How to write a lot 这本书，和实际学术写作结合起来。<br>其次是，去荷兰前的准备工作。各类手续的办理工作，要加紧加快进行，目前还未办理的有：出生证明，出生证公证和双认证；签证的办理；机票的预订；去荷兰需要携带的行李物品清单；最最关键的是荷兰的租房要尽快确定下来！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;八月将近，七月已进入倒计时，玩了差不多小一个月，也差不多该收收心，准备准备去荷兰前的事宜了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="行前准备" scheme="https://silkiller.github.io/tags/%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87/"/>
+    
+    <category term="荷兰" scheme="https://silkiller.github.io/tags/%E8%8D%B7%E5%85%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>漫咖啡轶事一则</title>
+    <link href="https://silkiller.github.io/posts/791a2e05.html"/>
+    <id>https://silkiller.github.io/posts/791a2e05.html</id>
+    <published>2021-07-20T12:57:30.000Z</published>
+    <updated>2021-09-09T22:34:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>5月份在漫咖啡遇到一位朋友，聊得很不错，特此记录。</p><span id="more"></span><p>人生的际遇真是奇妙，在咖啡馆遇见的黑大叔（看着像小哥）竟然和我有这么多相同之处。事情是这样，因为厌倦图书馆的无聊，选择去咖啡馆自习，在漫咖啡找座位的时候，一个小哥朝我打招呼，朝我球衣问我是不是利物浦球迷，然后就大方做他对面了，就这样我们从利物浦聊起：Klopp的baby crying，Vigril的受伤；阿森纳的悲惨赛季，蒂尔尼和萝卜的铁血和不知疲倦，阿尔塔特的帅位危机（他是阿森纳球迷），第一次知道非洲还有塞舌尔这个国家，第一次知道塞舌尔的美丽海滩，我们都喜欢足球，而他竟然是前职业球员，在塞舌尔的顶级联赛效力！我们都做研究，他研究金融，在中南民大读phd，我9月即将赴荷兰读phd，他下周27答辩，我也一样。我们都热爱运动，马拉松，骑行，登山，远足，但我们也同时不会游泳，我虽然一直想学但都以失败告终，而他准备报班继续学习，真是奇妙。我们都热爱电影和美剧，从美剧的The bigbang theory，friends，Prison Break，Breaking Bad，Better call Saul，到电影的Avatar，The lord of rings，简直没有沟通障碍，amazing Afternoon！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;5月份在漫咖啡遇到一位朋友，聊得很不错，特此记录。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="漫咖啡" scheme="https://silkiller.github.io/tags/%E6%BC%AB%E5%92%96%E5%95%A1/"/>
+    
+    <category term="偶遇" scheme="https://silkiller.github.io/tags/%E5%81%B6%E9%81%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>硕士论文致谢</title>
+    <link href="https://silkiller.github.io/posts/6c1310a1.html"/>
+    <id>https://silkiller.github.io/posts/6c1310a1.html</id>
+    <published>2021-05-29T10:06:45.000Z</published>
+    <updated>2021-05-29T04:14:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;年年岁岁花相似,岁岁年年人不同。在珞珈山的三年，是我人生最难忘的一个三年。还记得研究生复试的那天，樱花盛放，游人纷至沓来，被录取的喜悦和着初春的雨在我脸上写满了志得意满。三年后，樱花如期而至，当年那个在樱花树下留下期许的我即将毕业，即将飞赴异国他乡，开始新的征程。临别之际，回首往事，唏嘘不已。  </p><span id="more"></span>  <p>&emsp;&emsp;这一路走来，收获了太多人的帮助和祝福，首先感谢我的导师涂乙冬老师。俗话说“师父领进门，修行在个人”，言虽如此，涂老师却一直不忘鞭策我，鼓励我，高标准地要求我，给予我尽可能多的锻炼机会，让我在研究起始阶段，就有了很好的视野和见识。在论文写作过程中，涂老师的严谨和专业也让我获益匪浅，为我以后的研究生涯打下坚实的基础。至于涂老师给我职业生涯的指引，告诉我的简单而朴素的道理，自是不必言说，早已深深烙印在心底。我还要感谢刘艳老师。她虽不是我的导师，但她对研究的热情和热忱深深打动了我，她所教授的《文献选读课》让我印象深刻，收获满满。此外，刘艳老师作为我博士申请的推荐人，在我申请阶段也给予了我莫大的帮助。有句话说得好：“常怀感恩之心，常念相助之人”，我非常感谢刘艳老师。<br>&emsp;&emsp;感谢预答辩和正式答辩中，给我提出许多宝贵意见的老师们，他们是李燕萍老师、李锡元老师、杜旌老师、陶厚永老师、张三保老师、叶晓倩老师、吴欢伟老师、陈建安老师，感谢他们让我的论文更加完善。也感谢工商管理系的每一位老师，你们传授给我的知识是我日后取之不尽的宝藏和源泉。还要感谢武汉大学的领导老师们，在你们的悉心关怀和指导下，我能够坚定地朝着选定的方向前进。<br>&emsp;&emsp;感谢同门的师姐师妹和师弟：李地婉、张阳美、张颖、赵彤彤、周鑫垚、范亚军，他们一起组成了我研究生生活的大部分。我们一起讨论研究模型、一起粘贴分发问卷、一起吃饭、甚至在一些研究问题上“针锋相对”，他们让我看到了优秀的另一种表达方式，而在这个过程中，我也学到很多。<br>&emsp;&emsp;感谢我的室友们，苏羽，田迪和周海波，他们三个虽然和我来自不同的专业，我们却从未缺少交流。三环天台的夜谈，时不时的聚餐，我们彼此理解彼此支持，460寝室成为研究生生涯的重要注脚。感谢人力资源管理和企业管理的同学们，感谢他们陪伴着一起走过研究生阶段，祝愿你们都能达成所愿。<br>&emsp;&emsp;最后，我要感谢我的家人和女朋友。在他们面前，我可以不用故作坚强，可以重新做回小孩。在我感到十分焦虑和痛苦时，他们永远无条件地鼓励我，支持我；在我迷茫踌躇不知所措时，指引我，我感到由衷的幸福和满足。<br>&emsp;&emsp;硕士毕业，是一个阶段的结束，也是新的阶段的开始。当我以当下的目光回首往事时，总会感慨在人生几个关键的路口，有人给我指引方向，让我不至于迷失。“自助者天助之”，有贵人相助还需自己更加努力。在过去无数个焦虑的日子，由衷地感谢自己没有放弃，坚持了下来，才得以看见最后的曙光。感谢自己过去三年甚至更久的努力，是这些过往的经历铸就了现在的我，让我可以在毕业之际大声说一句，无悔矣！毕业后，新的旅程即将启航，我能够去梦想的地方，师从梦幻般的导师继续攻读PhD，这是多么幸运！我也深知学术道路的艰难，需要付出百倍的努力和汗水，但既然已笃定这条道路，当不负当下，不负过往，坚守初心，以武大人的标准要求自己，走出一个灿烂的人生。  </p><blockquote><p>（全文摘自硕士论文致谢）</p></blockquote>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;年年岁岁花相似,岁岁年年人不同。在珞珈山的三年，是我人生最难忘的一个三年。还记得研究生复试的那天，樱花盛放，游人纷至沓来，被录取的喜悦和着初春的雨在我脸上写满了志得意满。三年后，樱花如期而至，当年那个在樱花树下留下期许的我即将毕业，即将飞赴异国他乡，开始新的征程。临别之际，回首往事，唏嘘不已。  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="毕业论文" scheme="https://silkiller.github.io/tags/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/"/>
+    
+    <category term="致谢" scheme="https://silkiller.github.io/tags/%E8%87%B4%E8%B0%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Farewell_WuhanUniv</title>
+    <link href="https://silkiller.github.io/posts/b192c3cb.html"/>
+    <id>https://silkiller.github.io/posts/b192c3cb.html</id>
+    <published>2021-05-28T14:47:46.000Z</published>
+    <updated>2021-05-29T04:14:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;2021年5月27日下午5点半，答辩正式结束。</p><span id="more"></span><p>&emsp;&emsp;在答辩主席宣布票数的那一刻，尽管还没有拍摄毕业照，还没有在912操场被拨穗，还没有跟每个同学认真告别，我的研究生生涯依旧算是结束了。也是因为如此，在班级聚餐的桌上，当毕业快乐的祝酒词响起时，每个人都显得情绪激动。曾经三年没见过几面的同学，在毕业的共识下，也像多年不见的好友；就连隔壁桌的遥感院的领导老师和同学们，也加入我们，和我们一起庆祝。觥筹交错，酒过三巡，忘乎所以。“炸掉遥感院，人均捐一个亿”，此类言语倒显得再正常不过了。平常被压抑的精神和心理，在毕业的快乐之下猛地释放出来，每个人都醉了。我也醉了，但不是生理上的，而是情绪上的。说来也奇怪，平常酒量很小的我，昨晚却一直在寻着酒喝，好似怎么喝也喝不醉。<br>&emsp;&emsp;在那瞬间，脑海里回忆起了很多事情，本科毕业聚餐；那些不甘而痛苦的回忆，那些骄傲而畅快的回忆，那些这样的那样的回忆，一一涌上心头。聚餐之后，又去唱歌，唱梁博，新裤子，将所有的情绪再从胸膛里，喉咙里释放出来，完成一个循环。凌晨结束，骑着小车回家，泡脚睡觉，然后一觉醒来，昨天发生的一切都渐渐远去，好似没有发生过。<br>&emsp;&emsp;新的一天，坐在最近常常待的漫咖啡，整理整理资料，写写博客，我真实地感受到时间的流逝。我好像已经想到了一个月后的毕业典礼，三个月后的飞往荷兰的航班，4年后的博士毕业……突然有种人生苦短的感慨。博士申请已经告一段落，只等官方最后的大红奖状，事情也将按部就班下去，所有困难和挑战也将如以往一样顺利通过，当我在以后某个时刻回顾现在这个时刻时，一定也会像我现在一样感慨良多吧。<br>&emsp;&emsp;Farewell，Wuhan University. Farewell, my friends.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;2021年5月27日下午5点半，答辩正式结束。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="毕业答辩" scheme="https://silkiller.github.io/tags/%E6%AF%95%E4%B8%9A%E7%AD%94%E8%BE%A9/"/>
+    
+    <category term="聚餐" scheme="https://silkiller.github.io/tags/%E8%81%9A%E9%A4%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大石头落下</title>
+    <link href="https://silkiller.github.io/posts/741acfdd.html"/>
+    <id>https://silkiller.github.io/posts/741acfdd.html</id>
+    <published>2021-05-20T14:34:14.000Z</published>
+    <updated>2021-05-20T09:14:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;今天是5月20号，又一商家造出来的节日，但你我都无法免俗，该过还得过。不过跟以往不同的是，这次提前到了昨天，5.19。看了一直没看的指环王，还是挑的IMAX和最好看的第三部，一切都是最好的安排。一直想要但觉得没必要的罗技master2s鼠标随着某珍充电盒的意外丢失而找到了购买的借口。更让我惊喜和意外的就是在地铁站，收到了来自Selano的邮件，邮件中，她告诉我了CSC的结果，我已经成功获得CSC资助，将在今年9月份远赴荷兰求学。 </p><span id="more"></span><p>&emsp;&emsp;Selano的邮件写得特别好： </p><blockquote><p>Dear Yongkang,  </p><p>I am fine, hoping that all is fine with you too.  </p><p>It’s nice to read your email now and I just realised that I forgot to reply your email on April 20. Well, life always bring us more than we can expect, both positive and negative sides, in your case, it has turned out to be the good one :)  </p><p>We just received the preliminary list of applicants who received the funds from CSC, YOU ARE IN. So if you wish to continue the project, we will confirm your name now with CSC before they make final announcement.  </p><p>How does that sound to you?</p><p>Best regards/Met vriendelijke groet  </p></blockquote><p>&emsp;&emsp;生活就是这样，有好有坏，你无法预知和改变，我们只能把人的因素能控制到的范围控制到完美，其余的就听天命吧。在接到NTU的offer时，当时的心态的确太过于想要追求完满了，什么都想要，什么都想做好最好，但事实却不可能。好在和Daan的会面让我重新坚定了RSM，好在我的negative feeling指引我做出了正确的选择。现在想来，也只能说，一切都是最好的安排了，当你做到了90分甚至100分，你很难只在考场上考出60分，当你做到了人力所能尽到的一切，何愁结果会不如意呢？当然，偶尔的失误和客观的因素会阻碍我们达到我们想要的目的，至少，大方向是对的，大的趋势是对的，我们没有走错路，这是最重要的。<br>&emsp;&emsp;回顾来看，漫长的申请季，从去年疫情始，到今年520，总算有了一个满意的结果，申请了香港5所（HKU,CUHK,HKUST,cityU,PolyU），新加坡3所(SMU,NUS,NTU)，欧洲1所(EUR-RSM)，北美4所(UBC,UIC,USC,Temple)，大陆1所(PekingU)，一共14所，拿到了HKU，NTU，RSM，UIC，PekingU的面试，收到了NTU和RSM的offer。比例还算ok，如果申请的数量更多，说不定还会有更好地结果。Anyway，最好的结果就是现在的结果，不必强求。<br>&emsp;&emsp;现在毕业已经进入倒计时，27号答辩，估计6月初就会进行毕业典礼，硕士研究生的阶段正式结束，将开始新的征程。答辩前还需要做的事情有，改毕业论文，做答辩的PPT（可以尝试用Overleaf的beamer做ppt），填写答辩的一切材料，修改JOHS的论文，写response letter，静待毕业吧！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;今天是5月20号，又一商家造出来的节日，但你我都无法免俗，该过还得过。不过跟以往不同的是，这次提前到了昨天，5.19。看了一直没看的指环王，还是挑的IMAX和最好看的第三部，一切都是最好的安排。一直想要但觉得没必要的罗技master2s鼠标随着某珍充电盒的意外丢失而找到了购买的借口。更让我惊喜和意外的就是在地铁站，收到了来自Selano的邮件，邮件中，她告诉我了CSC的结果，我已经成功获得CSC资助，将在今年9月份远赴荷兰求学。 &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="CSC" scheme="https://silkiller.github.io/tags/CSC/"/>
+    
+    <category term="毕业" scheme="https://silkiller.github.io/tags/%E6%AF%95%E4%B8%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>五一前后大事记</title>
+    <link href="https://silkiller.github.io/posts/b6ed0330.html"/>
+    <id>https://silkiller.github.io/posts/b6ed0330.html</id>
+    <published>2021-05-06T07:33:55.000Z</published>
+    <updated>2021-05-20T09:14:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>五一前后发生了太多事情，记录一下过去，展望一下未来。</p><span id="more"></span><p>&emsp;&emsp;把时钟往回拨到五一前半个月，在决定五一去哪儿之前，突然收到了来自NTU的offer，一个让我及其纠结的offer。从感情上和实力上说，NTU都比不上RSM；但从现实角度考虑，NTU似乎又是一个及其正确的选择。在搜寻资料，与老师和朋友交流之后，还是决定选择NTU，拒绝RSM，结果RSM比我想象中更想要我。在几番邮件沟通和ZOOM沟通之后，成功将我拉回到原本的轨道上。颇费了一番功夫，写了一封言辞恳切的拒绝信给NTU，此事才算告一段落。<br>&emsp;&emsp;这件事现在写出来，似乎是一件很容易做出的决定，现在想来，当时的心态有些过份患得患失了。从来RSM都是我的first choice， 从第一次看到RSM的商学院排名，荷兰第一，全球前三十开始，荷兰便在我心中埋下了第一颗种子。后来机缘巧合面试RSM，与JIA和ANNE聊天，一面，二面，最后收到正式offer，对RSM的渴望便开始在心里疯长。一直到过年，与小伙伴交流，跟亲戚朋友小小透露，荷兰似乎已经理所当然成为了我的最终去向。我开始关注RSM的ins，开始关注微信微博，心理上已经做好了万全的准备。NTU的黑天鹅事件，就像一捧甜蜜的糖果，让我忽视了以往我对RSM的依恋，而做出了错误的决定，好在Daan，JIA和Anne及时将我拉回来，让我遵循我的本心，也幸好答应NTU的时间不是很长，让我还有时间去反悔，错误不至于太大。总结来看，我太看重了一个offer的有无，但其实Offer的质量才是最重要的，导师才是最重要的，更何况导师还是成果颇丰，交流毫无障碍的大牛。我太想做出正确的决定了，过份理智淹没了一丝情绪的光芒，但正是这些时候，情绪可以指引我们做出正确的选择。我太想早点结束申请过程了，但这个时候也是最迷惑人最考验人的，一个不小心就万劫不复，人生轨迹改变，还是要一直保持谨慎和紧张。既然选定了RSM，哪怕五月底CSC的结果不是那么理想（内心有强烈的预感会成功），自费读一年也都接受，再申请CSC也接受！因为永远不要选择安逸，心理上的安逸往往导致坏的结果！<br>&emsp;&emsp;关于五一目的地，其实也纠结了很久。本来是准备去深圳然后面基Ramsey的，一想发现深圳还有学姐，还有同学，人情压力有点大，而且深圳也是高楼大厦的，实在提不起兴趣。后来又想去腾冲，无奈距离太远，机票太贵（主要是机票太贵）；后来又想过去青海，新疆，都有些不切实际了，大半时间都耗在路上，五一的小长假不允许我们这样挥霍。后来还是在哪儿看到江西的武功山不错，于是决定看看这个地方。一看不得了，高山，草甸，日出，帐篷，我们走驴友路线还没有人海，简直完美。<br>&emsp;&emsp;在做了万全的准备和充分的计划后，武功山之行取得圆满成功，期间也发生了太多精彩的故事。想要完整记叙下来很难，只从记忆中截取几个印象深刻的片段，努力还原当时的情境吧。  </p><h2 id="聚贤山庄"><a href="#聚贤山庄" class="headerlink" title="聚贤山庄"></a>聚贤山庄</h2><p>&emsp;&emsp;在到达龙山村后的第一时间，在村头进行了防疫登记，联系了客栈，他们答应派车来接我们。刚到龙山村，便被这里安静祥和的氛围打动，群山环绕，小桥流水，远处的竹林和近处的房子都在阳光下发出金色的光。  </p><p>（未完待续，有时间再慢慢补充）</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;五一前后发生了太多事情，记录一下过去，展望一下未来。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="RSM" scheme="https://silkiller.github.io/tags/RSM/"/>
+    
+    <category term="NTU" scheme="https://silkiller.github.io/tags/NTU/"/>
+    
+    <category term="CSC" scheme="https://silkiller.github.io/tags/CSC/"/>
+    
+    <category term="武功山" scheme="https://silkiller.github.io/tags/%E6%AD%A6%E5%8A%9F%E5%B1%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>8小时连续工作法</title>
+    <link href="https://silkiller.github.io/posts/1665d4b7.html"/>
+    <id>https://silkiller.github.io/posts/1665d4b7.html</id>
+    <published>2021-04-13T08:10:04.000Z</published>
+    <updated>2021-04-13T02:48:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;继上次更新“昼伏夜出”的学习方式后，因为各种原因还是没能坚持下来，毕竟跟常规的作息时间不一致，容易产生很多问题，简单来说就是不兼容，因此新的学习方式势在必行。因为巧合的原因，自己又总结出了这套“8小时连续工作法”。</p><span id="more"></span><p>&emsp;&emsp;原先常规的学习方法，有一个最大的弊病就是学习时间被分隔开，不能连续“作战”。比如，早上可能9点到图书馆，中午12点就得去吃饭了，一般中午还要咪一会儿，等到完全清醒，又到了下午2-3点了，下午到晚上也是如此，每个时间段的学习时间最长不超过4小时，如果正在进行很紧张的项目攻坚，则原先的学习方法完全不适用了。特别是在赶毕业论文的期间，每天需要工作10个小时以上，如果按照原先的学习方式，虽然名义上的学习时间够，但是实际操作下来，还是不能达到。因此，在琢磨之下，决定将午餐简化，从而上午和下午的时间可以连续。具体操作如下：<br>&emsp;&emsp;一般早上9点左右到图书馆，可能再晚点，一般9:30到图书馆，到图书馆之前，一定要吃早餐，而且要吃饱。中午12点，不再去挤食堂，而是在图书馆吃一个简单的三明治解决，辅以一杯咖啡，晚上的晚餐当成一天中最重要的一餐，一切照旧，晚上九十点的时候再补一餐，简单吃一点。  </p><blockquote><p><strong><em>优点</em></strong>：时间可以连续，从9点一直工作到下午5:30，中午只需要花费半小时吃饭；由于中午吃得少，中午也不会特别犯困，午休可以免掉。不会因为中午不饿而犯中午不知道吃什么的选择困难症，晚饭食欲大增。<br><strong><em>缺点</em></strong>: 下午3点左右会很饿，连续工作很累。  </p></blockquote><p>&emsp;&emsp;因此在现有的基础上，还需要对计划进行微调。首先就是早餐，原来早餐吃得较少，能量不足，加上中午又吃得比较简单，所以下午会特别饿。因此，改进早餐食谱（例如牛肉面，包子等），确保吃饱吃好。下午三四点可以简单吃一点零食垫肚子。 中午选择糖分稍少的咖啡，过甜的咖啡也会让人犯困，中午可以去晒晒太阳，出去走几步，舒缓身心，下午学习可以简单听听音乐，但时间不宜过长。<br>&emsp;&emsp;经过一段时间的试验，感觉还不错，并没有因为中午吃得少，而身体有任何异样，倒是晚上经常熬夜，导致早上很难起床，所以到图书馆的时间一再往后拖。在早餐时间上，一定确保在十点前吃早餐，最好是9点吃早饭。晚上也不要过分熬夜，一般在12点左右睡觉，如果因为看球时间太晚，第二天也一定保持充分的睡眠。每周运动几次，跑步为主。争取在毕业前可以跑一个半马。  </p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;继上次更新“昼伏夜出”的学习方式后，因为各种原因还是没能坚持下来，毕竟跟常规的作息时间不一致，容易产生很多问题，简单来说就是不兼容，因此新的学习方式势在必行。因为巧合的原因，自己又总结出了这套“8小时连续工作法”。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Life Experiment" scheme="https://silkiller.github.io/categories/Life-Experiment/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>毕业前夕</title>
+    <link href="https://silkiller.github.io/posts/b060639a.html"/>
+    <id>https://silkiller.github.io/posts/b060639a.html</id>
+    <published>2021-04-09T07:44:00.000Z</published>
+    <updated>2021-04-09T09:32:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;当时间进入到四月份之后，自己好像突然闲下来了，这种感觉很奇怪，平静却暗含紧张不安的氛围。有几件事情值得记录并思考。</p><span id="more"></span><p>&emsp;&emsp;时间往回拨到3月底，关于毕业论文，实在是苦不堪言。3月12是预答辩的时间，但毕业论文我直到预答辩的前一天才写完，虽然预答辩侥幸通过，并没有什么太大的问题，但后续工作仍然艰难。3.30是毕业论文提交查重和外审的DDL，在送外审之前，跟涂老师有过一次碰面，原本以为这次碰面之后论文便没有太大问题了，结果发给涂老师还是收到了极差的反馈。我是在送外审前一天发给他的，结果却收到了一个“major revision”！两个人之间的火药味也极浓，气得我还在ins上发了大段话。好在最后成功送审，查重也没有出现大问题，目前文章正处在评阅阶段。总结来说，我有过错，首先对毕业论文的重视程度不够，觉得只要能过了就行，没想到涂老师这么重视这个东西（我本应该想到的，他毕竟这么谨慎的一个人）；其次，也算是第一点的延伸，文章的确写的不怎么样。但涂老师就完全没错了吗？好像也不是。他没给我传递一个明确的毕业论文的信号，也没怎么催我论文的进展，倒是一直在催我写英文论文，英文论文的结果不好，发不了很好的期刊了，就不做了，对他没什么用，但是对我自己却是三年来的成果。其次就是，有时候太过严厉，把我的处境放在任何一个人身上，恐怕他们都抗不下来，我不仅做出了超额的工作量，而且还经常挨批评，身心俱疲。涂老师很少鼓励，大多时候都是批评，让人也很受挫。特别是有时候他心情不好，我们便战战兢兢，如履薄冰，生怕他会将气撒到我头上，我是受气最多的，每次开会挨批评的人都是我，做的不好的地方他会反复提起，让人无语，甚至磨灭了不少我对研究的热情，如果做研究就是不断的受气，研究还有毕业继续进行嘛？好在我都扛下来了，都慢慢消化了，自己的路是自己走的，要走好也要走得精彩。三年来，我自觉还没有找到一条跟他相处的好的模式，更像是在不断的小心试探，好在终于要毕业了，我的苦旅也要结束了。<br>&emsp;&emsp;说到这三年，也不妨再继续写写这三年。这三年，我快乐嘛？恐怕我很难说我很快乐，最快乐的时候就是复试结束的那一刻，踌躇满志，意气风发，那时的我是最自信的，最得意的，三年过去，我更加内敛沉默，好像也没那么自信和高兴了。三年来，我付出的努力不少，每年基本都是最晚离校，最早来学校的，一年365天，基本300天都在图书馆，但最后的成果寥寥，问题出在什么地方呢。我自己觉得还是自己的主观能动性没有调动起来，经常被批评，心态处于紧张的状态下，会总想着放松放松，休息休息，根本对研究提不起什么兴趣，效率也不高。每次要写东西都是一口气憋出来的，这样的状态如何能够做好研究呢？对读博很向往的原因也是想看看自己如何完全投入到研究中去，会做出什么成果，也想证明证明自己没有一些人想的那么差，越是“看不起”我，越是要证明给你看！离毕业还有最后两个月的时间，应该更加积极主动的走好自己的路，补短板，提高自己的研究能力，争取在入学前有一个比较好的状态和水准。<br>&emsp;&emsp;首先是英文能力，包括听说读写四个部分，在听力方面，保持听感，多看美剧和英文材料，美剧可以看《老友记》，英文材料可以看足球的相关采访等等。说，即口语部分，就需要不断的训练了，阿卡索的课程还剩一部分，保持每周的训练量，大概每周说一到两次吧。读的来源就有很多了，首先是英文的文献，之前整理的一些经典文献都可以慢慢阅读了，再就是RSS订阅的英文材料和英文报刊，也可以挑选感兴趣的读物进行阅读。英文写作，可以就感兴趣的idea写proposal，将部分idea汇总整理成proposal。<br>&emsp;&emsp;其次就是研究能力，包含数据分析能力，论文写作能力等等，重点放在研究方法上，争取在9月份入学之前，对各种研究方法有比较好的掌握。因果关系与相关分析，元分析的基本操作，跨层的分析等等，对HLM，Mplus，R package等软件做到熟练操作，再就是数据分析的原理重新进行梳理，对《管理学问卷调查研究方法》再仔细阅读一遍，整理之前听过的讲座笔记。<br>&emsp;&emsp;关于RSM课题组的准备工作，对dynamic team diversity和team diversity 的所有重要文献进行阅读。在阅读的过程中进行思考并提出相应的idea，也可以写读书回报总结发表在博客中，争取在9月开学前能够对该领域的进展有所了解，并可以立即投入到研究工作中。<br>&emsp;&emsp;关于现有研究团队的工作，目前还有一篇文章正在外审，EL的项目多半要胎死腹中，所以现有的研究压力不大，关于Empowering leadership的研究，可以简单了解一下，看能不能有新的进展，如果没有就暂时不做研究？这个需要思考决定。<br>&emsp;&emsp;在身体锻炼上，应该重新开始跑步，正好现在天气转暖了，适合跑步，一周可以跑个两到三次，争取在毕业前，重新跑到21.0975km的水平。<br>&emsp;&emsp;在申请上，CSC的结果在5月底可以揭晓，希望一切顺利，NBS目前还保有一丝希望，算是备胎吧。尽人事听天命！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;当时间进入到四月份之后，自己好像突然闲下来了，这种感觉很奇怪，平静却暗含紧张不安的氛围。有几件事情值得记录并思考。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="毕业" scheme="https://silkiller.github.io/tags/%E6%AF%95%E4%B8%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>outlook客户端显示“没有默认的邮件客户端”</title>
+    <link href="https://silkiller.github.io/posts/6219665c.html"/>
+    <id>https://silkiller.github.io/posts/6219665c.html</id>
+    <published>2021-03-03T13:08:50.000Z</published>
+    <updated>2021-03-03T06:12:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>前端时间outlook客户端经常弹出“没有默认的邮件客户端”提示，于是乎在网上找到找解决方案，最后还是在知乎的一个回答中找到了，这里记录一下。</p><span id="more"></span><p>Solution:  </p><ol><li>Open registry by typing regedit in run.  </li><li>Search for the office productguid in HKEY_CLASSES_ROOT\Installer\Components\  </li><li>Right Click the Sub Key that started with (for me) ‘F1291BD604B8604……’  </li><li>Select Permissions, Add ‘Everyone’ and give read only Access to that group.</li></ol><p>作者：逆风而行LEE<br>链接：<a href="https://www.zhihu.com/question/40217178/answer/663110167">https://www.zhihu.com/question/40217178/answer/663110167</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;前端时间outlook客户端经常弹出“没有默认的邮件客户端”提示，于是乎在网上找到找解决方案，最后还是在知乎的一个回答中找到了，这里记录一下。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://silkiller.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="outlook" scheme="https://silkiller.github.io/tags/outlook/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>农历新年</title>
+    <link href="https://silkiller.github.io/posts/e7fdbd32.html"/>
+    <id>https://silkiller.github.io/posts/e7fdbd32.html</id>
+    <published>2021-02-10T15:09:59.000Z</published>
+    <updated>2021-04-09T02:03:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>新年快乐！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;新年快乐！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

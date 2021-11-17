@@ -6,7 +6,7 @@
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
-  <updated>2021-11-15T12:06:34.177Z</updated>
+  <updated>2021-11-17T09:58:08.563Z</updated>
   <id>https://silkiller.github.io/</id>
   
   <author>
@@ -17,11 +17,67 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Sleep and Scientific Principles</title>
+    <link href="https://silkiller.github.io/posts/7e65ea80.html"/>
+    <id>https://silkiller.github.io/posts/7e65ea80.html</id>
+    <published>2021-11-17T09:14:43.000Z</published>
+    <updated>2021-11-17T09:58:08.563Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;最近又开始对睡眠感兴趣了，特别是智能可穿戴设备的睡眠检测功能，是否准确，原理是什么？以前似乎都没有太过在意。看了一些资料，总结如下。</p><span id="more"></span><p>&emsp;&emsp;首先睡眠可以分为REM和NREM两个阶段，NREM分为N1，N2，N3三个阶段，N3是大家所熟悉的深度睡眠。深度睡眠一半发生在睡眠的上半区，也就是凌晨2，3点左右，这意味着，熬夜最好不要超过这个时间点，不然很难再进入深度睡眠。深度睡眠与人体的修复，生长息息相关；REM睡眠将短期记忆固化为长期记忆。深度睡眠也不是越多越好，一般来说，正常人的深度睡眠时间为一个半小时到两小时左右。目前市场上所熟知的手环睡眠检测功能大多是基于movement监测，利用加速传感器或相关传感器以及时间等因素综合起来测量，准确度相对一般，不是特别科学。华为的手环利用了CPC的技术，并且和哈佛医学院做了一些研究，还算比较科学。相关的信息如下：</p><ul><li><a href="https://www.dbiom.org/research/wearable-evaluations">华为系列手环的测试报告</a></li><li><a href="https://www.njfsyk.com/index.php?case=archive&act=list&catid=6">丰生永康对CPC技术的介绍</a> 丰生永康拥有CPC技术的授权，华为手环系列应该也是基于丰生永康的授权</li><li><a href="https://zhuanlan.zhihu.com/p/44459317">华为睡眠技术负责人对CPC技术和华为手环的介绍</a>  </li></ul><p>&emsp;&emsp;总结来说，以往的睡眠检测都是利用脑电设备做多导睡眠检测，但价格昂贵，检测繁琐，不适合大众消费者；CPC技术是利用心电信号进行转化来实现睡眠信号的推导，利用穿戴设备的心率传感器和相关算法，可以实现CPC技术在穿戴设备上的技术落地。根据测试报告，华为的手环测试准确度大概在80%左右，算比较高了。<br>&emsp;&emsp;最后，如何提高睡眠质量，<a href="https://www.njfsyk.com/index.php?case=archive&act=list&catid=8">丰生永康提出几项建议</a>： </p><ul><li><p><strong>噪音控制</strong><br>如卧室有噪音干扰睡眠，建议可将房间换装双层玻璃窗，也可加上厚质窗帘及地毯来吸音。另外，睡觉前也记得将电话、手机、门铃切断，避免造成睡眠中的干扰。</p></li><li><p><strong>光线控制</strong><br>一般来说，20~30烛光是较适合睡眠的光线，但可依每个人的不同喜好来调整光线大小，</p></li><li><p><strong>温度、湿度控制，保持凉爽通风</strong><br>理想的室内温度，夏天是25度，冬天约15~20度，湿度则全年在50%较适合。在不同季节，可利用冷、暖器、保湿器来调节室内的温度及湿度，来达到帮助睡眠的目的，但原则上以保持凉爽通风为原则。  </p></li><li><p><strong>营造轻松、平静的气氛</strong><br>卧室的颜色尽量不要采用太刺眼的颜色，以米白色这类温和的颜色较适合，另外，与工作有关或是书藉等会让人产生压力的东西也不要放在卧室里，营造轻松、平静的气氛来帮助睡眠。</p></li><li><p><strong>选择舒适的床及寝具</strong><br>床的软硬度可依个人喜好来选择，但太软或太硬都不太适合，床单、绵被则可依季节的转换进行更换，以保暖、材质舒适、色调温和为原则。避免破坏睡眠的因素</p></li><li><p><strong>限制咖啡因的摄取</strong><br>含咖啡因的饮料包括:茶、咖啡、可乐…等，巧克力、部份感冒有含有咖啡因，咖啡因具提神、利尿作用，睡前摄取将严重影响睡眠，但每个人对咖啡因的敏感程度不同，因此，需依每个人对咖啡因敏感程度，来限制咖啡因的摄取及摄取时间.  </p></li></ul><p>&emsp;&emsp;按照自己的睡眠习惯来看，睡前可以开台灯关掉大灯；睡前关掉暖气（水暖声音很大）；关闭门窗（下半夜一般被冷醒），适当开一下门透气；在被子上压一些衣服保暖，但也不可压太多；调整一下枕头的高度，实践证明我适合比较软的枕头；睡前喝一点热水等等。规律地作息，尽量12点前睡觉，7:30左右按时起床（不赖床）。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;最近又开始对睡眠感兴趣了，特别是智能可穿戴设备的睡眠检测功能，是否准确，原理是什么？以前似乎都没有太过在意。看了一些资料，总结如下。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Life Experiment" scheme="https://silkiller.github.io/categories/Life-Experiment/"/>
+    
+    
+    <category term="CPC" scheme="https://silkiller.github.io/tags/CPC/"/>
+    
+    <category term="HRV" scheme="https://silkiller.github.io/tags/HRV/"/>
+    
+    <category term="Huawei" scheme="https://silkiller.github.io/tags/Huawei/"/>
+    
+    <category term="Fengshengyongkang" scheme="https://silkiller.github.io/tags/Fengshengyongkang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Team-Microdynamics</title>
+    <link href="https://silkiller.github.io/posts/69302c93.html"/>
+    <id>https://silkiller.github.io/posts/69302c93.html</id>
+    <published>2021-11-15T16:16:36.000Z</published>
+    <updated>2021-11-15T16:35:17.767Z</updated>
+    
+    <content type="html"><![CDATA[<p>Team Microdynamics: Toward an Organizing Approach to Teamwork (HUMPHREY &amp; AIME,2014)</p><span id="more"></span><p>key points from this paper:</p><ul><li><strong>lifecycle model</strong> is highly connected to membership change;</li><li>Arrow and McGrath (1993, 1995) are two seminal work about membership change;</li><li>the classic model of <strong>Input-process-output model</strong> (Hackman, 1987; McGrath, 1984) is upgrated to <strong>Input-mediator-output-input model</strong> (Ilgen et al., 2005)</li><li><strong>information processing</strong> and cooporation are two mediators between input and output.</li><li></li></ul><p>updating!  </p><hr><p><code>From now on, more reading thoughts or summary will be demonstrated on the blog.</code></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Team Microdynamics: Toward an Organizing Approach to Teamwork (HUMPHREY &amp;amp; AIME,2014)&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Research" scheme="https://silkiller.github.io/categories/Research/"/>
+    
+    
+    <category term="team" scheme="https://silkiller.github.io/tags/team/"/>
+    
+    <category term="microdynamics" scheme="https://silkiller.github.io/tags/microdynamics/"/>
+    
+    <category term="team composition" scheme="https://silkiller.github.io/tags/team-composition/"/>
+    
+    <category term="lifecycly model" scheme="https://silkiller.github.io/tags/lifecycly-model/"/>
+    
+    <category term="information processing" scheme="https://silkiller.github.io/tags/information-processing/"/>
+    
+  </entry>
+  
+  <entry>
     <title>有关文献阅读</title>
     <link href="https://silkiller.github.io/posts/bc50da16.html"/>
     <id>https://silkiller.github.io/posts/bc50da16.html</id>
     <published>2021-11-15T11:36:11.000Z</published>
-    <updated>2021-11-15T12:06:34.177Z</updated>
+    <updated>2021-11-15T12:06:57.680Z</updated>
     
     <content type="html"><![CDATA[<p>&emsp;&emsp;最近关于整理文献和阅读文献，有一些想法，特此记录。</p><span id="more"></span><p>&emsp;&emsp;关于整理文献，以前一直苦于没有有效的办法跟踪TOP Journals，目前看来，在期刊主页订阅Alerts是比较好的解决办法，但AOM系列的期刊还是没有办法订阅，只能手动定期去看。还可以在Google scholar上跟踪某位学者或者特定的关键词，之前试过一次，信息量太大，没办法做到有效的筛选，遂作罢。目前跟踪的期刊也有问题，首先是文章很多，一周大概能有20~30篇的文章，如果逐一阅读，势必没有足够的时间，因此需要有效地处理这些文献，大概想出以下几种办法：  </p><ul><li><strong>针对性阅读</strong>：只阅读感兴趣或者领域相关的文章，添加到mendeley，比如leadership，team diversity，longitudial study相关的文章；</li><li><strong>选择性地进行全文阅读</strong>，重点关注theoretical foundation；hypothese；data collection/method等部分；</li><li><strong>及时地回顾总结</strong>，添加到mendeley的文章，要做到看到标题就知道文章讲了什么内容；</li></ul><p>&emsp;&emsp;目前阅读的一点感想就是，研究目前正在走向更加微观化，从between-person level到with person level，从muti-wave到experienced sampleing，这样是否会提升组织行为研究的“有用性”呢？至少从某种程度上说，以前那种“工作满意度可以提高工作绩效”的通用结论，大众所能直观感受到的结论，会少很多。</p>]]></content>
     
@@ -435,48 +491,6 @@
     
     <category term="Life Experiment" scheme="https://silkiller.github.io/categories/Life-Experiment/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>毕业前夕</title>
-    <link href="https://silkiller.github.io/posts/b060639a.html"/>
-    <id>https://silkiller.github.io/posts/b060639a.html</id>
-    <published>2021-04-09T07:44:00.000Z</published>
-    <updated>2021-04-09T09:32:47.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&emsp;&emsp;当时间进入到四月份之后，自己好像突然闲下来了，这种感觉很奇怪，平静却暗含紧张不安的氛围。有几件事情值得记录并思考。</p><span id="more"></span><p>&emsp;&emsp;时间往回拨到3月底，关于毕业论文，实在是苦不堪言。3月12是预答辩的时间，但毕业论文我直到预答辩的前一天才写完，虽然预答辩侥幸通过，并没有什么太大的问题，但后续工作仍然艰难。3.30是毕业论文提交查重和外审的DDL，在送外审之前，跟涂老师有过一次碰面，原本以为这次碰面之后论文便没有太大问题了，结果发给涂老师还是收到了极差的反馈。我是在送外审前一天发给他的，结果却收到了一个“major revision”！两个人之间的火药味也极浓，气得我还在ins上发了大段话。好在最后成功送审，查重也没有出现大问题，目前文章正处在评阅阶段。总结来说，我有过错，首先对毕业论文的重视程度不够，觉得只要能过了就行，没想到涂老师这么重视这个东西（我本应该想到的，他毕竟这么谨慎的一个人）；其次，也算是第一点的延伸，文章的确写的不怎么样。但涂老师就完全没错了吗？好像也不是。他没给我传递一个明确的毕业论文的信号，也没怎么催我论文的进展，倒是一直在催我写英文论文，英文论文的结果不好，发不了很好的期刊了，就不做了，对他没什么用，但是对我自己却是三年来的成果。其次就是，有时候太过严厉，把我的处境放在任何一个人身上，恐怕他们都抗不下来，我不仅做出了超额的工作量，而且还经常挨批评，身心俱疲。涂老师很少鼓励，大多时候都是批评，让人也很受挫。特别是有时候他心情不好，我们便战战兢兢，如履薄冰，生怕他会将气撒到我头上，我是受气最多的，每次开会挨批评的人都是我，做的不好的地方他会反复提起，让人无语，甚至磨灭了不少我对研究的热情，如果做研究就是不断的受气，研究还有毕业继续进行嘛？好在我都扛下来了，都慢慢消化了，自己的路是自己走的，要走好也要走得精彩。三年来，我自觉还没有找到一条跟他相处的好的模式，更像是在不断的小心试探，好在终于要毕业了，我的苦旅也要结束了。<br>&emsp;&emsp;说到这三年，也不妨再继续写写这三年。这三年，我快乐嘛？恐怕我很难说我很快乐，最快乐的时候就是复试结束的那一刻，踌躇满志，意气风发，那时的我是最自信的，最得意的，三年过去，我更加内敛沉默，好像也没那么自信和高兴了。三年来，我付出的努力不少，每年基本都是最晚离校，最早来学校的，一年365天，基本300天都在图书馆，但最后的成果寥寥，问题出在什么地方呢。我自己觉得还是自己的主观能动性没有调动起来，经常被批评，心态处于紧张的状态下，会总想着放松放松，休息休息，根本对研究提不起什么兴趣，效率也不高。每次要写东西都是一口气憋出来的，这样的状态如何能够做好研究呢？对读博很向往的原因也是想看看自己如何完全投入到研究中去，会做出什么成果，也想证明证明自己没有一些人想的那么差，越是“看不起”我，越是要证明给你看！离毕业还有最后两个月的时间，应该更加积极主动的走好自己的路，补短板，提高自己的研究能力，争取在入学前有一个比较好的状态和水准。<br>&emsp;&emsp;首先是英文能力，包括听说读写四个部分，在听力方面，保持听感，多看美剧和英文材料，美剧可以看《老友记》，英文材料可以看足球的相关采访等等。说，即口语部分，就需要不断的训练了，阿卡索的课程还剩一部分，保持每周的训练量，大概每周说一到两次吧。读的来源就有很多了，首先是英文的文献，之前整理的一些经典文献都可以慢慢阅读了，再就是RSS订阅的英文材料和英文报刊，也可以挑选感兴趣的读物进行阅读。英文写作，可以就感兴趣的idea写proposal，将部分idea汇总整理成proposal。<br>&emsp;&emsp;其次就是研究能力，包含数据分析能力，论文写作能力等等，重点放在研究方法上，争取在9月份入学之前，对各种研究方法有比较好的掌握。因果关系与相关分析，元分析的基本操作，跨层的分析等等，对HLM，Mplus，R package等软件做到熟练操作，再就是数据分析的原理重新进行梳理，对《管理学问卷调查研究方法》再仔细阅读一遍，整理之前听过的讲座笔记。<br>&emsp;&emsp;关于RSM课题组的准备工作，对dynamic team diversity和team diversity 的所有重要文献进行阅读。在阅读的过程中进行思考并提出相应的idea，也可以写读书回报总结发表在博客中，争取在9月开学前能够对该领域的进展有所了解，并可以立即投入到研究工作中。<br>&emsp;&emsp;关于现有研究团队的工作，目前还有一篇文章正在外审，EL的项目多半要胎死腹中，所以现有的研究压力不大，关于Empowering leadership的研究，可以简单了解一下，看能不能有新的进展，如果没有就暂时不做研究？这个需要思考决定。<br>&emsp;&emsp;在身体锻炼上，应该重新开始跑步，正好现在天气转暖了，适合跑步，一周可以跑个两到三次，争取在毕业前，重新跑到21.0975km的水平。<br>&emsp;&emsp;在申请上，CSC的结果在5月底可以揭晓，希望一切顺利，NBS目前还保有一丝希望，算是备胎吧。尽人事听天命！</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;当时间进入到四月份之后，自己好像突然闲下来了，这种感觉很奇怪，平静却暗含紧张不安的氛围。有几件事情值得记录并思考。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="毕业" scheme="https://silkiller.github.io/tags/%E6%AF%95%E4%B8%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>outlook客户端显示“没有默认的邮件客户端”</title>
-    <link href="https://silkiller.github.io/posts/6219665c.html"/>
-    <id>https://silkiller.github.io/posts/6219665c.html</id>
-    <published>2021-03-03T13:08:50.000Z</published>
-    <updated>2021-03-03T06:12:57.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>前端时间outlook客户端经常弹出“没有默认的邮件客户端”提示，于是乎在网上找到找解决方案，最后还是在知乎的一个回答中找到了，这里记录一下。</p><span id="more"></span><p>Solution:  </p><ol><li>Open registry by typing regedit in run.  </li><li>Search for the office productguid in HKEY_CLASSES_ROOT\Installer\Components\  </li><li>Right Click the Sub Key that started with (for me) ‘F1291BD604B8604……’  </li><li>Select Permissions, Add ‘Everyone’ and give read only Access to that group.</li></ol><p>作者：逆风而行LEE<br>链接：<a href="https://www.zhihu.com/question/40217178/answer/663110167">https://www.zhihu.com/question/40217178/answer/663110167</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;前端时间outlook客户端经常弹出“没有默认的邮件客户端”提示，于是乎在网上找到找解决方案，最后还是在知乎的一个回答中找到了，这里记录一下。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://silkiller.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="outlook" scheme="https://silkiller.github.io/tags/outlook/"/>
     
   </entry>
   

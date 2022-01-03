@@ -6,7 +6,7 @@
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
-  <updated>2021-12-28T17:20:30.197Z</updated>
+  <updated>2022-01-03T22:58:47.066Z</updated>
   <id>https://silkiller.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>任务管理</title>
+    <link href="https://silkiller.github.io/posts/81caec1a.html"/>
+    <id>https://silkiller.github.io/posts/81caec1a.html</id>
+    <published>2022-01-03T09:27:38.000Z</published>
+    <updated>2022-01-03T22:58:47.066Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;事情越来越多，越来越杂乱，一直也在思考如何科学有效地管理各项任务，针对每一个任务目标进行项目式的管理。目前存在的几大痛点：  </p><ol><li>不同的任务交织在一起，不知道先做哪一件，再做哪一件；</li><li>不同的任务进度不同，不能一次性完成，如何有效进行跟踪完善（任务拆分）；</li><li>任务目标进度的可视化，做到了什么程度，能否一眼便知？</li><li>如何进行任务规划，日计划/周计划/月计划/年计划管理；<span id="more"></span>  </li></ol><p>&emsp;&emsp;经过一番苦苦思考和探索，觉得目前比较有效的工具是：Outlook Calendar + Microsoft To do List + Notion三个工具的组合。To Do List用来统计需要做什么，calendar用来规划每天的行程安排和日程提醒，notion用来管理具体一项任务，进行项目跟踪。举例来说，目前需要做的几大块事情是：每周三的研讨会；DTD的项目；上课的课程作业，阅读计划等；文献阅读和书籍阅读等等；以及其他的任务管理；  </p><ol><li>比如周三的研讨会，拆分任务来看：1.准备研讨会之前的idea，model信息；2.阅读相关的paper让讨论更加有效；3.总结提高；  </li><li>再比如和导师的每一次meeting：老师提到的关键点是什么，需要解决什么问题，要反馈什么问题？  </li><li>长期的工作目标：比如阅读，学习longintudial的方法，则建立专门的档案跟踪计划的完成情况；今天读多少，读什么，都量化出来，落实到每一天的任务中。</li></ol><p><strong>示例1：研讨会的任务跟踪清单</strong></p><p><img src="https://s2.loli.net/2022/01/03/xfzqrjupd7LPgWK.png" alt="meeting.png">  </p><p><strong>示例2: To do List</strong><br><img src="https://s2.loli.net/2022/01/03/FDnCBvXjwAtRoza.png" alt="task.png"></p><p>&emsp;&emsp;此外notion的一大好处是可以把其他页面的task集成到todolist中，这样就打通了所有任务之间的关系，做到任务间的链接，简直完美。关于痛点四，如何进行周计划，月计划和年计划的制定，还是过于理想化了，在确定任务的截止日期后，以DDL（Deadline）进行管理是比较可行且实际的方案，不紧急的任务，不重要的任务根据情况进行安排。此外，痛点四的解决，关键是要进行任务拆分，分为几个子模块，在固定的时间期限内再划分出几个子任务，这样每完成一个子任务都是在向最后的任务前进。例如，阅读社会科学的英文书籍，首先肯定这肯定是一个长期计划，进行拆分，读哪些书，先读什么，再读什么，建立任务清单。比如，今天要读完How to write a lot的introduction和second chapter，这样可以规划在一定时间内读完一本书，如果没有读完该部分，则合理往后顺延。这样一大好处就是避免了任务启动时的畏难情绪。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;事情越来越多，越来越杂乱，一直也在思考如何科学有效地管理各项任务，针对每一个任务目标进行项目式的管理。目前存在的几大痛点：  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不同的任务交织在一起，不知道先做哪一件，再做哪一件；&lt;/li&gt;
+&lt;li&gt;不同的任务进度不同，不能一次性完成，如何有效进行跟踪完善（任务拆分）；&lt;/li&gt;
+&lt;li&gt;任务目标进度的可视化，做到了什么程度，能否一眼便知？&lt;/li&gt;
+&lt;li&gt;如何进行任务规划，日计划/周计划/月计划/年计划管理；&lt;/li&gt;&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="Life Experiment" scheme="https://silkiller.github.io/categories/Life-Experiment/"/>
+    
+    
+    <category term="task management" scheme="https://silkiller.github.io/tags/task-management/"/>
+    
+    <category term="notion" scheme="https://silkiller.github.io/tags/notion/"/>
+    
+    <category term="Microsoft ToDo" scheme="https://silkiller.github.io/tags/Microsoft-ToDo/"/>
+    
+  </entry>
   
   <entry>
     <title>2021年终总结</title>
@@ -468,29 +498,6 @@
     <category term="毕业答辩" scheme="https://silkiller.github.io/tags/%E6%AF%95%E4%B8%9A%E7%AD%94%E8%BE%A9/"/>
     
     <category term="聚餐" scheme="https://silkiller.github.io/tags/%E8%81%9A%E9%A4%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大石头落下</title>
-    <link href="https://silkiller.github.io/posts/741acfdd.html"/>
-    <id>https://silkiller.github.io/posts/741acfdd.html</id>
-    <published>2021-05-20T14:34:14.000Z</published>
-    <updated>2021-05-20T09:14:42.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&emsp;&emsp;今天是5月20号，又一商家造出来的节日，但你我都无法免俗，该过还得过。不过跟以往不同的是，这次提前到了昨天，5.19。看了一直没看的指环王，还是挑的IMAX和最好看的第三部，一切都是最好的安排。一直想要但觉得没必要的罗技master2s鼠标随着某珍充电盒的意外丢失而找到了购买的借口。更让我惊喜和意外的就是在地铁站，收到了来自Selano的邮件，邮件中，她告诉我了CSC的结果，我已经成功获得CSC资助，将在今年9月份远赴荷兰求学。 </p><span id="more"></span><p>&emsp;&emsp;Selano的邮件写得特别好： </p><blockquote><p>Dear Yongkang,  </p><p>I am fine, hoping that all is fine with you too.  </p><p>It’s nice to read your email now and I just realised that I forgot to reply your email on April 20. Well, life always bring us more than we can expect, both positive and negative sides, in your case, it has turned out to be the good one :)  </p><p>We just received the preliminary list of applicants who received the funds from CSC, YOU ARE IN. So if you wish to continue the project, we will confirm your name now with CSC before they make final announcement.  </p><p>How does that sound to you?</p><p>Best regards/Met vriendelijke groet  </p></blockquote><p>&emsp;&emsp;生活就是这样，有好有坏，你无法预知和改变，我们只能把人的因素能控制到的范围控制到完美，其余的就听天命吧。在接到NTU的offer时，当时的心态的确太过于想要追求完满了，什么都想要，什么都想做好最好，但事实却不可能。好在和Daan的会面让我重新坚定了RSM，好在我的negative feeling指引我做出了正确的选择。现在想来，也只能说，一切都是最好的安排了，当你做到了90分甚至100分，你很难只在考场上考出60分，当你做到了人力所能尽到的一切，何愁结果会不如意呢？当然，偶尔的失误和客观的因素会阻碍我们达到我们想要的目的，至少，大方向是对的，大的趋势是对的，我们没有走错路，这是最重要的。<br>&emsp;&emsp;回顾来看，漫长的申请季，从去年疫情始，到今年520，总算有了一个满意的结果，申请了香港5所（HKU,CUHK,HKUST,cityU,PolyU），新加坡3所(SMU,NUS,NTU)，欧洲1所(EUR-RSM)，北美4所(UBC,UIC,USC,Temple)，大陆1所(PekingU)，一共14所，拿到了HKU，NTU，RSM，UIC，PekingU的面试，收到了NTU和RSM的offer。比例还算ok，如果申请的数量更多，说不定还会有更好地结果。Anyway，最好的结果就是现在的结果，不必强求。<br>&emsp;&emsp;现在毕业已经进入倒计时，27号答辩，估计6月初就会进行毕业典礼，硕士研究生的阶段正式结束，将开始新的征程。答辩前还需要做的事情有，改毕业论文，做答辩的PPT（可以尝试用Overleaf的beamer做ppt），填写答辩的一切材料，修改JOHS的论文，写response letter，静待毕业吧！</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;今天是5月20号，又一商家造出来的节日，但你我都无法免俗，该过还得过。不过跟以往不同的是，这次提前到了昨天，5.19。看了一直没看的指环王，还是挑的IMAX和最好看的第三部，一切都是最好的安排。一直想要但觉得没必要的罗技master2s鼠标随着某珍充电盒的意外丢失而找到了购买的借口。更让我惊喜和意外的就是在地铁站，收到了来自Selano的邮件，邮件中，她告诉我了CSC的结果，我已经成功获得CSC资助，将在今年9月份远赴荷兰求学。 &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="CSC" scheme="https://silkiller.github.io/tags/CSC/"/>
-    
-    <category term="毕业" scheme="https://silkiller.github.io/tags/%E6%AF%95%E4%B8%9A/"/>
     
   </entry>
   

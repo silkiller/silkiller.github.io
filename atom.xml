@@ -6,7 +6,7 @@
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
-  <updated>2022-07-04T22:49:06.871Z</updated>
+  <updated>2022-07-10T12:34:18.277Z</updated>
   <id>https://silkiller.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>惠特曼与天文学家</title>
+    <link href="https://silkiller.github.io/posts/462d8bfd.html"/>
+    <id>https://silkiller.github.io/posts/462d8bfd.html</id>
+    <published>2022-07-10T09:11:09.000Z</published>
+    <updated>2022-07-10T12:34:18.277Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>When I heard the learn’d astronomer,</strong><br><strong>When the proofs, the figures, were ranged in columns before me,</strong><br><strong>When I was shown the charts and diagrams, to add, divide, and measure them,</strong><br><strong>When I sitting heard the astronomer where he lectured with much applause in the lecture-room,</strong><br><strong>How soon unaccountable I became tired and sick,</strong><br><strong>Till rising and gliding out I wander’d off by myself,</strong><br><strong>In the mystical moist night-air, and from time to time,</strong><br><strong>Look’d up in perfect silence at the stars.</strong></p><span id="more"></span><p>这首小诗来自惠特曼的《草叶集》第180首。最早在看Breaking Bad的时候知道，觉得是个很好的答案，关于为什么做学术的答案。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;When I heard the learn’d astronomer,&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;When the proofs, the figures, were ranged in columns before me,&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;When I was shown the charts and diagrams, to add, divide, and measure them,&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;When I sitting heard the astronomer where he lectured with much applause in the lecture-room,&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;How soon unaccountable I became tired and sick,&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Till rising and gliding out I wander’d off by myself,&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;In the mystical moist night-air, and from time to time,&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Look’d up in perfect silence at the stars.&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Research" scheme="https://silkiller.github.io/categories/Research/"/>
+    
+    
+    <category term="Walt Whitman" scheme="https://silkiller.github.io/tags/Walt-Whitman/"/>
+    
+  </entry>
+  
+  <entry>
     <title>听妈妈的话</title>
     <link href="https://silkiller.github.io/posts/edc834bf.html"/>
     <id>https://silkiller.github.io/posts/edc834bf.html</id>
     <published>2022-07-04T22:46:27.000Z</published>
-    <updated>2022-07-04T22:49:06.871Z</updated>
+    <updated>2022-07-04T22:49:27.960Z</updated>
     
     <content type="html"><![CDATA[<p>留学在外，再多的困难自己都能扛住，可就是看到父母的话崩不住，仅在此记录吧。</p>]]></content>
     
@@ -463,29 +484,6 @@
     <category term="lifecycly model" scheme="https://silkiller.github.io/tags/lifecycly-model/"/>
     
     <category term="information processing" scheme="https://silkiller.github.io/tags/information-processing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>有关文献阅读</title>
-    <link href="https://silkiller.github.io/posts/bc50da16.html"/>
-    <id>https://silkiller.github.io/posts/bc50da16.html</id>
-    <published>2021-11-15T11:36:11.000Z</published>
-    <updated>2021-11-15T12:06:57.680Z</updated>
-    
-    <content type="html"><![CDATA[<p>&emsp;&emsp;最近关于整理文献和阅读文献，有一些想法，特此记录。</p><span id="more"></span><p>&emsp;&emsp;关于整理文献，以前一直苦于没有有效的办法跟踪TOP Journals，目前看来，在期刊主页订阅Alerts是比较好的解决办法，但AOM系列的期刊还是没有办法订阅，只能手动定期去看。还可以在Google scholar上跟踪某位学者或者特定的关键词，之前试过一次，信息量太大，没办法做到有效的筛选，遂作罢。目前跟踪的期刊也有问题，首先是文章很多，一周大概能有20~30篇的文章，如果逐一阅读，势必没有足够的时间，因此需要有效地处理这些文献，大概想出以下几种办法：  </p><ul><li><strong>针对性阅读</strong>：只阅读感兴趣或者领域相关的文章，添加到mendeley，比如leadership，team diversity，longitudial study相关的文章；</li><li><strong>选择性地进行全文阅读</strong>，重点关注theoretical foundation；hypothese；data collection/method等部分；</li><li><strong>及时地回顾总结</strong>，添加到mendeley的文章，要做到看到标题就知道文章讲了什么内容；</li></ul><p>&emsp;&emsp;目前阅读的一点感想就是，研究目前正在走向更加微观化，从between-person level到with person level，从muti-wave到experienced sampleing，这样是否会提升组织行为研究的“有用性”呢？至少从某种程度上说，以前那种“工作满意度可以提高工作绩效”的通用结论，大众所能直观感受到的结论，会少很多。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;最近关于整理文献和阅读文献，有一些想法，特此记录。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Research" scheme="https://silkiller.github.io/categories/Research/"/>
-    
-    
-    <category term="literature" scheme="https://silkiller.github.io/tags/literature/"/>
-    
-    <category term="reading" scheme="https://silkiller.github.io/tags/reading/"/>
     
   </entry>
   

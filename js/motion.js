@@ -90,7 +90,7 @@ NexT.motion.middleWares = {
         sequence.push({
           targets,
           complete: () => targets.classList.add('animated', animation),
-          deltaT  : '-=100'
+          deltaT  : '-=200'
         });
       });
     }

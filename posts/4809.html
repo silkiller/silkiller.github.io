@@ -176,7 +176,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">115</span>
+          <span class="site-state-item-count">117</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -187,7 +187,7 @@
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">206</span>
+        <span class="site-state-item-count">216</span>
         <span class="site-state-item-name">tags</span></a>
       </div>
   </nav>
@@ -301,7 +301,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">Symbols count in article: </span>
-      <span>1.1k</span>
+      <span>1k</span>
     </span>
     <span class="post-meta-item" title="Reading time">
       <span class="post-meta-item-icon">
@@ -319,16 +319,16 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <p>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;上次在虎扑看到一个帖子，讲到是一男生每天5:20给女神发早安，下面有帖子回复到可能是定时发送的代码，于是乎上网查了一下，的确可以实现。 </p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上次在虎扑看到一个帖子，讲到是一男生每天5:20给女神发早安，下面有帖子回复到可能是定时发送的代码，于是乎上网查了一下，的确可以实现。 </p>
 <span id="more"></span>   
-<p>第一步：登录微信网页版<br>第二步：登录微信以后，使用浏览器的调试工具，打开控制台（鼠标右键-&gt;检查&#x2F;F12-&gt;选择控制台）, 将代码赋值到输入区域：  </p>
+<p>第一步：登录微信网页版<br>第二步：登录微信以后，使用浏览器的调试工具，打开控制台（鼠标右键-&gt;检查/F12-&gt;选择控制台）, 将代码赋值到输入区域：  </p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">var appElement = document.querySelector(&#x27;[ng-controller=chatSenderController]&#x27;);</span><br><span class="line"></span><br><span class="line">var $scope = angular.element(appElement).scope();</span><br><span class="line"></span><br><span class="line">setInterval(function()&#123;</span><br><span class="line"></span><br><span class="line">var now= new Date();</span><br><span class="line"></span><br><span class="line">var date=now.getDate();</span><br><span class="line"></span><br><span class="line">var hour = now.getHours();</span><br><span class="line"></span><br><span class="line">var min = now.getMinutes();</span><br><span class="line"></span><br><span class="line">var second = now.getSeconds();</span><br><span class="line"></span><br><span class="line">if(second == 10 &amp;&amp; min == 10 &amp;&amp; hour == 22)&#123;  // 什么时候发送，在这里定义时分秒就行 &amp;&amp; ||</span><br><span class="line"></span><br><span class="line">var output = &quot;【准分报时】现在是北京时间：&quot;+hour+&quot;时&quot;+min +&quot;分&quot; + second +&quot;秒&quot;</span><br><span class="line"></span><br><span class="line">$scope.editAreaCtn = output;</span><br><span class="line"></span><br><span class="line">$scope.sendTextMessage();</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;,1000);</span><br></pre></td></tr></table></figure>
 
 
 <blockquote>
 <p>代码转载于CSDN博主「weimeiche」，<br>原文链接：<a target="_blank" rel="noopener" href="https://blog.csdn.net/weimeiche/article/details/79873780">https://blog.csdn.net/weimeiche/article/details/79873780</a>    </p>
 </blockquote>
-<p> if(second &#x3D;&#x3D; 10 &amp;&amp; min &#x3D;&#x3D; 10 &amp;&amp; hour &#x3D;&#x3D; 22){  &#x2F;&#x2F; 什么时候发送，在这里定义时分秒就行 &amp;&amp; ||  在这里设置定时发送的时间点<br>var output &#x3D; “【准分报时】现在是北京时间：”+hour+”时”+min +”分” + second +”秒”，在引号内输入要说的内容即可，实现效果如下图：<br> <img src="/posts/4809/%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%97%B6%E5%8F%91%E9%80%81.jpg" alt="实现效果"></p>
+<p> if(second == 10 &amp;&amp; min == 10 &amp;&amp; hour == 22){  // 什么时候发送，在这里定义时分秒就行 &amp;&amp; ||  在这里设置定时发送的时间点<br>var output = “【准分报时】现在是北京时间：”+hour+”时”+min +”分” + second +”秒”，在引号内输入要说的内容即可，实现效果如下图：<br> <img src="/posts/4809/%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%97%B6%E5%8F%91%E9%80%81.jpg" alt="实现效果"></p>
 
     </div>
 
@@ -393,7 +393,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Symbols count total">215k</span>
+    <span title="Symbols count total">206k</span>
   </span>
     <span class="post-meta-item" id="busuanzi_container_site_uv">
       <span class="post-meta-item-icon">

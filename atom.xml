@@ -6,7 +6,7 @@
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
-  <updated>2022-12-02T23:36:36.801Z</updated>
+  <updated>2022-12-17T15:17:37.118Z</updated>
   <id>https://silkiller.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的知识体系</title>
+    <link href="https://silkiller.github.io/posts/7d23ca18.html"/>
+    <id>https://silkiller.github.io/posts/7d23ca18.html</id>
+    <published>2022-12-17T10:49:46.000Z</published>
+    <updated>2022-12-17T15:17:37.118Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;经过长期思考和实践，目前已经形成的几大知识体系已经基本成型和完善，觉得有必要整理一下，一是总结提高，而是继续坚持。之前的一篇<a href="https://silkiller.github.io/posts/81caec1a.html">任务管理</a></p><span id="more"></span><p>&emsp;&emsp;一直以来对自我的认识告诉我，有些事情无法做到勉强，原则性的东西哪怕暂时宣泄了妥协，最终还是会回到最初的轨道上。那么关于任务管理，知识管理等等，我的哪些原则呢？</p><ol><li><strong>全部上云，用OneDrive， Dropbox等云服务构建我的知识体系；</strong></li><li><strong>统一服务，简化流程，自动化，不用多个工具做同样一件事；</strong></li><li><strong>全平台同步，移动端和PC端做到完全同步；</strong></li><li><strong>拒绝消息推送和个性化服务</strong></li></ol><h3 id="任务管理"><a href="#任务管理" class="headerlink" title="任务管理"></a>任务管理</h3><p>&emsp;&emsp;首先是关于任务管理，在<a href="https://silkiller.github.io/posts/81caec1a.html">上一篇博文</a>中有提到用outlook calendar，notion和stick note来实现任务管理，但是在逐渐的实践过程中发现，notion的任务逻辑过于复杂，且与现有的工具不太兼容，导致使用率不高，最终又回到了起点。原因则是违背了原则2，过于复杂的工具很难长期坚持。于是在实践中发现，将不同的任务放在outlook calendar中，设置不同的分类和提醒，可以有效的对不同的任务进行管理。</p><p>&emsp;例如下图的calendar，将各种不同类型的任务集中在一个calendar中，可以有效进行任务管理。目前我将Liverpool的足球比赛，世界杯的比赛，研究，teaching，训练等都集成在了outlook中，已经使用了较长一段时间，体验非常好。</p><p><img src="/posts/7d23ca18/Users\ykyan\OneDrive\Desktop\hexo\source_posts\我的知识体系\image-20221217143447343.png"></p><p>&emsp;&emsp;另外，针对<strong>持续时间较长的任务</strong>，比如刚刚结束的Qualitative Research的midterm assignment，可以在任务中设置持续时间和每日提醒。针对在<strong>邮件中出现的任务</strong>，如果有效地放入到calendar中？</p><p>&emsp;&emsp;网页版本的outlook的Board功能：可以将邮件设置为待办事项，然后待办事项会出现在task中，拖动task即可将邮件放入到calendar中。目前outlook客户端还没有实现该功能，期待后续版本的升级。</p><p><img src="/posts/7d23ca18/Users\ykyan\OneDrive\Desktop\hexo\source_posts\我的知识体系\image-20221217145401916.png"></p><h3 id="笔记管理"><a href="#笔记管理" class="headerlink" title="笔记管理"></a>笔记管理</h3><p>&emsp;&emsp;一直以来都在寻找一款完美的笔记应用（系统自带笔记-Google notes/Keep-OneNote-Evernote-Notion-Obsidian+Typora），可以实现各种酷炫的功能，但最后发现，酷炫的功能只不过是需求的1%，其他更重要的需要还是最基础的，比如多平台同步和简单的使用成本。而且长期使用Windows File Explorer养成的文件夹系统逻辑，一下子也很难转换到其他逻辑上去。另外，长期坚持博客写作训练了我使用markdown语法的能力，发现markdown用来做笔记也是很好的。基于以上种种，最后形成了Typora+Obsidian的解决方案。Typora作为一款优秀的markdown编辑器，主要用来编辑文本和排版，obsidian则用来进行笔记管理，基于本地化的vault，将vault放在云盘上可以实现多平台的同步。</p><blockquote><p>示例：Typora 编辑器</p></blockquote><p><img src="/posts/7d23ca18/Users\ykyan\OneDrive\Desktop\hexo\source_posts\我的知识体系\image-20221217150807849.png" alt="image-20221217150807849"></p><blockquote><p>示例：Obsidian笔记管理（在vault中生成笔记文件夹）</p></blockquote><p><img src="/posts/7d23ca18/Users\ykyan\OneDrive\Desktop\hexo\source_posts\我的知识体系\image-20221217151010966.png" alt="image-20221217151010966"></p><h3 id="订阅管理"><a href="#订阅管理" class="headerlink" title="订阅管理"></a>订阅管理</h3><p>&emsp;&emsp;一直以来都在想是不是可以在同一个软件中实现RSS订阅和期刊订阅，还有其他邮件订阅，outlook完美解决了这一难题。基于原则4，随着信息越来越多，我开始倾向于主动地选择信息，而不是漫无目的的搜寻信息，订阅成为了一种可行的解决方案，订阅期刊，订阅新闻，订阅微信公众号，微博，bilibili等等，在outlook中选择RSS订阅即可添加RSS源，找不到的源可以用RSSHUB这一开源项目手动添加，微信公众号稍微复杂一些，可以使用付费的服务。  </p><p>&emsp;&emsp;订阅期刊稍微经历了一些曲折，起初是使用各个出版社的网站进行订阅，比如Willy， Elsevier官网的期刊邮件订阅，每当有新的文章在线发表或者刊出新文章时，会收到邮件提醒。但是有一些期刊无法订阅，比如Academy of Management旗下的AMJ,AMR等等，只能手动去官网上看，根据原则2，当同一件事情需要多个步骤时，就复杂了。但是！！！好消息！今天收到一封邮件：<strong>BrowZine</strong>开始有邮件推送了！！！这样，期刊浏览和期刊提醒就全部打通了！</p><img src="/posts/7d23ca18/Users\ykyan\OneDrive\Desktop\hexo\source\_posts\我的知识体系\image-20221217154323739.png" alt="image-20221217154323739" style="zoom: 50%;"><img src="/posts/7d23ca18/Users\ykyan\OneDrive\Desktop\hexo\source\_posts\我的知识体系\image-20221217154730613.png" alt="image-20221217154730613" style="zoom:50%;"><h3 id="时间管理"><a href="#时间管理" class="headerlink" title="时间管理"></a>时间管理</h3><p>&emsp;&emsp;最后说到时间管理，虽然目前日历已经对任务做了很好的呈现，但是执行任务又是另外一回事。最近的感觉就是，说的多做的少，时间一周一周的过，但是任务却没有很好的完成。可能是受到的干扰太多，心静不下来，进入不了心流状态。昨晚赶作业，连续工作了好几个小时，写作也是飞快，发现任务本身并不可惧，可怕是开始的那一刻。于是开始琢磨，如何更加有效地进行任务启动。我觉得有以下几点要注意：</p><ol><li><p>工作时间和娱乐时间要分开，应该直接进入到工作状态而不是先看一些娱乐消息；</p></li><li><p>每天可以在obsidian的daily note中制定要完成的事项，然后一项一项地完成。</p></li><li><p>利用番茄钟来进行管理</p></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;经过长期思考和实践，目前已经形成的几大知识体系已经基本成型和完善，觉得有必要整理一下，一是总结提高，而是继续坚持。之前的一篇&lt;a href=&quot;https://silkiller.github.io/posts/81caec1a.html&quot;&gt;任务管理&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Life Experiment" scheme="https://silkiller.github.io/categories/Life-Experiment/"/>
+    
+    
+    <category term="日程管理" scheme="https://silkiller.github.io/tags/%E6%97%A5%E7%A8%8B%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="笔记管理" scheme="https://silkiller.github.io/tags/%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="订阅管理" scheme="https://silkiller.github.io/tags/%E8%AE%A2%E9%98%85%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="时间管理" scheme="https://silkiller.github.io/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>静谧的激情</title>
@@ -467,31 +494,6 @@
     
     
     <category term="妈妈" scheme="https://silkiller.github.io/tags/%E5%A6%88%E5%A6%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>写在毕业一周年，马内加盟拜仁和George66岁生日之际</title>
-    <link href="https://silkiller.github.io/posts/d4c1aa19.html"/>
-    <id>https://silkiller.github.io/posts/d4c1aa19.html</id>
-    <published>2022-06-24T19:15:42.000Z</published>
-    <updated>2022-06-24T19:56:12.230Z</updated>
-    
-    <content type="html"><![CDATA[<p>&emsp;&emsp;标题很长，实际是偷懒了，本应该是三篇博文的，却浓缩成了一篇。但三篇博文的确又有一些相似之处，放在一起倒也合理。去年的6月23日，是武汉大学毕业典礼，是我毕业的日子，转眼间，又是一年毕业典礼；刚看利物浦足球的时候，还是红箭三侠的前锋群，如今菲尔米诺成为替补，马内加盟拜仁，萨拉赫闹加薪，明年极有可能自由身离队；George 出生于1956年6月18日，如今也迈入66岁。</p><span id="more"></span><p>&emsp;&emsp;三件事情相同的地方在于，时间的流逝从不以人的意志为转移。闭上眼感觉毕业典礼还是昨天，一晃眼下一届的毕业典礼已经结束；还记得前场红箭三侠的无所不能的进球，转眼间也分崩离析，利物浦重新进入重建轨道；George看着年轻，和我一起训练，却也66岁“高龄”。我们究竟应该以什么样的心态看待时间？是从容地看着时间流逝，还是痛苦地哀叹时间的飞逝，其实两者并没有什么差别，无非是心态而已。那么为什么不选择一种积极的心态呢？毕业虽然已经一年，我却从武汉大学来到了伊拉，研究上取得了不小的进展，收获满满。利物浦虽然失去了马内，但是却迎来了努涅斯，迪亚斯，新的前场三叉戟组建完成。跟George一起吃饭时，我问他当他在我这个年纪时在干什么，他如何看待身边的亲人的逝去等等。他说，我们每个人都有自己的生活，我们应该过好自己的生活。人有生老病死，旦夕祸福，我们不能左右，与其陷入无尽的悲伤，不如活出自己的生活。我明白他的意思，我们不是超脱亲情，变成无情的人，而是要自己掌控自己的情绪，失去的就让他逝去吧。我们为什么会回忆，把回忆拆解开来，我们之所以回忆，都是在思念失去的东西，失去的青春，失去的情绪，失去的人或物。动物会思念吗？人为什么会有思念这种情绪存在？或许这是记忆的衍生品，副作用，当记忆的东西越多，我们便生出怀念的情绪。<br>&emsp;&emsp;有句话说，真正的英雄主义是看清生活的本质但仍然热爱它。当大多数人都关注这句话的后半部分时，我想问什么是生活的本质？我们又为什么会热爱它。生活的本质如果这么容易看清，又为何爱它者寥寥。我想，认清生活的本质是困难的，残酷的。生活优渥的人很少看清金钱的本质，平步青云的人很少看清失败的本质，开心的人很少看清忧郁的本质，我们选择了一面就意味着失去另一面。这样看来，怎样才能看清生活的本质呢。理想情况下，看清生活的本质需要人历经磨难，尝遍酸甜苦辣，哪怕如此，也不一定看清本源。在目前的我看来，我理解的不全面的生活的本质至少包括以下几点：自我是残缺的；失败和痛苦是人生的主旋律；时间对每个人都是公平的；人是群居动物，具有社会属性；等等。如何看待我们所了解的本质决定了我们如何去热爱，热爱不完美的自己，热爱奋斗过程，哪怕这个过程最终走向失败；热爱时间，把时间浪费在美好的事情上；热爱身边的人，真诚待人等等。人生是一场自我修炼，修炼心，而不在形。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;标题很长，实际是偷懒了，本应该是三篇博文的，却浓缩成了一篇。但三篇博文的确又有一些相似之处，放在一起倒也合理。去年的6月23日，是武汉大学毕业典礼，是我毕业的日子，转眼间，又是一年毕业典礼；刚看利物浦足球的时候，还是红箭三侠的前锋群，如今菲尔米诺成为替补，马内加盟拜仁，萨拉赫闹加薪，明年极有可能自由身离队；George 出生于1956年6月18日，如今也迈入66岁。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="毕业" scheme="https://silkiller.github.io/tags/%E6%AF%95%E4%B8%9A/"/>
-    
-    <category term="利物浦" scheme="https://silkiller.github.io/tags/%E5%88%A9%E7%89%A9%E6%B5%A6/"/>
-    
-    <category term="George" scheme="https://silkiller.github.io/tags/George/"/>
     
   </entry>
   

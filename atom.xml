@@ -6,7 +6,7 @@
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
-  <updated>2023-02-24T16:27:35.000Z</updated>
+  <updated>2023-03-02T15:27:19.000Z</updated>
   <id>https://silkiller.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>当我用ChatGPT给我写博客</title>
+    <link href="https://silkiller.github.io/posts/8d942b7b.html"/>
+    <id>https://silkiller.github.io/posts/8d942b7b.html</id>
+    <published>2023-03-02T14:21:57.000Z</published>
+    <updated>2023-03-02T15:27:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>作为新技术的尝鲜者和弄潮儿，ChatGPT自然是第一时间试用了，但我使用它的感受却经历了好几种变化，第一次是去年十二月份刚出来时，我体会到了ChatGPT的强大，但好像也没有那么强大，所回答的问题仍然是我所知道的，主要是测试ChatGPT能够有效地提供准确的答案。第二次是一月初，当我开始以更加创意的方式来提问时，例如，你可以帮我找到A和B之间关系的理论解释吗，再次被震撼到。第三次则是最近，当我用更加严谨的，详细的prompt来引导ChatGPT完成任务后，在我眼前彷佛打开了一个新世界，ChatGPT的魔力开始展现。</p><span id="more"></span><p>ChatGPT的能力需要释放，ChatGPT的能力取决于你提问题的能力。于是我们看到了一系列的针对GPT的prompt：  </p><blockquote><p>我想让你充当 Linux 终端。我将输入命令，您将回复终端应显示的内容。我希望您只在一个唯一的代码块内回复终端输出，而不是其他任何内容。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会把文字放在中括号内[就像这样]。我的第一个命令是 pwd  </p></blockquote><p>以及这样：</p><blockquote><p>我想让你担任Android开发工程师面试官。我将成为候选人，您将向我询问Android开发工程师职位的面试问题。我希望你只作为面试官回答。不要一次写出所有的问题。我希望你只对我进行采访。问我问题，等待我的回答。不要写解释。像面试官一样一个一个问我，等我回答。我的第一句话是“面试官你好”</p></blockquote><p>如果觉得太多记不住，目前已有<a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">现成的github项目</a>可以直接借用。或者，更方便的，用Google Chrome的ChatGPT插件，实现，<a href="https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj?hl=en">网页无缝的prompt提示</a>，甚至可以再用一个插件，实现<a href="https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn?hl=en">ChatGPT的语音对话能力</a>（这个能力非常amazing，后面接着说）  </p><p><img src="https://s2.loli.net/2023/03/02/4PO3WYGvkX2E7nD.png" alt="image.png">  </p><p>没有New Bing的内测权限？ 没问题，<a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=en">ChatGPT for Google</a>为你定制一个全新的搜索引擎，google丰富的信息量加上ChatGPT，boom，你将可以直接得到答案，实测速度比New Bing要快，而且界面非常友好，甚至看不出来这不是Google的产品。</p><p><img src="https://s2.loli.net/2023/03/02/MmutxY5XHJCbKvd.png" alt="image.png">  </p><p>想要用ChatGPT练口语，但是ChatGPT不会说话？Voice control for ChatGPT完美解决这一难题。</p><p><img src="https://s2.loli.net/2023/03/02/MxivBK6dVcEwI79.png" alt="image.png"><br><img src="https://s2.loli.net/2023/03/02/6bdX7ZPIGWihV4r.png" alt="image.png">    </p><p>语音输入，语音输出，发音标准，还可以调节语速快慢和语种，Amazing。</p><p>当然，现有工具固然好用，为了更好地使用这项工具，我也尝试进行了一些个性化的设定。将每个对话设定为一个工具，每个工具中我都会提供一定的背景信息，以帮助ChatGPT快读响应。例如，我常用的几个工具：虚拟医生问诊，proofreading，查字典，撰写邮件等等  </p><p><img src="https://s2.loli.net/2023/03/02/6F3vbM4GKLTWIyQ.png" alt="image.png"> </p><p>例如字典的英译中功能：<br><img src="https://s2.loli.net/2023/03/02/WqTD3zyjhZbRp12.png" alt="image.png"><br>设定好之后，只要随意输入一个英文单词，就能够得到释义和例句， Amazing, isn’t it?  </p><p>还在用百度问诊？ChatGPT虚拟问诊：<br><img src="https://s2.loli.net/2023/03/02/FIPU5VhGqrdB1c7.png" alt="image.png"></p><p>再经历以上Amazing的体验之后，我们终于来到本文的正文部分，尝试让ChatGPT给我写一篇博客！具体步骤如下：<br>首先，我会给ChatGPT学习我的几篇博客。我为什么喜欢五条人乐队，2021年终总结和我自己最喜欢的一篇随笔三则，三篇文章分别对应不同的风格，散文类，总结类，思辨类，汇聚到一起，看看ChatGPT会学到什么。<br><img src="https://s2.loli.net/2023/03/02/Oz17DTKLlRIndSr.png" alt="image.png">  </p><p>学完之后，我让ChatGPT写一篇新的博文：</p><blockquote><p>YY: now, based on the three blogs I provided above, write a new blog in Chinese. In this new blog, I want to express my recent reflections on how fast time flies and why we need to experience new things to slow down the time.</p></blockquote><blockquote><p>ChatGPT: Certainly, I can assist you in writing a blog on this topic. Here’s a draft for you to review:<br><strong>Title:</strong> <strong>忙碌人生，体验新事物缓慢时光</strong><br>时间如白驹过隙，当我们意识到时，已经老去。回首往事，我们往往会感叹光阴似箭，日月如梭。虽然每天都有24小时，但我们感觉时间总是不够用，仿佛时间在我们手中流逝得飞快。为什么时间会飞逝呢？或许我们需要从体验新事物中寻找答案。<br>&emsp;人类的感知时间与年龄、环境、情感等因素有关。年龄越大，时间感知越快。平淡无奇的生活环境和工作任务也会加速时间感知。而新事物的出现，能够打破我们既定的认知和生活状态，让我们的时间感知变得缓慢。<br>&emsp;体验新事物的方式千种万样，可以是品尝陌生的食物、阅读陌生的书籍、学习陌生的技能、旅行到陌生的地方等等。这些新事物能够让我们对周围的世界产生好奇心，让我们保持开放的心态，从而让时间感知变得缓慢。<br>&emsp;在忙碌的日子里，我们需要花时间去尝试新事物，让自己跳出舒适圈，感受新鲜的事物带给我们的惊喜和乐趣。在这个过程中，我们能够重新认识自己，发现自己的潜力和未来的可能性。而且，当我们对新事物充满热情时，时间也会变得缓慢。<br>&emsp;所以，如果你也觉得时间飞快，那么不妨尝试一下新事物，让自己感受到时间的缓慢。让我们保持好奇心，享受人生，不留遗憾。 </p></blockquote><p>有点太平庸，让ChatGPT写的更加具有散文质感：  </p><blockquote><p>YY:can you make it more more beautiful in rhetoric？ </p></blockquote><blockquote><p>ChatGPT: Sure, here’s a more rhetorical version of the same blog post:<br>&emsp;时间过得真快，不是吗？似乎就在昨天我们还在庆祝新年，而今天我们已经进入了三月。这种感觉就像一场短暂而美丽的梦，让我们感到匆忙和无奈。<br>&emsp;或许原因在于我们的生活过于单调乏味。我们在同样的地方、同样的时间、同样的人、同样的事情中循环往复。一旦我们习惯了这样的生活方式，时间就会在我们不知不觉中溜走。而要想减缓时间的流逝，我们需要不断尝试新的事物、新的体验，让我们的生活充满新鲜感和刺激，让我们不再盲目地被时间带着前行，而是能够真正地感受时间的存在和价值。<br>&emsp;为了让时间减缓速度，我们需要经历新事物。当我们体验新的事物时，我们的感官和大脑会受到刺激，使时间看起来变慢。这是因为我们的大脑需要处理新的信息，而这需要更多的时间和精力。<br>&emsp;所以，让我们走出舒适区，尝试新的事物。去探索陌生的领域，结交新的朋友，尝试新的食物。这样做不仅可以让我们感受到生命的丰富多彩，还可以让我们感到时间变得慢些，这样我们就可以更好地珍惜每一刻。<br>&emsp;生命短暂，时间宝贵。让我们在有生之年尽可能地体验新事物，珍惜时间，创造美好的回忆。  </p></blockquote><p>感觉前两段还是写的不错的😮，还颇有我的一些风格.“这种感觉就像一场短暂而美丽的梦，让我们感到匆忙和无奈”。或许ChatGPT的未来某一天，也会让我们感到这是一场梦，也让我们无奈呢。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;作为新技术的尝鲜者和弄潮儿，ChatGPT自然是第一时间试用了，但我使用它的感受却经历了好几种变化，第一次是去年十二月份刚出来时，我体会到了ChatGPT的强大，但好像也没有那么强大，所回答的问题仍然是我所知道的，主要是测试ChatGPT能够有效地提供准确的答案。第二次是一月初，当我开始以更加创意的方式来提问时，例如，你可以帮我找到A和B之间关系的理论解释吗，再次被震撼到。第三次则是最近，当我用更加严谨的，详细的prompt来引导ChatGPT完成任务后，在我眼前彷佛打开了一个新世界，ChatGPT的魔力开始展现。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://silkiller.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="ChatGPT" scheme="https://silkiller.github.io/tags/ChatGPT/"/>
+    
+    <category term="Blog" scheme="https://silkiller.github.io/tags/Blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>旅行游记-罗马/佛罗伦萨/比萨/威尼斯</title>
     <link href="https://silkiller.github.io/posts/89e3c382.html"/>
     <id>https://silkiller.github.io/posts/89e3c382.html</id>
     <published>2023-02-17T15:35:48.000Z</published>
-    <updated>2023-02-24T16:27:35.000Z</updated>
+    <updated>2023-02-24T16:28:46.110Z</updated>
     
     <content type="html"><![CDATA[<p>今天离出去玩的第一天正好一个月，时间过得飞快，自己也太懒，导致后面几个城市的游记不得不合并为一篇。不过在旅行过后，仍然能够回忆起来的点应该是最珍贵和难忘的，也因此更加具备了纪念的价值；顺便，也想在插缝讲述一下游玩归来的所思所想。所以，这篇博文的标题应该更新为：旅行游记-罗马/佛罗伦萨/比萨/威尼斯并游后感🤣。</p><span id="more"></span><h3 id="罗马"><a href="#罗马" class="headerlink" title="罗马"></a>罗马</h3><p>记忆里的罗马就是斗兽场巍峨的圆环式建筑，高低起伏的石子路和随处可见的雕塑，真正走进罗马，发现斗兽场没有想象中的恢弘庞大，太多人为的痕迹掩盖了曾经罗马帝国辉煌的过去，也让游人失望而归。雕塑的确是随处可见，见多了，也麻木了。现在回想起来，罗马的大多数景点已经记不太清楚，印象最深刻的是我们刚到罗马的晚上，去觅食的路上，两旁古典的建筑和喷泉，一下就进入了罗马城的怀抱中。吃完饭回家，我和同行的海洲一起在罗马的街道上高声歌唱，郑钧的私奔在罗马街头响起，周杰伦，张学友，张惠妹，莫文蔚……陪伴了我们一起在罗马的第一晚。  </p><h3 id="佛罗伦萨"><a href="#佛罗伦萨" class="headerlink" title="佛罗伦萨"></a>佛罗伦萨</h3><p>佛罗伦萨应该是本次意大利之行最惊艳的一站，记忆点也最多。桥上弹吉他的老人，市中心唱美声的女士，小教堂里意大利三大男高音的高唱，大卫的雕像，掷饼者的雕像，维纳斯的诞生…在佛罗伦萨的几天，总是令人无比难忘。</p><h3 id="比萨"><a href="#比萨" class="headerlink" title="比萨"></a>比萨</h3><p>比萨离佛罗伦萨不远，坐着火车晃悠着就过去了，在比萨斜塔旁拍了好多搞笑的照片，原来比萨斜塔旁还有另外两栋建筑，翠绿的草地和白色的建筑作为彼此的背景，彷佛一瞬间让人走进童话世界。拍照结束，四个人一起散步再去觅食，在一条传统的意大利街道的两旁，众多的餐厅都讲桌椅摆在外面，在阳光下进餐，点的菜都变得更好吃了。  </p><h3 id="威尼斯"><a href="#威尼斯" class="headerlink" title="威尼斯"></a>威尼斯</h3><p>在威尼斯的短暂停留也留下了不少记忆点，水城里的小巷发现了好吃的点心店，还有牛皮封面的笔记本，羽毛笔，玻璃笔等各种文具制品。坐上轮渡穿行大半个岛，宽阔的水面让人一下分不清是在威尼斯还是阿姆斯特丹，但水边联排的恢弘的建筑又一下将我拉回来。临近傍晚的威尼斯是最独特的，夕阳撒在水面上，驾驶贡多拉的船夫渐行渐远，海鸟在镜头里一闪而过……</p><h3 id="游后感"><a href="#游后感" class="headerlink" title="游后感"></a>游后感</h3><p>回来后的第一天，荷兰就给我了惊喜，阴晴不定的天气和随时随地降临的雨水，让好心情像扎猛子般下沉，但好在在南欧吸收的阳光储备足够多，暂时还没有抑郁的情绪找上门，so far so good。 但不到一星期，就感染上了流感，从嗓子痛到鼻塞再到发烧，不过一两天而已，难受得起不来床，也没有了任何学习效率。病好了，却好像一下子失去了力量，不愿意出门，不愿意锻炼，研究上进展缓慢。这种状态一直持续了一周左右，才慢慢得以缓解，加上最近的社交活动逐渐多了起来，状态也开始慢慢变好了。  </p><p>状态变好之后的一个感悟，就是100%的放松并不会让人100%真正放松，完全忘记工作去尽情的玩耍并不是一个完美的方案，80%的放松便足矣了。再就是，快乐的时光总是短暂的，过度地沉浸在高期望值的事物中，会让人不再习惯延迟满足，变得没有耐心没有静谧的激情。还是要克制一下娱乐的时间，保证大脑运转的时间。最近更博没有那么勤快了，大体上是困扰自己的事情变少了，快乐的时光多起来了，不知道这是好事还是坏事。那种痛苦地挣扎着前进的感觉，让人觉得很真实，而现在却觉得漂浮在空中，独处的时间变少了，思考的时间也变短了，这样不好，我对自己说。进入2023年，只跑了两次步，每次都不到十公里；但跑步一直是最能让我独处的时候，我丧失了他们，应该补足回来。</p>]]></content>
     
@@ -477,27 +500,6 @@
     
     
     <category term="Thee" scheme="https://silkiller.github.io/tags/Thee/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>亲爱的CranberriesR祝你生日快乐</title>
-    <link href="https://silkiller.github.io/posts/afac03d2.html"/>
-    <id>https://silkiller.github.io/posts/afac03d2.html</id>
-    <published>2022-08-23T15:09:30.000Z</published>
-    <updated>2022-08-23T21:37:19.231Z</updated>
-    
-    <content type="html"><![CDATA[<p>亲爱的CranberriesR，祝你生日快乐。<br><img src="https://s2.loli.net/2022/08/24/HVaJL1o3Nnf94Ox.png" alt="Screenshot 2022-08-23 222239.png"></p><span id="more"></span>  <p>&emsp;&emsp;转眼就26岁了，也老大不小了，不知怎么地，特别想隐藏起来自己的生日不让人知道。没想到早上就收到了来自Rowan的生日祝福，她从Facebook的推送中知道了。于是干脆就公开吧，中午请Anyan吃了饭。晚上照样去训练，每个人都热情地给我打招呼，用荷兰语说着Happy Birthday，我笑着回应，Thank you，感觉很棒。训练结束，我问George，当你26岁的时候你在哪儿，他说在LA完成最后一年的学业；我又问，当你回首过去，这是一种什么样的感觉，“只感觉时间太快了”。George比我大41岁，已经是可以当我爷爷的年纪，他重复地说着，太快了。是啊，哪怕简单地回首过去的五年，2017年，我仍然可以想起那个考研的时候；过去十年，2012年，高一到高二，奋战在考试卷中，但也开启了一段地下恋情；过去十五年，2007年，小学六年级，对未来没有什么想法，整天忙着玩耍，或许想过去翔宇念书。过去二十年，2002年，那时候我在哪儿，应该刚到毛市小学念一年级吧，还记得因为刚从贵州回来的缘故，操着一口贵州话，和小卖部的人扯不清楚多少钱，哭着回家找爸妈。过去二十五年，1997年，一岁的年纪，尚未形成完整的记忆，一片朦朦胧胧。<br>&emsp;&emsp;或许是受到Better Call Saul最终季的影响，我问George，那这么多年，你最后悔的是什么？他说后悔没有学工业心理学。我说我没有regrets，就好像Saul一样。一直以来秉持的哲学便是，what you are now is decided by what you were in the past，只有不满意现状的人才会后悔过去的选择。我对现状满意吗，答案目前来说应该还是肯定的。和珍珍的感情有后悔，曾经有过，而且很强烈，现在细想来，真正爱过的感情便应该在最绚丽的时刻爆炸燃尽，而不是在往后的柴米油盐，琐碎中慢慢磨灭，很爱很爱过，也依然占据很重要的位置，便足够了，现在的结局，应该对双方都好吧。真正后悔的是，没能在一段感情中做得更好，其实额外付出一点努力并不难，也不会给自己造成太多的负担，但那时候的自己太焦虑，焦躁了，也经常处在很大的压力中，还想不到这些。26岁了，一个很重要的感悟，除了坦然接受不完美的自己外；便是“静水流深；物壮则老”，不必每时每刻都在往前冲，而是可持续的向前，十年，或者二十年，会看到自己想要的结局。<br>&emsp;&emsp;26岁，不知道怎么就觉得特别了，或许这是到了成家立业的年纪吧。霍去病18岁封为冠军侯，22岁封于狼居胥山，何等的豪情气魄。毛泽东20多岁，便可写成《心之力》《体育之研究》，创办新民学会…古往今来，但凡大才，少有年轻时沉寂的，26岁，还不算过时，还是可以做出一番成绩。中国人讲五年和十年的整数，25岁一过，便是朝着30岁去了，对于26岁的人，没有人会再当他是小孩子。有时候甚至会想，自己到底是成长太快还是成长太慢，如果在老家，这个年纪小孩都上幼儿园了，如今却还在异国他乡读书，想来也挺可笑的。今天跟Anyan聊天，也就是这些看似可笑和不可理喻的选择将相似的人聚到一起。如果不曾出国，荷兰鹿特丹的生活于我来说便是另一个平行世界，只不过我主动选择了某一平行世界，让他成为现实，想想也挺奇妙的。<br>&emsp;&emsp;所以，写到最后，祝自己26岁生日快乐！以后每一天，都要直面一切！</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;亲爱的CranberriesR，祝你生日快乐。&lt;br&gt;&lt;img src=&quot;https://s2.loli.net/2022/08/24/HVaJL1o3Nnf94Ox.png&quot; alt=&quot;Screenshot 2022-08-23 222239.png&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="生日" scheme="https://silkiller.github.io/tags/%E7%94%9F%E6%97%A5/"/>
     
   </entry>
   

@@ -6,7 +6,7 @@
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
-  <updated>2023-04-08T17:22:51.360Z</updated>
+  <updated>2023-04-08T17:36:23.909Z</updated>
   <id>https://silkiller.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客转移技巧</title>
+    <link href="https://silkiller.github.io/posts/caa2dccf.html"/>
+    <id>https://silkiller.github.io/posts/caa2dccf.html</id>
+    <published>2023-04-08T17:25:49.000Z</published>
+    <updated>2023-04-08T17:36:23.909Z</updated>
+    
+    <content type="html"><![CDATA[<p>老电脑Win11实在是带不动，又换到了Win10。但这次博客的转移比较丝滑，特此记录，方便以后换电脑重新设置博客。</p><span id="more"></span><p>由于我的博客的全部文件夹都实现了云同步，实际上不需要再重复安装一些插件和进行重复的设置，以前的个性化设置都可以保留。需要注意的几个点就是：</p><ul><li><strong>安装Git和Node.js</strong>。注意Node和Next的版本号进行对应，目前Next 8.+的版本可以适配16.20的Node.js;</li><li><strong>设置Git和Github绑定，生成新的SSH</strong>；</li><li><strong>在初始博客文件夹安装Hexo</strong>。shift+右键，Windows power shell中安装hexo。</li><li><strong>测试hexo new/generate/deploy命令</strong>；</li></ul><p>搞定以上四步即可以丝滑过度到新电脑，再也不用担心刷系统和更换电脑的后顾之忧了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;老电脑Win11实在是带不动，又换到了Win10。但这次博客的转移比较丝滑，特此记录，方便以后换电脑重新设置博客。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://silkiller.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="hexo" scheme="https://silkiller.github.io/tags/hexo/"/>
+    
+    <category term="blog" scheme="https://silkiller.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>在阳光的乌云下散步</title>
     <link href="https://silkiller.github.io/posts/434b1638.html"/>
     <id>https://silkiller.github.io/posts/434b1638.html</id>
     <published>2023-04-08T17:07:36.000Z</published>
-    <updated>2023-04-08T17:22:51.360Z</updated>
+    <updated>2023-04-08T17:36:25.379Z</updated>
     
     <content type="html"><![CDATA[<p>给汪老师制作这本纪念册收获了很多感动，特此记录。  </p><p>“May your days be filled with an abundance of happiness, and may your smile never fade.”<br>“惟愿笑口常开，快乐满怀”</p><span id="more"></span><p><strong>给汪老师的留言：</strong> </p><p>汪老师，你到荷兰的那天，我正从巴塞罗那乘火车前往马德里。飞驰的火车翻过广袤苍凉的卡斯蒂利亚高原，它不曾知道，车上的人也不知道，你也跨越大洲大洋来到了郁金香国度。  </p><p>第一次见你，是在烟雾缭绕又香气扑鼻的烤肉店，我们大块朵颐、纵情谈论，彷佛不曾陌生过。一起玩 Blackjack、一起组队 Padel、一起坐着无人车唱着歌、一起在晴天的乌云下散步、一起在雪中看一场女足联赛抑或是荷兰国家队比赛……快乐的时刻太多，以至于忘了时间过得有多快。转眼间，你又要跨洲跨洋，去往另一个国度，辗转再回香港。  </p><p>你来时，荷兰风雪交加；将离开时，最好的荷兰却即将揭幕，在最差的季节遇见一群很棒的朋友未尝不是人生一大幸事。没有见过荷兰的夏天却总是遗憾，我因此放了好些夏天的照片在这本纪念册里，希望能将这份遗憾稍稍补足。  </p><p>古人云，山川异域，风月同天。相信再见的那一天一定不会太遥远。  </p><p><img src="https://s2.loli.net/2023/04/09/Rx2vSYbQaP3iWKo.png" alt="image.png"><br><img src="https://s2.loli.net/2023/04/09/gj1Q2xobUIvnyOl.png" alt="image.png"></p>]]></content>
     
@@ -31,7 +54,7 @@
     
     
     
-    <category term="随笔；" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94%EF%BC%9B/"/>
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
     <category term="离别" scheme="https://silkiller.github.io/tags/%E7%A6%BB%E5%88%AB/"/>
@@ -467,27 +490,6 @@
     <category term="凤梨罐头" scheme="https://silkiller.github.io/tags/%E5%87%A4%E6%A2%A8%E7%BD%90%E5%A4%B4/"/>
     
     <category term="过期" scheme="https://silkiller.github.io/tags/%E8%BF%87%E6%9C%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Focus on yourself</title>
-    <link href="https://silkiller.github.io/posts/64565b77.html"/>
-    <id>https://silkiller.github.io/posts/64565b77.html</id>
-    <published>2022-10-30T11:19:57.000Z</published>
-    <updated>2022-11-08T10:12:09.930Z</updated>
-    
-    <content type="html"><![CDATA[<p>&emsp;&emsp; 如果体验是在云端，那么总有一天会跌落；狂喜伴随而来的往往也是极悲，从科学的角度解释，一个系统总是趋向于熵增，趋向于不稳定。没意外，和thee的短暂的我自以为的感情也随之跌落了。我试着不去想，装作无所谓，装作很酷，装作一笔带过，但是不能。于是故作深情地买醉，在上一个周六的晚上，老友记自顾自地放着，我也自顾自地小酌，然后变成大口大口灌自己，然后双眼朦胧，沉沉睡去……一直到凌晨5点醒来，老友记还在放着，酒却醒了大半，这个时刻，我感受到平静的力量，和孤独。又经过一周，看似朋友的相处，也时不时让人陷入深思，将往何处？有时候会思考人们为何需要爱情，为何需要两个人，除了生理和繁衍后代的需要，很多事情都似乎可以一个人完成。回想过去的一些感情经历，遍布着爱而不得，爱而短暂，被爱不知，被爱不爱等等等，一时间好像对爱情这个东西失去了信心。 </p><span id="more"></span><p>&emsp;&emsp; 试着将关注的目光重新投向自己，投向朋友们，投向马虎经营的社交关系，发现得到的也是很珍贵的东西。不知道什么时候开始，脑子开始产生一个想法，为什么总是陷入无休止的精神内耗呢？为什么攻读phd这么珍贵的日子要拿来无谓地消耗掉？为什么这颗自认为还算“聪明”的头脑要思考那些琐事和烦恼？顿时以为然。此刻2022.10.30 12：19pm坐在星巴克靠窗的位置，我深刻地觉得，自己浪费的是多么珍贵的东西。不应该过度地去追求那些带来过度的简单的快乐的东西，因为他们来得容易失去地往往也很快，而应该去追求那些不容易得到，得到却可以持续输出小剂量的东西。爱情也是如此，不应该追求短时间的crush，而是去追求一颗可以相互靠近的心。这颗心可以互相陪伴，可以相互诉说。<br>&emsp;&emsp;  <strong>The greatest minds are supposed to think about grand challenges instead of trivial matters.</strong><br>&emsp;&emsp;  <strong>When you fouse on yourself, you grow; When you fouse on shit, shit grows.</strong></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp; 如果体验是在云端，那么总有一天会跌落；狂喜伴随而来的往往也是极悲，从科学的角度解释，一个系统总是趋向于熵增，趋向于不稳定。没意外，和thee的短暂的我自以为的感情也随之跌落了。我试着不去想，装作无所谓，装作很酷，装作一笔带过，但是不能。于是故作深情地买醉，在上一个周六的晚上，老友记自顾自地放着，我也自顾自地小酌，然后变成大口大口灌自己，然后双眼朦胧，沉沉睡去……一直到凌晨5点醒来，老友记还在放着，酒却醒了大半，这个时刻，我感受到平静的力量，和孤独。又经过一周，看似朋友的相处，也时不时让人陷入深思，将往何处？有时候会思考人们为何需要爱情，为何需要两个人，除了生理和繁衍后代的需要，很多事情都似乎可以一个人完成。回想过去的一些感情经历，遍布着爱而不得，爱而短暂，被爱不知，被爱不爱等等等，一时间好像对爱情这个东西失去了信心。 &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="PhD" scheme="https://silkiller.github.io/tags/PhD/"/>
     
   </entry>
   

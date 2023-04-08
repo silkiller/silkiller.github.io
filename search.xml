@@ -15,6 +15,28 @@
       </tags>
   </entry>
   <entry>
+    <title>博客转移技巧</title>
+    <url>/posts/caa2dccf.html</url>
+    <content><![CDATA[<p>老电脑Win11实在是带不动，又换到了Win10。但这次博客的转移比较丝滑，特此记录，方便以后换电脑重新设置博客。</p>
+<span id="more"></span>
+<p>由于我的博客的全部文件夹都实现了云同步，实际上不需要再重复安装一些插件和进行重复的设置，以前的个性化设置都可以保留。需要注意的几个点就是：</p>
+<ul>
+<li><strong>安装Git和Node.js</strong>。注意Node和Next的版本号进行对应，目前Next 8.+的版本可以适配16.20的Node.js;</li>
+<li><strong>设置Git和Github绑定，生成新的SSH</strong>；</li>
+<li><strong>在初始博客文件夹安装Hexo</strong>。shift+右键，Windows power shell中安装hexo。</li>
+<li><strong>测试hexo new/generate/deploy命令</strong>；</li>
+</ul>
+<p>搞定以上四步即可以丝滑过度到新电脑，再也不用担心刷系统和更换电脑的后顾之忧了。</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>在阳光的乌云下散步</title>
     <url>/posts/434b1638.html</url>
     <content><![CDATA[<p>给汪老师制作这本纪念册收获了很多感动，特此记录。  </p>
@@ -28,7 +50,7 @@
 <p><img src="https://s2.loli.net/2023/04/09/Rx2vSYbQaP3iWKo.png" alt="image.png"><br><img src="https://s2.loli.net/2023/04/09/gj1Q2xobUIvnyOl.png" alt="image.png"></p>
 ]]></content>
       <categories>
-        <category>随笔；</category>
+        <category>随笔</category>
       </categories>
       <tags>
         <tag>离别</tag>

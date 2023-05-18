@@ -17,9 +17,15 @@
   <entry>
     <title>郑老师教我R</title>
     <url>/posts/f3139065.html</url>
-    <content><![CDATA[<span id="more"></span>
-
+    <content><![CDATA[<p>越来越感觉到研究中R的重要性，拥有最新的方法和最齐全的包，还有开源和免费的超大优势，如今不会使用R似乎有些说不过去了。于是开始琢磨R的安装和使用，在一个雨天的星巴克，感谢郑老师带我入门，特此记录。</p>
 ]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+        <tag>R studio</tag>
+      </tags>
   </entry>
   <entry>
     <title>大巴黎翩然一梦</title>

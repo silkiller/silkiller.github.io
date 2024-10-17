@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 7.2.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <meta name="google-site-verification" content="weX1DxwFTPqDM4xqt2q3aWX12Ty8dgRCqKh9ztk3g2w" />
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CRoboto+Mono:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"silkiller.github.io","root":"/","images":"/images","scheme":"Mist","darkmode":true,"version":"8.13.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"show_result":true,"style":"mac"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+
+ <script>(function(i,s,o,g,r,a,m){i["DaoVoiceObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;a.charset="utf-8";m.parentNode.insertBefore(a,m)})(window,document,"script",('https:' == document.location.protocol ? 'https:' : 'http:') + "//widget.daovoice.io/widget/b6dbddb6.js","daovoice")
+ daovoice('init', {
+  app_id: "babc2ab7"
+});
+daovoice('update');
+ </script>
+
+    <meta name="description" content="&emsp;&emsp;最近又开始对睡眠感兴趣了，特别是智能可穿戴设备的睡眠检测功能，是否准确，原理是什么？以前似乎都没有太过在意。看了一些资料，总结如下。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Sleep and Scientific Principles">
+<meta property="og:url" content="https://silkiller.github.io/posts/7e65ea80/index.html">
+<meta property="og:site_name" content="Y.K.&#39;s BLOG">
+<meta property="og:description" content="&emsp;&emsp;最近又开始对睡眠感兴趣了，特别是智能可穿戴设备的睡眠检测功能，是否准确，原理是什么？以前似乎都没有太过在意。看了一些资料，总结如下。">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2021-11-17T09:14:43.000Z">
+<meta property="article:modified_time" content="2021-11-17T09:58:28.000Z">
+<meta property="article:author" content="Johan.Y">
+<meta property="article:tag" content="CPC">
+<meta property="article:tag" content="HRV">
+<meta property="article:tag" content="Huawei">
+<meta property="article:tag" content="Fengshengyongkang">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://silkiller.github.io/posts/7e65ea80/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://silkiller.github.io/posts/7e65ea80/","path":"posts/7e65ea80/","title":"Sleep and Scientific Principles"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>Sleep and Scientific Principles | Y.K.'s BLOG</title>
+  
+
+
+
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1/needsharebutton.min.css"><style>
+#needsharebutton-postbottom {
+  cursor: pointer;
+  height: 26px;
+  margin-top: 10px;
+  position: relative;
+}
+#needsharebutton-postbottom .btn {
+  border: 1px solid $btn-default-border-color;
+  border-radius: 3px;
+  display: initial;
+  padding: 1px 4px;
+}
+</style>
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="Y.K.'s BLOG" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">Y.K.'s BLOG</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">理想是成为全才</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-overview-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Johan.Y"
+      src="/images/avatar.gif">
+  <p class="site-author-name" itemprop="name">Johan.Y</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">154</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">12</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">266</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/silkiller" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;silkiller" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:youngfor823@gmail.com" title="E-Mail → mailto:youngfor823@gmail.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/yk.amj" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;yk.amj" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="Back to top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://silkiller.github.io/posts/7e65ea80/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Johan.Y">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Y.K.'s BLOG">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="Sleep and Scientific Principles | Y.K.'s BLOG">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          Sleep and Scientific Principles
+        </h1>
+
+        <div class="post-meta-container">
+		  
+		  
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+      
+
+      <time title="Created: 2021-11-17 10:14:43 / Modified: 10:58:28" itemprop="dateCreated datePublished" datetime="2021-11-17T10:14:43+01:00">2021-11-17</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/Life-Experiment/" itemprop="url" rel="index"><span itemprop="name">Life Experiment</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/posts/7e65ea80/" class="post-meta-item leancloud_visitors" data-flag-title="Sleep and Scientific Principles" title="Views">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">Views: </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+    <span class="post-meta-item" title="Views" id="busuanzi_container_page_pv">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">Views: </span>
+      <span id="busuanzi_value_page_pv"></span>
+    </span>
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>1.3k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>&emsp;&emsp;最近又开始对睡眠感兴趣了，特别是智能可穿戴设备的睡眠检测功能，是否准确，原理是什么？以前似乎都没有太过在意。看了一些资料，总结如下。</p>
+<span id="more"></span>
+<p>&emsp;&emsp;首先睡眠可以分为REM和NREM两个阶段，NREM分为N1，N2，N3三个阶段，N3是大家所熟悉的深度睡眠。深度睡眠一半发生在睡眠的上半区，也就是凌晨2，3点左右，这意味着，熬夜最好不要超过这个时间点，不然很难再进入深度睡眠。深度睡眠与人体的修复，生长息息相关；REM睡眠将短期记忆固化为长期记忆。深度睡眠也不是越多越好，一般来说，正常人的深度睡眠时间为一个半小时到两小时左右。目前市场上所熟知的手环睡眠检测功能大多是基于movement监测，利用加速传感器或相关传感器以及时间等因素综合起来测量，准确度相对一般，不是特别科学。华为的手环利用了CPC的技术，并且和哈佛医学院做了一些研究，还算比较科学。相关的信息如下：</p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://www.dbiom.org/research/wearable-evaluations">华为系列手环的测试报告</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.njfsyk.com/index.php?case=archive&act=list&catid=6">丰生永康对CPC技术的介绍</a> 丰生永康拥有CPC技术的授权，华为手环系列应该也是基于丰生永康的授权</li>
+<li><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/44459317">华为睡眠技术负责人对CPC技术和华为手环的介绍</a>  </li>
+</ul>
+<p>&emsp;&emsp;总结来说，以往的睡眠检测都是利用脑电设备做多导睡眠检测，但价格昂贵，检测繁琐，不适合大众消费者；CPC技术是利用心电信号进行转化来实现睡眠信号的推导，利用穿戴设备的心率传感器和相关算法，可以实现CPC技术在穿戴设备上的技术落地。根据测试报告，华为的手环测试准确度大概在80%左右，算比较高了。<br>&emsp;&emsp;最后，如何提高睡眠质量，<a target="_blank" rel="noopener" href="https://www.njfsyk.com/index.php?case=archive&act=list&catid=8">丰生永康提出几项建议</a>： </p>
+<ul>
+<li><p><strong>噪音控制</strong><br>如卧室有噪音干扰睡眠，建议可将房间换装双层玻璃窗，也可加上厚质窗帘及地毯来吸音。另外，睡觉前也记得将电话、手机、门铃切断，避免造成睡眠中的干扰。</p>
+</li>
+<li><p><strong>光线控制</strong><br>一般来说，20~30烛光是较适合睡眠的光线，但可依每个人的不同喜好来调整光线大小，</p>
+</li>
+<li><p><strong>温度、湿度控制，保持凉爽通风</strong><br>理想的室内温度，夏天是25度，冬天约15~20度，湿度则全年在50%较适合。在不同季节，可利用冷、暖器、保湿器来调节室内的温度及湿度，来达到帮助睡眠的目的，但原则上以保持凉爽通风为原则。  </p>
+</li>
+<li><p><strong>营造轻松、平静的气氛</strong><br>卧室的颜色尽量不要采用太刺眼的颜色，以米白色这类温和的颜色较适合，另外，与工作有关或是书藉等会让人产生压力的东西也不要放在卧室里，营造轻松、平静的气氛来帮助睡眠。</p>
+</li>
+<li><p><strong>选择舒适的床及寝具</strong><br>床的软硬度可依个人喜好来选择，但太软或太硬都不太适合，床单、绵被则可依季节的转换进行更换，以保暖、材质舒适、色调温和为原则。避免破坏睡眠的因素</p>
+</li>
+<li><p><strong>限制咖啡因的摄取</strong><br>含咖啡因的饮料包括:茶、咖啡、可乐…等，巧克力、部份感冒有含有咖啡因，咖啡因具提神、利尿作用，睡前摄取将严重影响睡眠，但每个人对咖啡因的敏感程度不同，因此，需依每个人对咖啡因敏感程度，来限制咖啡因的摄取及摄取时间.  </p>
+</li>
+</ul>
+<p>&emsp;&emsp;按照自己的睡眠习惯来看，睡前可以开台灯关掉大灯；睡前关掉暖气（水暖声音很大）；关闭门窗（下半夜一般被冷醒），适当开一下门透气；在被子上压一些衣服保暖，但也不可压太多；调整一下枕头的高度，实践证明我适合比较软的枕头；睡前喝一点热水等等。规律地作息，尽量12点前睡觉，7:30左右按时起床（不赖床）。</p>
+
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer"><div class="post-widgets">
+      <div id="needsharebutton-postbottom">
+        <span class="btn">
+          <i class="fa fa-share-alt" aria-hidden="true"></i>
+        </span>
+      </div>
+    </div>
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>Post author:  </strong>Johan.Y
+  </li>
+  <li class="post-copyright-link">
+      <strong>Post link: </strong>
+      <a href="https://silkiller.github.io/posts/7e65ea80/" title="Sleep and Scientific Principles">https://silkiller.github.io/posts/7e65ea80/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> unless stating additionally.
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/CPC/" rel="tag"># CPC</a>
+              <a href="/tags/HRV/" rel="tag"># HRV</a>
+              <a href="/tags/Huawei/" rel="tag"># Huawei</a>
+              <a href="/tags/Fengshengyongkang/" rel="tag"># Fengshengyongkang</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/posts/69302c93/" rel="prev" title="Team-Microdynamics">
+                  <i class="fa fa-chevron-left"></i> Team-Microdynamics
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/posts/30950e7b/" rel="next" title="乔迁新居">
+                  乔迁新居 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="lv-container" data-id="city" data-uid="MTAyMC80MTM5MC8xNzkzNw"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+<div class="copyright">
+  &copy; 2018 – 
+  <span itemprop="copyrightYear">2024</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">by Johan.Y</span>
+</div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+      <span>Symbols count total: </span>
+    <span title="Symbols count total">268k</span>
+  </span>
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="Total Views">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+<span id="timeDate">载入天数...</span>
+<script>
+    var now = new Date(); 
+    function createtime() { 
+        var grt= new Date("03/15/2018 10:58:46");//建站时间
+        now.setTime(now.getTime()+250); 
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
+        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum); 
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
+        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
+        document.getElementById("timeDate").innerHTML = "Running "+dnum+" days " + hnum + " hours " + mnum + " minutes " + snum + " seconds"; 
+    } 
+setInterval("createtime()",250);
+</script>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"oE7wRe2ec9PKV9TnbvXU7IbG-gzGzoHsz","app_key":"qpnuul1njVIGz7Xvvdt5Pw71","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+
+  <script src="//cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1/needsharebutton.min.js"></script>
+  <script>
+      pbOptions = {};
+        pbOptions.iconStyle = "box";
+        pbOptions.boxForm = "horizontal";
+        pbOptions.position = "bottomCenter";
+        pbOptions.networks = "Weibo,Wechat,Douban,QQZone,Twitter,Facebook";
+      new needShareButton('#needsharebutton-postbottom', pbOptions);
+  </script><script src="/js/third-party/comments/livere.js"></script>
+
+</body>
+</html>

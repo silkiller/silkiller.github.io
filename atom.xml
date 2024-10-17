@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Y.K.&#39;s BLOG</title>
+  
+  <subtitle>理想是成为全才</subtitle>
+  <link href="https://silkiller.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://silkiller.github.io/"/>
+  <updated>2024-10-17T15:47:59.210Z</updated>
+  <id>https://silkiller.github.io/</id>
+  
+  <author>
+    <name>Johan.Y</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://silkiller.github.io/posts/4a17b156/"/>
+    <id>https://silkiller.github.io/posts/4a17b156/</id>
+    <published>2024-10-17T15:47:59.210Z</published>
+    <updated>2024-10-17T15:47:59.210Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>个人网站上线</title>
+    <link href="https://silkiller.github.io/posts/8d934611/"/>
+    <id>https://silkiller.github.io/posts/8d934611/</id>
+    <published>2024-06-04T19:51:45.000Z</published>
+    <updated>2024-08-31T08:54:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>我的个人网站  <a href="http://www.yongkangyang.com/">www.yongkangyang.com</a>  已经可以正式访问了，该网站以后将建设为个人网站以及研究类博客，本博客站的更新频率也会随之降低很多。倒不是因为没有情绪吐露或是没有事情记录了，而是随着年龄增长，就像歌词里唱的那样：“就让往事随风”，应该随风去了，给自己背上太沉重的包袱，不利于轻装出发。本网站将专注于年度总结系列，从周更博主，到月更，终于到了年更博主咯。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我的个人网站  &lt;a href=&quot;http://www.yongkangyang.com/&quot;&gt;www.yongkangyang.com&lt;/a&gt;  已经可以正式访问了，该网站以后将建设为个人网站以及研究类博客，本博客站的更新频率也会随之降低很多。倒不是因为没有情绪吐露或是没有</summary>
+      
+    
+    
+    
+    <category term="research" scheme="https://silkiller.github.io/categories/research/"/>
+    
+    
+    <category term="website" scheme="https://silkiller.github.io/tags/website/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随笔七则</title>
+    <link href="https://silkiller.github.io/posts/bd4360f8/"/>
+    <id>https://silkiller.github.io/posts/bd4360f8/</id>
+    <published>2024-03-14T10:11:22.000Z</published>
+    <updated>2024-05-29T19:04:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;随笔系列一直在诉说一些情绪，其中《随笔x则》更是在诉说一些强烈的情绪，刚开始的时候，觉得很多事情都特别重要，什么都要冠以随笔几则才觉得重大，又可以顺便借鉴一下鲁迅或者韩寒的杂文几则以衬托其不凡。恍惚中才发现，上一个<a href="https://silkiller.github.io/posts/6f431767.html">随笔六则</a> 已经是1年多了，  这一年多来，想要诉说的也很多，但慢慢忘了去记录。 转眼间，2024都过去了一半，才想起来，噢最近发生了好多事，是不是应该写点什么。</p><span id="more"></span><h3 id="回归矫正"><a href="#回归矫正" class="headerlink" title="回归矫正"></a>回归矫正</h3><p>&emsp;&emsp;当我在2023年的年终总结中写下“<a href="https://silkiller.github.io/posts/e046aa4b.html">真爱至上</a>”时，或许没想到第一次“分手”来得这么快，也没有想到复合也竟然这么快，进而感慨到每一段感情的开始阶段和结束阶段都是那么的相似。刚开始时我们都竭尽所能地付出一切，不求任何回报，快结束时却在纠结那些付出和沉没成本。于是矛盾像火山猛地喷发，而就像火山喷发的火山灰会变成滋养森林的肥料，在岩浆逐渐冷却的时候，我们都冷静下来，把以往那些矛盾，不满通通说出来。道歉，然后逐渐弥合，重新回归到我们可以在感情中展现最自我的样子。而往往这种稳定的状态，才是感情最基本的底色。如今，我们不用拘泥于每天必须要视频见面，亦或是一定要在某个时间段完成什么，就顺其自然吗，只要两个人是在同一条线上。</p><h3 id="刻舟求剑"><a href="#刻舟求剑" class="headerlink" title="刻舟求剑"></a>刻舟求剑</h3><p>&emsp;&emsp; 当本科的同学在群里聊天聊到她的时候，我没想到跟她的故事已经是十年前了。刚上大一的时候，就注意到了这个姑娘， 当时内心就预感着会和她发生些什么，也没曾想到，这种预感会让我在十年后试图在时间的长河里刻舟求剑。我们从完全不相识，到聊到共同的话题，到上课经常坐在一起，到互相聊天取亲密的昵称，并没有花太多时间。17，8岁的好感萌动，在旁人看来已经是再明显不过的信号，当我们双方却因为各种各样的缘故，不曾清晰地感受来自对方的信号。就这样，因分班而逐渐走远，我去了武大，她去了华科，就这样不再联系。当群里再次聊到她，聊到我和她时，我内心涌起一股强烈的冲动：我要搞清楚她当时对我的感觉。于是，凌晨3点，我给她发送了微信消息，她让我快睡觉，明天再聊。第二天，就这样聊起来了，从回忆过去，到这些年的经历和最近的情况，我小心翼翼地避开想问的问题，但最后还是鼓起勇气问了。“我当年 crush on you”我说，她说，“我记得，当时在西区食堂一起吃饭，还有我当时的室友，她问你，你现在有喜欢的人吗，你回答没有，不知道为什么，我对这个场景印象特别深刻”。我恍然，原来如此，年少时候的叛逆和捉摸不透，没想到给对方留下了如此的体会。我又紧接着问：“如果我当时是肯定回答呢”，“应该会脸红吧，当时想听你的回答，有期待”。瞬间释然。<br>&emsp;&emsp; 当我们总是在感慨求而不得，爱而不得时，却没有意识到，我们其实已经拿到了，只不过还不会好好地珍惜和保留。“该把你归类整理了”，我开玩笑地说。“早知道不帮你打开心结了”，她也开玩笑地说。然后我俩又不再联系，应该也会很久不再联系。  </p><h3 id="YNWA"><a href="#YNWA" class="headerlink" title="YNWA"></a>YNWA</h3><p>&emsp;&emsp; YNWA是You’ll never walk alone的缩写，代表了每个利物浦球迷最真诚的期望。当我们对他说出，You’ll never walk alone，或许也不曾想到这段差不多十年的经历是如此独特，如此快速。有一位利物浦球迷留言说，当他离开时，我才明白，他的存在是比赢得奖杯更加重要。凌晨看着告别视频，我也忍不住想写点什么。以下全文摘抄于朋友圈记录：<br>&emsp;&emsp; “足球世界总是变化太快，充满离别，而我总是不擅长于此。这些年，有遗憾：97 分的亚军，欧冠决赛的两度失利，世事岂能尽如人意。但苦涩的点缀下，我们迎回第六座大耳朵杯，破除联赛冠军的魔咒，并在数次点球大战的交锋中赢得奖杯，每个人都开始坚定不移地相信。你常说，是球员和团队促成了这一切，你只不过是普通的一个。今天，普通的一个离开了，我从未如此怀念他。 Thank you, Jurgen Klopp. You’ll never walk alone.”</p><h3 id="薪火相传"><a href="#薪火相传" class="headerlink" title="薪火相传"></a>薪火相传</h3><p>&emsp;&emsp; 最近翻看到一条很久前的朋友圈，当时我被困武昌火车站，试过各种办法后，发朋友圈求助，李太老师看到后，开车过来接我们。李太老师对我来说，是伯乐，也是挚友。除了类似的帮助外，我也收获了来自太哥很多的关照，我当时不解，为何能够获得老师如此的欣赏。前段时间，我的RA帮我做一些研究上的数据整理工作，因为工作能力强，且很靠谱，我邀请她加入我们的一篇文章的写作，让她担任了第二作者，她非常感激。我一时间代入到了十年前，我刚认识太哥的时候。当小组其他人都“借口”推辞工作的时候，我主动说，这个我可以做，并且做得还不错。今天，我也成为了太哥，感受到了遇到一个能力强的学生的惊喜和想要帮助的意愿。就像最近流行的一句话，过去的一颗子弹击中了现在的我。</p><p>参考：<br><a href="https://silkiller.github.io/posts/25104.html">随笔五则</a><br><a href="https://silkiller.github.io/posts/41134.html">随笔四则</a><br><a href="https://silkiller.github.io/posts/52847.html">随笔三则</a><br><a href="https://silkiller.github.io/posts/49686.html">随笔二则</a><br><a href="https://silkiller.github.io/posts/21100.html">随笔一则</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;随笔系列一直在诉说一些情绪，其中《随笔x则》更是在诉说一些强烈的情绪，刚开始的时候，觉得很多事情都特别重要，什么都要冠以随笔几则才觉得重大，又可以顺便借鉴一下鲁迅或者韩寒的杂文几则以衬托其不凡。恍惚中才发现，上一个&lt;a href=&quot;https://silkiller.github.io/posts/6f431767.html&quot;&gt;随笔六则&lt;/a&gt; 已经是1年多了，  这一年多来，想要诉说的也很多，但慢慢忘了去记录。 转眼间，2024都过去了一半，才想起来，噢最近发生了好多事，是不是应该写点什么。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="感情" scheme="https://silkiller.github.io/tags/%E6%84%9F%E6%83%85/"/>
+    
+    <category term="crush" scheme="https://silkiller.github.io/tags/crush/"/>
+    
+    <category term="Liverpool" scheme="https://silkiller.github.io/tags/Liverpool/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的2023年终总结</title>
+    <link href="https://silkiller.github.io/posts/e046aa4b/"/>
+    <id>https://silkiller.github.io/posts/e046aa4b/</id>
+    <published>2023-12-17T19:03:18.000Z</published>
+    <updated>2024-01-30T12:08:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;今年的年终总结，要比以往来得更晚一些，这篇总结也变成了农历的二零二三年总结。原本是在12月17日创建的任务，因为1月份的AOM会议截稿日，而不得不将所有注意力优先在论文上。到1.10日投稿之后，又忙着回国的各项准备工作，也没有找到合适的时机来写这篇总结。回国之后，和黄老师的甜蜜时光也让我把年终总结完全抛弃脑后。昨晚和黄老师从西安返回上海，今天来到浦东图书馆自习，在靠窗的咖啡馆，我终于可以认真总结回顾过去的这一年了。</p><span id="more"></span><h2 id="行者无疆"><a href="#行者无疆" class="headerlink" title="行者无疆"></a>行者无疆</h2><p>&emsp;&emsp;如果用一个词来形容过去的一年，我会选择余秋雨的书名《行者无疆》。过去的一年，步履不停，走遍三大洲，跨越两大洋。从年初的意梵西之旅到年末的Alicante之旅，再到刚结束的西安之旅，每到一个地方，都有着不同的感悟。有些感悟如灵光乍现，有些感悟深刻而被记录，更多的是旅途的体验和朋友们和爱人的陪伴，让这一切变得特别。从巴塞罗那，马德里，再到罗马，梵蒂冈，比萨，佛罗伦萨，威尼斯，和高中同学重逢，重新说起那些高中的趣事，让人一下穿越回10年前。法兰克福令人印象深刻的墓地；巴黎塞纳河彷佛永远波光粼粼的河水和如织的游人；香港，深圳，武汉，北京和上海的朋友们，我们举杯畅饮；波士顿纽约的繁华和望不到边的高楼。去的地方越多，便愈发感觉到这个世界的包容和多彩。如果没有冲突，没有战争，全人类都能够从各个民族和国家汲取养料，该是一件多么美好的事情！  </p><h2 id="柳暗花明"><a href="#柳暗花明" class="headerlink" title="柳暗花明"></a>柳暗花明</h2><p>&emsp;&emsp;脚步不停，研究的进展也让人欣喜。回顾博士的前两年，充满了坎坷和不顺，也是我过去两年状态的映射。进入2023年之后，开始逐渐摆脱冷气，找回了以前的开朗和积极。不管研究数据有多么的让人沮丧，我都没有放弃，中间无数次的开会，终于在分析数据整整一年后，找到了预期的结果。虽然不是最理想的结果，但已经没有什么好抱怨的了。特别是在AOM投稿截止日之前能够产出一篇文章，我感到由衷的欣慰。一直觉得自己是个幸运的人，幸运地把握住了一次又一次的机会，但我自己也清晰的知道，每次的机会容错率有多低，再来一次，恐怕现在的我也不是这样子，也因此更加如履薄冰，生怕一个不小心而毁于一旦。进入2024年，也是我博士生涯最关键的一年，需要更加投入，更加专注，争取产出更多的成果，为未来的工作争取到足够的议价权。想到我研究生第一年刚结束，展望2020年时，当时也觉得是最关键的一年，同时也充满了对未来的迷茫和不知所措。站在2019年，2020年时，我不知道未来会去到哪儿；现在，我也不知道未来会去到哪儿，早在我的一篇博文中我就提到，选择了学海无涯也就意味着带上了金箍，需要习惯这种不确定性。但好在，黄老师的出现，让这种不确定性降到了好低好低。  </p><h2 id="真爱至上"><a href="#真爱至上" class="headerlink" title="真爱至上"></a>真爱至上</h2><p>&emsp;&emsp;一个人会遇见很多人，会和很多人产生羁绊，会有很多告别，很多重逢；也会出现一个人，是那样的特别，和你是那么的合拍，以至于过往的一切坎坷都成为了理所当然。2023年，感情还是经历了不少变化，博客也基本记录了我的心路历程，在此不再赘述。黄老师是好朋友很早之前就提到的，当时没有太在意，直到从上海飞波士顿，才第一次见。谁能想到，第一次见面的场所就是羽毛球场。我看她打球看了三个小时，每一局结束我们会一起探讨对手的技战术特点，然后给她打打气。中途有个初中小女孩问我，这是不是我老婆，我一时还有点懵。第一次见面结束，我们就开始了12小时的时差，睡醒的第一条消息和睡前的最后一条消息都是她；然后回到荷兰，变成6小时时差，再然后她来荷兰，10月份我们第二次见面，就确定了关系，一切是那么的自然。再到这次我回国，我接她下班，我们逛上海，游西安，也是这趟西安之行，让我们更加默契和亲密。关于未来，以前总说不知道会去哪儿，现在想奔赴对方，或许会一起待在上海。  </p><h2 id="展望未来"><a href="#展望未来" class="headerlink" title="展望未来"></a>展望未来</h2><p>&emsp;&emsp;2023年整体的基调是快乐的，积极的，向上的，或许也是因为如此，反躬自省的时间变得好少，这一点从博客的发文数量就能看出。苦难和挫折让人不断反思，而成功的喜悦让人飘飘欲仙，我也不能例外。年终总结的目的也在于此，许三多说：“人不能过得太舒服，太舒服会出问题”，2024年希望自己不要太舒服。太顺利会让人将成功归因于自己，让将别人的不成功归因于他们的不努力，人也会因此变得失去感恩之心。在我2018年以来的所有博客中，我都宁愿承认自己是一个幸运的人，幸运代表着小概率的成功，反过来说，如果不是因为这个小概率，我大概率会失败。时常害怕自己会失败，便越愈加敬畏小概率的成功，愈加珍惜来之不易的结果。常怀敬畏之心，常念贵人之情。<br>&emsp;&emsp;时间一年一年的过，很多感悟反复出现，很多道理到了年纪才懂。2023年，是守得云开见月明的一年，也是时光逝去如流水的一年；2024年，可以预想是会迎来很多挑战，会有很多痛苦的一年，希望自己坚强地熬过去，在2024年底总结的时候，说一句问心无悔和2024再见。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;今年的年终总结，要比以往来得更晚一些，这篇总结也变成了农历的二零二三年总结。原本是在12月17日创建的任务，因为1月份的AOM会议截稿日，而不得不将所有注意力优先在论文上。到1.10日投稿之后，又忙着回国的各项准备工作，也没有找到合适的时机来写这篇总结。回国之后，和黄老师的甜蜜时光也让我把年终总结完全抛弃脑后。昨晚和黄老师从西安返回上海，今天来到浦东图书馆自习，在靠窗的咖啡馆，我终于可以认真总结回顾过去的这一年了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="年终总结" scheme="https://silkiller.github.io/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="2023" scheme="https://silkiller.github.io/tags/2023/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>直面缺陷</title>
+    <link href="https://silkiller.github.io/posts/37dbb90e/"/>
+    <id>https://silkiller.github.io/posts/37dbb90e/</id>
+    <published>2023-09-06T18:30:50.000Z</published>
+    <updated>2023-09-16T21:22:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;对一个曾经想着做完美的人，成为全才的人来说，谈缺点似乎触到了禁忌。缺点怎可拿来轻易评说，更不用说罗列自己的缺点有哪几条了。但人在成长，随着经历的加深，见识的人和事越来越多，越来越体会到直面自己的缺陷是一件应该做，必须做和习惯做的事。太阳东升西落，月有阴晴圆缺，世界有其运行的规律，个体也有其桎梏和难以改变的地方。这些不足之处一直存在，逃避和忽视不能解决任何问题。经过一段时间的酝酿和思考，我也给自己主刀一场“解剖手术”，剖析自己的不足，以期有所补短，有所获益。</p><span id="more"></span><p>&emsp;&emsp;我的第一大缺点，犹犹豫豫。这可能是源自于我早期过度追求完美的缘故，想的多，想的杂，希望想到的都能实现，希望不好的都能避免，在庞杂的系统中求一个最优解，在开始之初给我无限思维训练的同时，也让我逐渐落下了犹豫的“病根”。病根最深处便是那段持续了最久的感情，既然早就知道无数结局中最不可能的和最可能的，就应该早下决心尽快决断。抛一枚硬币，不会知道下一个是什么，但概率会告诉我们最终的结局。世界上没有概率百分百的事件，确定无疑反而是可疑的，既然如此，何不坦然接受呢。另外一个犹豫的原因，可能是骨子里就想做个好人，不愿伤害别人，也不愿伤害自己，殊不知这世间多少事能两全，不愿伤害可能最后都伤了个遍，落得个遍体鳞伤的下场。说得好听点叫犹豫和踟蹰不前，不好听便是拖延。很多事情我都在拖延，把问题留给未来的自己解决，但最了解问题本身的就是现在的自己，经常是，未来的自己忘记了，或者也不再熟悉内情，于是一场拖延便成为了埋下的雷。说来道去，我也不是没有在改变，把要做的事情归类整理好，一件一件做，减少焦虑；把要做决断的事情摆出来，快刀斩乱麻；把要吐露的都吐露，轻装上阵，但这需要时间，我仍在改变的路上。<br>&emsp;&emsp;我的第二大缺点，过度执着。过于相信自己，又过于低估了事情本身的难度。有一次，微信的更换手机号，我尝试了好多遍，寻遍了网上的资料而不得，最后只能老老实实等待三个月重新设置。也是在那一刻，我明白有些事情执着是没有用的，难受得掏心掏肺，抓耳挠腮都没用，是怎么样就是怎么样。有人说这个是优点而非缺点，我信一半不信一半，执着可能是进入研究大门的钥匙，也可能是让人陷入疯狂的毒药。遗憾的是，我同时用钥匙打开了学术之门，也饮下了那杯鴆酒。研究自不必多说，感情上，让我吃了不少苦头，直到撞到头破血流才罢休。2018北京的跨年夜，寒冷刺骨；2021鹿特丹的冬天又如此难熬；但不管怎样，每次告诉自己不要再这样了，下一次依然，仿佛以前吃的苦流的泪都不存在了，又义无反顾的去了。恐怕这个是最难改的了，可能改了之后我就不再是我了，哎，前路如何自留未来自己评说吧。<br>&emsp;&emsp;我的第三大缺点，轻易承诺。这是一个很晚才发现的缺点，也很晚才意识到，直到有些承诺难以完成而不得不爽约，或者太重要的承诺不得不完成让自己煎熬万分时，我才意识到还是自己想要的太多，想得到的太多。想得到友谊，朋友们的邀约欣然答应；想得到认可，期刊的审稿邮件全盘接受；想得到健康的身体，安排各项运动直至疲惫不堪；想得到爱情，不顾一切去追寻……所有的所有，都让我在疲惫下变得衰弱，同时感到内疚和痛苦。或许，轻易承诺的背后不仅仅是想要的太多，也是不会拒绝和没有坚守自己的原则。当自己足够坚定，明白哪些是可达到的，哪些是可疑舍弃的时，恐怕也不再会轻易地承诺吧。<br>&emsp;&emsp;都说人总有一天会和自己和解，明白自己的不足，放弃不可能的盼望。可我总觉得，如果真到了这一天，该多么的没有意思啊。缺点固然可怕，但跟随了自己这么久，也定义了自己，成全了自己，全盘放弃无异于推倒重来，那么自己是谁可能都不知道了。不如，保持一颗开放的心态，意识到了就去改，如果实在改不掉说明就要带到坟墓了，不如也坦然接受，如此甚好。<br>&emsp;&emsp;晚上十一点二十二分，外面下雨了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;对一个曾经想着做完美的人，成为全才的人来说，谈缺点似乎触到了禁忌。缺点怎可拿来轻易评说，更不用说罗列自己的缺点有哪几条了。但人在成长，随着经历的加深，见识的人和事越来越多，越来越体会到直面自己的缺陷是一件应该做，必须做和习惯做的事。太阳东升西落，月有阴晴圆缺，世界有其运行的规律，个体也有其桎梏和难以改变的地方。这些不足之处一直存在，逃避和忽视不能解决任何问题。经过一段时间的酝酿和思考，我也给自己主刀一场“解剖手术”，剖析自己的不足，以期有所补短，有所获益。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="我的缺点" scheme="https://silkiller.github.io/tags/%E6%88%91%E7%9A%84%E7%BC%BA%E7%82%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不曾想27岁生日会这么隆重</title>
+    <link href="https://silkiller.github.io/posts/ed9a9e2c/"/>
+    <id>https://silkiller.github.io/posts/ed9a9e2c/</id>
+    <published>2023-08-24T10:40:43.000Z</published>
+    <updated>2023-08-24T12:01:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年8月23日，祝我27岁生日快乐。<br><img src="https://s2.loli.net/2023/08/24/6LfOio3G128Alug.jpg" alt="20230823_202725214_iOS.jpg"></p><span id="more"></span><p>不知道从什么时候起，自己对生日好像失去了很大的热情，出去吃顿饭，或者放天假就当作是过生了。但自从来了荷兰，似乎变得不一样了一些。去年8月23日，我在PAC俱乐部时，好多荷兰人知道我生日，一起来祝福我生日快乐，轮流和我握手用荷兰语说生日快乐，那时候觉得大家真的好棒。今年同样对生日没有太大的热情，准备就这样低调度过，不曾想，我的师妹在办公室直接开麦，“Yongkang，any plans for the birthday?”，这下想藏也藏不住了，于是乎决定生日前一天和同事们一起吃饭，选了一家位置绝佳的意大利餐厅，阳光打在餐盘上，好不惬意。  </p><p><img src="https://s2.loli.net/2023/08/24/gy5YGDNHpA3Tfsn.jpg" alt="20230822_164416758_iOS.jpeg"></p><p>当我以为这就是全部的时候，帅哥跟我说，他来组局我来叫人，我们生日当天再来一次。于是我叫了经常一起吃饭的EUR硕士毕业生们，中国同事，还有小溪夫妇，就当作中国局了，后来觉得叫都叫了，干脆再多叫点，又叫了一起跑步的George，Kareen等人，这个奇怪的局就组成了！  </p><p><img src="https://s2.loli.net/2023/08/24/WGlAZ4sxkBywzS8.jpg" alt="20230824_111736000_iOS.jpg"><br><img src="https://s2.loli.net/2023/08/24/nAdwrak17c5ytZ8.jpg" alt="20230824_111736000_iOS 2.jpg"></p><p>也许是很久没有被簇拥过的感觉了，一时间还有些不适应，感觉在AOM汇报的时候都没有那么紧张。但过段时间之后，大家喝点东西，聊聊天，一切又是那么的平静美好而又自然。最后，大家唱起生日歌，我甚至都忘记了许愿，或许愿望此刻已经不重要了吧。</p><p>再次生日快乐！<br><img src="https://s2.loli.net/2023/08/24/Q9ZLmEOXq1jdWrt.jpg" alt="20230823_205832176_iOS.jpg"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年8月23日，祝我27岁生日快乐。&lt;br&gt;&lt;img src=&quot;https://s2.loli.net/2023/08/24/6LfOio3G128Alug.jpg&quot; alt=&quot;20230823_202725214_iOS.jpg&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="profile" scheme="https://silkiller.github.io/categories/profile/"/>
+    
+    
+    <category term="Birthday" scheme="https://silkiller.github.io/tags/Birthday/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回国杂感漫谈</title>
+    <link href="https://silkiller.github.io/posts/c2a7b90c/"/>
+    <id>https://silkiller.github.io/posts/c2a7b90c/</id>
+    <published>2023-07-29T18:00:57.000Z</published>
+    <updated>2023-08-24T11:07:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;没想到这一篇博文会拖得这么长。从香港始，再至深圳，广州，武汉，北京，上海，一路北上，辗转各地，朋友重聚，举杯畅饮，通宵达旦！让人感慨快乐的日子总是短暂，见到不少朋友，有两年没见的朋友，有四、五、六、七、八年没见的同学，有十几年未曾谋面的小时候的同学。大家陆续参加工作，陆续组建家庭，有人仍然为了晋升而奋斗，有人还在苦恼职场的三两事，有人事业有成家庭幸福，有人求学路上孜孜不倦，但能感觉到每个人都在向上，能感觉到那种力量感，我真诚地祝福大家。<br>&emsp;&emsp;在外浪了很久才回家，在家待的时间也不长，直到爸妈送我去车站我们才有了很长的聊天。她们讲述过去的走南闯北的经历，讲述着他们的善意和坚守，有些人他们还记得，有些人他们选择不再来往。父亲骄傲地说着自己的成绩，母亲耐心地告诉我道理，我突然感慨，原来现在我才真正了解和理解他们。一直以来觉得自己很了不起，当和自己的父母相比，了解了他们所经历的一切，才发现自己原来只是被保护地很好，自己的成绩只不过是在温室里的舞刀弄剑。至少到现在，我做不到他们做到的一切。此刻，就不得不想起了《大江大河》里的一句台词，每代人都有每代人的使命。父母的使命已近完成，接下来是我的使命了。<br>&emsp;&emsp;在紧张的行程里还抽空去了一趟天津，18年火车第一次抵津，23年火车终于到站。虽然心中早已放下，此次回津也仅仅是亲手画下一个句号而已。未来会是什么样子，时间会慢慢给出答案。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;没想到这一篇博文会拖得这么长。从香港始，再至深圳，广州，武汉，北京，上海，一路北上，辗转各地，朋友重聚，举杯畅饮，通宵达旦！让人感慨快乐的日子总是短暂，见到不少朋友，有两年没见的朋友，有四、五、六、七、八年没见的同学，有十几年未曾谋面的小时候的同学。</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="回国" scheme="https://silkiller.github.io/tags/%E5%9B%9E%E5%9B%BD/"/>
+    
+    <category term="朋友" scheme="https://silkiller.github.io/tags/%E6%9C%8B%E5%8F%8B/"/>
+    
+    <category term="体验" scheme="https://silkiller.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客再度迁移</title>
+    <link href="https://silkiller.github.io/posts/86a82376/"/>
+    <id>https://silkiller.github.io/posts/86a82376/</id>
+    <published>2023-07-25T17:59:37.000Z</published>
+    <updated>2023-07-29T12:09:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;博客又双叒叕迁移了，不过这次不是简单换了一个系统，而是直接换了“肉身”。原来的LG gram终于因为超期服役带来的体力不支退役了，取而代之的是一个迷你主机，AMD 7940HS，32G+1T的顶配。也算是为我的博客找了一个好人家，没有亏待了这位从2018年开始就陪伴我的老朋友。得益于之前总结的<a href="https://silkiller.github.io/posts/caa2dccf.html">博客迁移技巧</a>，没有花费太多功夫就弄好了，也成功迁移到了新的电脑上，运行丝滑，特此记录。  </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;博客又双叒叕迁移了，不过这次不是简单换了一个系统，而是直接换了“肉身”。原来的LG gram终于因为超期服役带来的体力不支退役了，取而代之的是一个迷你主机，AMD 7940HS，32G+1T的顶配。也算是为我的博客找了一个好人家，没有亏待了这位从20</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://silkiller.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Blog" scheme="https://silkiller.github.io/tags/Blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>香港IACMR</title>
+    <link href="https://silkiller.github.io/posts/8fc51b4e/"/>
+    <id>https://silkiller.github.io/posts/8fc51b4e/</id>
+    <published>2023-06-20T09:09:29.000Z</published>
+    <updated>2023-06-22T08:26:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;在香港持续一周的阴雨连绵的天气下，IACMR终于在最后一天的晴天中完美落幕了，好多感受和想法还没来得及诉说，一晃眼又来到了深圳……</p><p>&emsp;&emsp;—话接上回—<br>&emsp;&emsp;特种兵的旅行又来到了广州，明天一早再到达武汉。现在想起来香港的几天，就仿佛一场梦，那些加了好友又存在于朋友圈点赞的关系，第一天到达时的新奇，在冰室和老奶奶的聊天，以及最后一晚香港的袒露心声的夜聊，都成为了我香港之行最重要的注解，正在等去武汉的高铁的此刻，让我一一道来。</p><span id="more"></span><p>&emsp;&emsp;刚到香港的时候，脑子里都是电影画面，某某某特工或者某某人第一次到香港，镜头给到主角充满欣喜和惊奇的，东张西望的脸，然后镜头拉远，是香港繁忙的街道和众多的摩天大楼。尤其是坐出租车到酒店的那段路，我就化身了某部电影的主角。时差当然是不那么容易倒过来的，很快第二天就开始睡不着了，凌晨三点钟在香格里拉睁大眼睛，不知困意是何物，好不容易熬到了5点天开始蒙蒙亮，想着干脆出去跑步。维港的清晨，如我在朋友圈里说的那样，是冷峻的，褪去了霓虹灯的包装，褪去了游人的目光，只剩下钢筋混凝土的无情和冷酷，但清晨跑步的人更加冷酷，于是反而衬得维港有些可爱了。在跑步的路上，想买一份新鲜出炉的，还冒着腾腾热气的报纸，却发现买报纸还是需要纸币的，没带就是没有，遂快行至酒店，碰运气问问大堂经理，没想到真给我了找到了一份当天的南华早报，心里瞬间想，“嗯嗯，高级酒店就是不一样，以后要多住”。<br>&emsp;&emsp;开会当然会认识很多人，大家都是熟练地掏出手机，熟练地说一句“你扫我”或者“我扫你”，有些人还能多聊几句，但更多的人只是存在了聊天列表中，简单的点赞之交或不再联系。开会当然也会认识聊得来的人，会遇到欣赏的人，而且还不少，在此不一一赘述了。<br>&emsp;&emsp;在香港的几天，一直是阴天雨天，就是没有晴天。一天在金记冰室等好友来吃饭，未曾想大雨滂沱，好友迟到很久，我于是就和同桌的老奶奶攀谈起来。我问老奶奶这几十年香港的变化，我说我来香港的感受，我们交流音乐和过气的香港明星，当我说喜欢谭咏麟，林子祥和张学友时，奶奶有点不可置信，“年轻人不都是喜欢那些最新的歌吗”，我回答说我很喜欢那个肆意飞扬，大家的热爱都很纯粹的年代，奶奶点点头，好像表示了认可。她也喜欢林子祥，说到激动处，还蹦出金句“没有音乐人会死的啦”，我深以为然。不久，好友姗姗来迟，大雨也稍稍降低了势头，我们告别，好似没有认识过。<br>&emsp;&emsp;在香港的最后一天，总是不同寻常的。这一天我没有去会场，只是待在酒店里，思考未来几天的安排，然后聊聊天。晚上和朋友约了酒店drinks，没想到一聊就是7小时，隔阂的打开是询问大家的性取向，颇令我意外，原来那么认识的人，我也不是那么了解，原来在不同取向的人的世界里，是那么的不同。和汪老师，也终于面对面聊了，其实我早就知道，机场分别的那天是我们感情的巅峰时刻，至此便是一直走下坡路了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;在香港持续一周的阴雨连绵的天气下，IACMR终于在最后一天的晴天中完美落幕了，好多感受和想法还没来得及诉说，一晃眼又来到了深圳……&lt;/p&gt;
+&lt;p&gt;&amp;emsp;&amp;emsp;—话接上回—&lt;br&gt;&amp;emsp;&amp;emsp;特种兵的旅行又来到了广州，明天一早再到达武汉。现在想起来香港的几天，就仿佛一场梦，那些加了好友又存在于朋友圈点赞的关系，第一天到达时的新奇，在冰室和老奶奶的聊天，以及最后一晚香港的袒露心声的夜聊，都成为了我香港之行最重要的注解，正在等去武汉的高铁的此刻，让我一一道来。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Research" scheme="https://silkiller.github.io/categories/Research/"/>
+    
+    
+    <category term="HongKong" scheme="https://silkiller.github.io/tags/HongKong/"/>
+    
+    <category term="IACMR" scheme="https://silkiller.github.io/tags/IACMR/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Amazing东航</title>
+    <link href="https://silkiller.github.io/posts/ea4f550e/"/>
+    <id>https://silkiller.github.io/posts/ea4f550e/</id>
+    <published>2023-06-12T14:01:00.000Z</published>
+    <updated>2023-06-13T17:17:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>6.12中午从Schipol出发，乘坐东方航空MU772到上海浦东机场，10个小时的飞行真的泰酷辣！光放饭就放了两次，发了四瓶水，饮料推车一直在来回走，从上飞机开始酸梅汤，冰可乐，橙汁，当我以为这就是全部的时候，他们竟然又发了早饭！一个三明治！！！！！！OKAY从上海去香港又放饭了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;6.12中午从Schipol出发，乘坐东方航空MU772到上海浦东机场，10个小时的飞行真的泰酷辣！光放饭就放了两次，发了四瓶水，饮料推车一直在来回走，从上飞机开始酸梅汤，冰可乐，橙汁，当我以为这就是全部的时候，他们竟然又发了早饭！一个三明治！！！！！！OKAY从上海去香港</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="东航" scheme="https://silkiller.github.io/tags/%E4%B8%9C%E8%88%AA/"/>
+    
+    <category term="回国" scheme="https://silkiller.github.io/tags/%E5%9B%9E%E5%9B%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>跑步真经</title>
+    <link href="https://silkiller.github.io/posts/2c6df265/"/>
+    <id>https://silkiller.github.io/posts/2c6df265/</id>
+    <published>2023-06-07T16:16:15.000Z</published>
+    <updated>2023-06-20T04:15:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>前几天跟朋友跑步，也是专业的马拉松爱好者，跟我说我很有天赋，应该多跑多训练，有一天可以在未来的A区起跑线出发。我非常意外，也很欣喜，但也无奈地说道，研究压力太大，导致没有太多的时间跑步训练积累跑量。他们说，越是压力大的时候应该勇敢地走出门去跑步，其实跑步反而能有助于恢复，我顿时以为然。哪怕是在考研那个最紧张最繁忙的时候，我都是在训练在跑步维持状态，也并没有丧失对跑步的热情，现在更应该如此。跑步不是负担，不是热情的消耗品，而是生命不可缺少之重。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;前几天跟朋友跑步，也是专业的马拉松爱好者，跟我说我很有天赋，应该多跑多训练，有一天可以在未来的A区起跑线出发。我非常意外，也很欣喜，但也无奈地说道，研究压力太大，导致没有太多的时间跑步训练积累跑量。他们说，越是压力大的时候应该勇敢地走出门去跑步，其实跑步反而能有助于恢复，我</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="Marathon" scheme="https://silkiller.github.io/tags/Marathon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>留不住的就随风飘散吧</title>
+    <link href="https://silkiller.github.io/posts/449a199b/"/>
+    <id>https://silkiller.github.io/posts/449a199b/</id>
+    <published>2023-06-03T08:54:33.000Z</published>
+    <updated>2023-06-13T17:10:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>过去的五月颇为忙碌，也没啥时间更新博客，早上跟同事跑完步回来，下午睡个午觉起来看场球，对我来说算是个不错的周六休息日。忙碌过后，终于有时间来思考回国安排，也有了一些感悟：人生总会在特定的时间明白一些道理，对现在的我来说，这个道理便是握不住的便让它飘散吧。很多人就是会越走越远，有的人成家立业，有的人学业有成，有的人事业腾飞，每个人的路不同，人与人的交集便不同，与其努力去抓，不如放手任其走远。如果未来在某时某刻再见，便道一句：“好久不见”。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;过去的五月颇为忙碌，也没啥时间更新博客，早上跟同事跑完步回来，下午睡个午觉起来看场球，对我来说算是个不错的周六休息日。忙碌过后，终于有时间来思考回国安排，也有了一些感悟：人生总会在特定的时间明白一些道理，对现在的我来说，这个道理便是握不住的便让它飘散吧。很多人就是会越走越远</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="人际" scheme="https://silkiller.github.io/tags/%E4%BA%BA%E9%99%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这个统计问题很长</title>
+    <link href="https://silkiller.github.io/posts/7e997d41/"/>
+    <id>https://silkiller.github.io/posts/7e997d41/</id>
+    <published>2023-05-20T21:03:52.000Z</published>
+    <updated>2023-05-21T13:02:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="a394a6fee9cc22eb4ed27e7923eb0e6833ecdf20947354f6da7c74e25e6a0031">eccdd6d0880d30d357eeb866518f0440630b7d8c630a470f9e97de2bd7f1caefd17aabcf31058757088a6a6bc8d94fef5a1706d79c5352f00f1fd2c8aaa989d13db3373f7d6b6d5b56424331db2c53ec9acddcf7b105b4d21824ee02cd8725583b977e695b37fed281e8b89ac7f17751cfeaaeeb837b32def381e549ede6138597f03a0ac63b2ca06e7c7f8c957de394035de1b78ea47e0dd3ad880021d75bed6ecb8327312a7e0ec46aa4ee2e378358366e05d3375303e085d3c1906727764a9b3f6ff88fd2c7332957f6826748497f7f244bb842abee9efbf3751726c29d040080307648f8f57b4cc8b589bd0feee026bdd7c8d0d4f021d0172475523eda35566dcae64c513873e38b90f97ebd7fb917b1343bf19b90b1442724f13475bb129d509183e7d925d48206b0c940b0396f47692972ebf1f3fac0102e7f82144dc9d1522d026e4c241b46ec846abfa8ec694b9e2e117bebc5ea3a893fff923c37903dd4e156ade9df6fd9b41029d487f613cb5842f2fc0ac09c6ccf62b38d09d1495db5b2e7a9cf29657788e5cf7dc0384428e61d9d385245dd8f52f887abf90ee5f5b0d3c4595869af67d1e7896de989d7c22481b2d61dd1869fd227c0e14ce5fe6b91cac7767c4ab3e3927fb3866c1bec0022d8704ca7004ae77799c557edd82b9ef74c8d0863edfceb2a6064d618a48211e8c26659a36b89ab2cde24a7190253eae9753a89f9957b54698cb496cc6a1aa7404eeb3f14a13c7f7d031dbce528915c407ee79d93d6340129a940acd282d5d58d4e6116c58a2c9248581b6d4899520a2387c7afc48741529adef2e39b85c114950fdb6040b268119f4a0c2837bae4019649621906a298c0d6ad656fcee0736c838119cafe7b5a8156482e004af6eb7ead2800fff299199490b26bfef1c00b46a3722aa32ff87a065238605652ae50a4690de3e5675c62f1791ac25c5b5606995e0fdd0de54c5a1350e72f0f994e5b2c7866c510286a415200f8c4967209b4d0f0b66572a61f0e994d15dd3de377ac3123fcdbb95f10c4029066b3552ee0dcc22402b7fd25387ce9807365ac95bfac316dd183a028b4d1e0552160b744ed7777fbc6114685909c8a2c010dc634a65d231bd65fb02f5206502ddafd76b79cc41867d37cca7a0d3a44d10ed3687e1374d2b4de46ade6ed44191b0045247af071fe9db11c16b045ef19802d97076de0eff9b65e56fd095b2a2da8968262066735bce3ddf4166fd10dc1b0ab4846b8253dd584d81a1fa3b67a437aa18433230632da4e1626aa5b980252e4037417b19b83bcd25a6bc0ddaf736b7cdb63d14a1e40476213f624ab00a2a1926d7883ca947700024a397d70c054b6079e6acc4911f28e867ade06bb3be87585042841e513eacce7804a1696401d2c040904a9570fe96d0d65802610ae8d36483788e084eea29c61dbfa5690aff133dc67a21079833ae9fa2dc3d57f217ebf2e599208846ef6ff2952dfe8e6b4de1f68defc48fb54f1b5bf95ff3d1bd5f4b8918631ee97d9719dac6561a2ee785e70da7af72fe2f7cdac29eae25b8f9648a39d6706d28aa1034eeb24e20ad0cf6db884ac5febfae664e2d3e0b5ef8645b5402cba7b65c27e9a4aaff0567a543a75bd752a714ed443cb515729f19815d3620d870fee65e51bbf386efcecc0e26a66c9362e22c00e4a26e0fb5c17b532c21c3212869c59c36aef1678f7a6e6ab1396f23b50fa25659f3bd1e99e640e72d55f7f5596e422f27ffb8576918e47daa45949ef0dcbef3325c9358340addceaa5c8058de9b13b9d670618f5b486b467d8e9536e6385a1f96a309746d2aad1b7125bf9f60932d0acc836653d05d129c22d282a93f434dccf5a64d810a6dc9129207fe46e2bb3e3cfa360443c39a6066d6730a0c16ebf480f46930098c064ab3fee312a49af3a100ca1bef08cb4f34c3d6a0b9c1baab643ba5aa4c637fbcb5479da35f33adc8009616801819c1df0e3dd0ba3014a2909f37ffd2a2c5f7a1db3ed90f4338240f145e419c1fee098100b2dbf6570c2b2ca89a171224739717f725bcf5311f53c9ef2705f311269dc6393d0f4de2d599127524075bd63331691a940cef9f851612f7a58fddd2f55b199afc4664e943f42af19f63f079a30dda6a15136b65f619dae89637e819e0ebbf2bf5f08febeb8a7392ffba532581f12b91fa7ef2fdcefa9146bc0bd0a04875f6be42d9694ce59e211922befbb2a4fd76b72d89494f06e5ec2770b9af1671f61972f1d113eb754401c5d560a47f9404db116a46deea31369297b7e61a685c965ced4de2a0524c4ebadcf9121144768eabc6aee44819b5823072a9889afe2605b7bf968e001afacaf765e7bf85d5658cd123055bdb08d3e1770cb97af5f95e3851d93643abcd3c9ef2cea3203e40247644fbea4b22efac85f55ec5b998372e02fcf304b67aa7c07752f8651720e0287a29c38935ed167ad2f2834cf342cb01c94c232f85b9b881f05184e5e1eaa1562e945e2053a1c23ccb46e9d10f3d08a61fc1954db2eadeb56309c4beca4e83b06b72d1cb4ee5dbb3f6becb320b4fa971e78223937767cd3fbf66a4a101b9f1522332bec57d989acbdb3c008ad78f36ed2409467f7f6046d2822d0c26da3c6ff67689682d98b41bcd25894b34927cecc82f2a2031fb4b200bee6f6d406e719532a15f94e8b656662bd6309c7165d48377a16e6e749dac2b3b22675a792840dc841575457d79180aea9739c050c87fa9071cf69c83c4c11eba5e47fdbacbb7fac66bae630c4a198709c7b2bd958baf010e653d534f2ce4ed688a56c6dd24556c32a02ba2fa5360a538cb6983701e6e747c5d5cf900f6b30ea30bee69ccec7c2e0b72c45f431a7cd4b0c1492f52fc3cc6be8749e024d24dfb233522101c033ab467f7e474a193a537dface181a22b5536e3ec12bbf378f9513da4f47e436c120140d8a433a939368038a9f80e9e8ec5729e63ff99058316bd9f9ef5240eaab0b1b16351d82c33f526c6aea2f4dbd4db64e72c3d7190636896533337ba0dded48a481ed46ab49bb2228b9644c853d2c0c9bded9112b98c164312fe9670a3b6e84030174bcc32f0f98c65fa3045782129c9643e3c08991d24cc2c14d2be87871a51872c193396029e6146dc2af38edcdad6efeb954b2defbc9f013444236076ff211480e088be7c6f194dd99f6a470a2c1f9836d0d4ce748a1fc6ccb307001acdcfaf76dce3106a32309f961fed687f653bf16ce335bdd29b64482dbaccc27425b766542e399a8ae47c56554ea53f5688606a06567ae7226b84b08d51a03ea6c06c171610281e148baa2af6afc3faee7b4a2ef67e1aa57dbe15ea36ba65e47aa831e2decd19138053cc8be1c8fe3e6ef76efb0d0f5d42c544a43032fab348fe377a6575f669476c589c39c2897783c5758edeadb71a676aa79dd418a075a16fa8bab3de5ecafdc190c85f577eb5bbc2b2f1e87c682b096753e7b4aeef7767c14aa461076303f9dcd364c14fc7e5ae6f47476b28933a4e622f0f7410fef773aa5580a8b374b696ccfa6b0cf4496df7391186817180297794e409eebc9d622907e5cf8310a364ccaf0c1e42179c7045afd57f2e05885766c5f690c7f95506ee88685ec07c0815bd740348497484ca245d8e75dd3b0bee8c4b4170a86cbe829b50a9a81f82119e54ff0830a502fe631c4f6ac15595d10f9c8fab9c6bb0c64bc9ef04418914a606b2da83ae211e0c3a535a8ab157db59a574a10db7cb40c4c10d2b3b1a7b9796a5830cb57c497778cfb0d9406ed8c461e0cc725ec31daa5a6684f7a1faf11c22d735afbd58602be080cb5f40d2af9702e1f5681fbebd03d7f20334d245abfb2539be723f00ba1209095742917a619f0e2c37e6bcc994f96505bf1926ef83610acb4a66892e28c2254e75e3d3a8e87f21c4a72f701de3a989c011bedbe4ecc29e7d6ac8331bc641d953c91a3b63da18479e5c020158d8d8fdedaaf2513f5a0cab65b940479be1222c483bee3c798acbb9d1ac0ca7d2a73e3c4ed178cfb6ba50c8db2c4201b64c49241df60c79e01dbfcbfd4dfd12910699060ea79874482d825d26c92c9048c70562a17d52ebdccc939eb4a093e3d6277bcfff7843abeee21befd4d5e60ce1c3aef73167b9aea3b0846afae4c57dc0a0a9c6a243fe413be90faa194bfa538ee870e219033fde10ad8a455047423472d028a9407334876f038270a43ff637c49960afbff023e8a42900e3944ac8b5a2bc32b9f983beaf50dfa1ebc27a2a877b38567eafc9da496f14c1c5c237f684a41011d55157527fa239d1b864df360a627dc393c11cf5226e9e937db037ada5527d85fe75574081fb70059d8ab8ae2a97f623b5f76f4bb12b574cd012e26be49c92cb277e1003be3f79ff039f4d625299f4cb267c0389ccda292b09374bcc7d7679e78d8b4ae363aa2ce0d11c6ab4bec17db9813ddf7f6c2a2d3d363a9e073044130e7e9daaf207bc0f3b6fb01df689a290430b5f7b2f7e87c06f20cc18bed0ae5bc35499040b8548fc747d1ebc52f2dd35b39bdfd68d11996f26ead85e11c04dfa123ca15f4cface88667aee8a08668ce8a4bed35d340c2d3b2c93bb2519ec7bfb57447dcbba853a6fc2c53d50230f44eebce96d813898d37ff839acf83f0a9fcba174e6c49a8628e26c33ea07d282dce1def13f8f62510d4458eef39de0069f7ec61db56b3640cd7fb6c627028cdef80b9accd9e51ad05bccce6723f73536c993f26a7b6973818b3cf2087c4f51eb90c6f023c34b83b8a267f8d696187cb0fd81834ffebbe3c01d09ea35a221c2568b578959f81f17784ad9b2c65277c82a49b3f146a7103b500bcbb8f6ec3a7b039f26022711b598e09074afdedc409b336a81e65bd08223e0175517b0c35c986a563b729fbaadc5578f0469516417db498164701eb9fcd81cb1f97c40fd98c14585359b635318d7e328deb3ee7420c696e3047eda261b5ee4bde5eee6c7bd744f5d150532d317dc65eccd156dc310d2c6637206a189ac321094189554e95588caaae578fc8e1f078f240c6095b4b7641ccba614495d2380ab4eb8adc526231a4603cad2f2024a9bec2f981f8f61571f01b546c34aacd73b8042cbdb93f2a3aa43b60f19ab3ad608525acfb011c9a5a2e45147cfc6c7f2e9d6508d39012b1516684062879c973cc81b8fa9cff4327e670bef10d2634d9146cb934e9a62f3e87f0ad204c67e5659ec71478f877653265ed12b9d8b031b3f1ae745efb93f381b019ae071336e94c507cec42288d2b3b12973d02ad28403724c59818073f98107ba329855131c876557d4b08a916d62ef6a50c36b1a38377f001805fcd6273a056b867e4f4e814874c62e2a4624b1d7672e96206739ab6a6064c0587ffefd2e9516e9d0dbf612595cc7a22afbad0ed9821b65971e2eefd2e0aecb742dc68974fde19fca32332835b12be0cc67e92875a339496f148e6b4e5147b9ae7383cf1d57f6d33b7f2f7d2112b0b16380db459ffccc435006d13fea89e77fb87af7e263897029669c5681d169679ff5645c3f87cad83bd99942d0c95271c416e78de329cc03262f9d4abb6f75ff65964e2eeba1d196316c9e69562f9489e9a0df23c4228b3fda48e9c9a089cbddef1c78c3de97738f76f14d9f79ce1c4b8275ecfe8f1b9af239304924ccea3dfc082d0e57a5020bcf5f7eb72ca8c7e258c600ea2a5898dfd3d18fb629eed68782a7609947f6ccf2ddf50305fdb4b44c9b4699ddf48a80beaba55a4a92c047eef71ceca8f63802a68471590362aad36b3473344cab1fcfc2aaec1f524494a090b0bcb7c703d18c27108a884f5464cab365e9d22d2bb19dca55fdd1bc3660ee2bdb728eab97233c71a1daea72716a5616ee500bb03cc3996df3006b179192106d9368d</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="书信" scheme="https://silkiller.github.io/categories/%E4%B9%A6%E4%BF%A1/"/>
+    
+    
+    <category term="表白" scheme="https://silkiller.github.io/tags/%E8%A1%A8%E7%99%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>郑老师教我R</title>
+    <link href="https://silkiller.github.io/posts/f3139065/"/>
+    <id>https://silkiller.github.io/posts/f3139065/</id>
+    <published>2023-05-07T15:58:25.000Z</published>
+    <updated>2023-05-10T12:17:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>越来越感觉到研究中R的重要性，拥有最新的方法和最齐全的包，还有开源和免费的超大优势，如今不会使用R似乎有些说不过去了。于是开始琢磨R的安装和使用，在一个雨天的星巴克，感谢郑老师带我入门，特此记录。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;越来越感觉到研究中R的重要性，拥有最新的方法和最齐全的包，还有开源和免费的超大优势，如今不会使用R似乎有些说不过去了。于是开始琢磨R的安装和使用，在一个雨天的星巴克，感谢郑老师带我入门，特此记录。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Research" scheme="https://silkiller.github.io/categories/Research/"/>
+    
+    
+    <category term="R" scheme="https://silkiller.github.io/tags/R/"/>
+    
+    <category term="R studio" scheme="https://silkiller.github.io/tags/R-studio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大巴黎翩然一梦</title>
+    <link href="https://silkiller.github.io/posts/452e4183/"/>
+    <id>https://silkiller.github.io/posts/452e4183/</id>
+    <published>2023-05-03T13:48:56.000Z</published>
+    <updated>2023-06-13T17:10:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;自上次马拉松结束到昨天巴黎之行归来，又发生了好多事，也有些想法想要倾诉，便都记录在这里吧。除了时间过得快这种老掉牙的感悟外，逐渐开始感受到PhD这份职业选择的特殊之处，在选择了博士这个身份的时刻，就已经决定了要免俗。就像《大话西游》里的至尊宝，戴上了金箍，尘世间的烦恼便再与你无关。  </p><blockquote><p>金箍戴上之后，你再也不是个凡人，人世间的情欲再也不能沾半点，如果动心，这个金箍就会在你头上越收越紧，苦不堪言。在戴上这个金箍之前，你还有什么话想说？</p></blockquote><p>&emsp;&emsp;曾经义无反顾地戴上金箍，却没有仔细想过戴上金箍意味着什么，在取下金箍和戴上金箍间徘徊挣扎并感到痛苦，所谓奈何？</p><span id="more"></span><p>&emsp;&emsp;还是先说说巴黎吧，虽然带了电脑充电器没有带电脑；带了护发素没有带洗发水；带了数据线没有带充电头，巴黎的一切仍然是完美的。同行的小伙伴，去过的每个地方和吃过的每家餐馆，都让人感慨应该再来一次。塞纳河畔的确像歌里写的，电影里放的，书里记录的那样，阳光、微风和连绵不断的风景，足够让人驻足停留，开心到忍不住和来往的游船招手。这是PhD赋予我的，PhD的自由时间决定了我们可以自由地选择行程，自由地决定自己的工作时间，自由地去追求我们想要的一切，于是巴黎的美好是那么的顺理成章。<br>&emsp;&emsp;回到鹿特丹之后，立刻开始紧张的学习，恍惚间甚至觉得没有去过巴黎，只是翩然一梦。清醒过来，看到朋友圈的一切，看到天南海北的人们，看到好久不联系的朋友结婚了，曾经在qq空间留言的朋友们也有了爱着和被爱的人，一瞬间又觉得PhD让自己失去了很多东西，以前不觉得，现在觉得冲击得如此强烈，以至于难以在办公室继续待哪怕一秒。收拾东西，走进人群，在星巴克坐下，我的心才稍微安定下来。<br>&emsp;&emsp; PhD让自己收获了很多东西，在此已不必赘述，但让自己又失去了什么呢？或许有一样就是失去了正常融入世俗的能力，不用按部就班的结婚生子也意味着更多地陷入爱的挣扎。一个不确定的未来和漂泊不定的生活，连去爱的勇气都变得单薄。久不联系的朋友结婚了，好朋友找到了新的工作，开始新的人生，除了一句相隔万里的祝福外，能做的不多，距离变得越来越远，联系也越来越支离破碎，等等等。<br>&emsp;&emsp;所以，终于也开始体会这种情绪了，有点emo，但也应该更加珍惜自己所拥有的，至于那些不确定的，就让他们随着风慢慢飘散吧，抓住能抓住的。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;自上次马拉松结束到昨天巴黎之行归来，又发生了好多事，也有些想法想要倾诉，便都记录在这里吧。除了时间过得快这种老掉牙的感悟外，逐渐开始感受到PhD这份职业选择的特殊之处，在选择了博士这个身份的时刻，就已经决定了要免俗。就像《大话西游》里的至尊宝，戴上了金箍，尘世间的烦恼便再与你无关。  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;金箍戴上之后，你再也不是个凡人，人世间的情欲再也不能沾半点，如果动心，这个金箍就会在你头上越收越紧，苦不堪言。在戴上这个金箍之前，你还有什么话想说？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;emsp;&amp;emsp;曾经义无反顾地戴上金箍，却没有仔细想过戴上金箍意味着什么，在取下金箍和戴上金箍间徘徊挣扎并感到痛苦，所谓奈何？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="旅行游记" scheme="https://silkiller.github.io/tags/%E6%97%85%E8%A1%8C%E6%B8%B8%E8%AE%B0/"/>
+    
+    <category term="Paris" scheme="https://silkiller.github.io/tags/Paris/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写在鹿特丹马拉松前一天</title>
+    <link href="https://silkiller.github.io/posts/99f390a0/"/>
+    <id>https://silkiller.github.io/posts/99f390a0/</id>
+    <published>2023-04-15T13:47:07.000Z</published>
+    <updated>2023-04-15T14:14:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;今天是2023年4月15日。十年前的今天，波士顿马拉松爆炸事件造成3人死亡，183人受伤。此后每年，组织方都会给受伤的跑者发放无门槛的参赛号码，希望他们能再度出现在黄蓝相间的赛场。十年间，有人回归，有人却再也无缘。  </p><p>&emsp;&emsp;下周一是127届波士顿马拉松，也是十年痛苦回忆的节点。但这次有更多人宣布重返赛场，更多人相聚在一起，这或许就是马拉松的意义。</p><span id="more"></span><p>&emsp;&emsp;五年前的今天，我顺利完赛武汉马拉松，成为我完赛的第一个全程马拉松。明天，是鹿特丹马拉松也是武汉马拉松，一瞬间所有的记忆都连接到了一起。写在马拉松前一天，是因为突然意识到时间过得很快，也有些Emo，或许是听了Olafur Arnalds的致郁专辑And they have escaped the weight of darkness；或许是因为又一年马拉松还是一个人，有点难过，也许是今天待在家没有出门，而外面阳光又是极好……搞不懂是什么情绪萦绕在我的心头，干脆不去想。<br>&emsp;&emsp;2023年将是很精彩的一年，一二月去了西班牙，意大利德国；四月即将去法国，六月回香港和内地，八月去美国，年底可能去英国，越是憧憬，就越感到时间流逝的可怕。在一二月去西意之前，也是无限的憧憬，而一切如今都化为了几千张照片和回忆。到底期待美好的事情即将发生是最美好的，一旦开始经历便会滑落到结束，而一旦结束人又开始回忆。也不知道自己在写啥，没头没尾的到这里结束吧。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;今天是2023年4月15日。十年前的今天，波士顿马拉松爆炸事件造成3人死亡，183人受伤。此后每年，组织方都会给受伤的跑者发放无门槛的参赛号码，希望他们能再度出现在黄蓝相间的赛场。十年间，有人回归，有人却再也无缘。  &lt;/p&gt;
+&lt;p&gt;&amp;emsp;&amp;emsp;下周一是127届波士顿马拉松，也是十年痛苦回忆的节点。但这次有更多人宣布重返赛场，更多人相聚在一起，这或许就是马拉松的意义。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="Rotterdam Marathon" scheme="https://silkiller.github.io/tags/Rotterdam-Marathon/"/>
+    
+    <category term="Boston Marathon" scheme="https://silkiller.github.io/tags/Boston-Marathon/"/>
+    
+    <category term="Wuhan Marathon" scheme="https://silkiller.github.io/tags/Wuhan-Marathon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客转移技巧</title>
+    <link href="https://silkiller.github.io/posts/caa2dccf/"/>
+    <id>https://silkiller.github.io/posts/caa2dccf/</id>
+    <published>2023-04-08T17:25:49.000Z</published>
+    <updated>2023-04-08T17:36:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>老电脑Win11实在是带不动，又换到了Win10。但这次博客的转移比较丝滑，特此记录，方便以后换电脑重新设置博客。</p><span id="more"></span><p>由于我的博客的全部文件夹都实现了云同步，实际上不需要再重复安装一些插件和进行重复的设置，以前的个性化设置都可以保留。需要注意的几个点就是：</p><ul><li><strong>安装Git和Node.js</strong>。注意Node和Next的版本号进行对应，目前Next 8.+的版本可以适配16.20的Node.js;</li><li><strong>设置Git和Github绑定，生成新的SSH</strong>；</li><li><strong>在初始博客文件夹安装Hexo</strong>。shift+右键，Windows power shell中安装hexo。</li><li><strong>测试hexo new/generate/deploy命令</strong>；</li></ul><p>搞定以上四步即可以丝滑过度到新电脑，再也不用担心刷系统和更换电脑的后顾之忧了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;老电脑Win11实在是带不动，又换到了Win10。但这次博客的转移比较丝滑，特此记录，方便以后换电脑重新设置博客。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://silkiller.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="hexo" scheme="https://silkiller.github.io/tags/hexo/"/>
+    
+    <category term="blog" scheme="https://silkiller.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在晴天的乌云下散步</title>
+    <link href="https://silkiller.github.io/posts/434b1638/"/>
+    <id>https://silkiller.github.io/posts/434b1638/</id>
+    <published>2023-04-08T17:07:36.000Z</published>
+    <updated>2023-04-15T13:44:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>给汪老师制作这本纪念册收获了很多感动，特此记录。  </p><p>“May your days be filled with an abundance of happiness, and may your smile never fade.”<br>“惟愿笑口常开，快乐满怀”</p><span id="more"></span><p><strong>给汪老师的留言：</strong> </p><p>汪老师，你到荷兰的那天，我正从巴塞罗那乘火车前往马德里。飞驰的火车翻过广袤苍凉的卡斯蒂利亚高原，它不曾知道，车上的人也不知道，你也跨越大洲大洋来到了郁金香国度。  </p><p>第一次见你，是在烟雾缭绕又香气扑鼻的烤肉店，我们大块朵颐、纵情谈论，彷佛不曾陌生过。一起玩 Blackjack、一起组队 Padel、一起坐着无人车唱着歌、一起在晴天的乌云下散步、一起在雪中看一场女足联赛抑或是荷兰国家队比赛……快乐的时刻太多，以至于忘了时间过得有多快。转眼间，你又要跨洲跨洋，去往另一个国度，辗转再回香港。  </p><p>你来时，荷兰风雪交加；将离开时，最好的荷兰却即将揭幕，在最差的季节遇见一群很棒的朋友未尝不是人生一大幸事。没有见过荷兰的夏天却总是遗憾，我因此放了好些夏天的照片在这本纪念册里，希望能将这份遗憾稍稍补足。  </p><p>古人云，山川异域，风月同天。相信再见的那一天一定不会太遥远。  </p><p><img src="https://s2.loli.net/2023/04/09/Rx2vSYbQaP3iWKo.png" alt="image.png"><br><img src="https://s2.loli.net/2023/04/09/gj1Q2xobUIvnyOl.png" alt="image.png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;给汪老师制作这本纪念册收获了很多感动，特此记录。  &lt;/p&gt;
+&lt;p&gt;“May your days be filled with an abundance of happiness, and may your smile never fade.”&lt;br&gt;“惟愿笑口常开，快乐满怀”&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="离别" scheme="https://silkiller.github.io/tags/%E7%A6%BB%E5%88%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>晚自习计划</title>
+    <link href="https://silkiller.github.io/posts/59619e67/"/>
+    <id>https://silkiller.github.io/posts/59619e67/</id>
+    <published>2023-03-15T22:42:25.000Z</published>
+    <updated>2023-03-23T22:47:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;继<a href="https://silkiller.github.io/posts/12247.html">睡眠时间延后4小时</a>，和<a href="https://silkiller.github.io/posts/1665d4b7.html">8小时连续工作法</a>，我的life experiment进入第三章，晚自习计划！！睡眠延后4小时基于疫情隔离在家和R&amp;R的背景下，8小时连续工作法则是在写毕业论文的背景下，进入PhD阶段，虽然这边不强调加班，但还是想多利用时间，特别是现在没有太多的烦恼和羁绊，可以全身心投入工作，不能让宝贵的博士时光白白流逝。于是，晚自习计划应运而生，主要内容是，将晚上的时间利用起来，尽可能多地待在办公室，下午6点下班后，回家做饭或休息一小时，然后折返回办公室自习，待到11左右，回家直接洗澡睡觉。  </p><span id="more"></span><p>— 2023.3.23更新—   </p><p>&emsp;&emsp;结束一天的学习，洗完澡躺在床上，床头灯的暖黄色光洒在地上，音响里放着最近喜欢上的乐队Iceball的《船歌》，一边听歌一边更博，对于phd来算是难得的休息时光。今天上午狂看论文，中午phd seminar，一下午的课，稍微喘息下来决定把之前没写完的博客继续写完。<br>&emsp;&emsp;晚自习计划，顾名思义呢就是上晚自习。一直以来，我都想再次回到备考研究生考试和托福GMAT考试的状态。那时候早出晚归，每天忙忙碌碌但却充实，也不会想东想西，饱含静谧的激情。而现在却时常觉得不知所措，没做什么却累得提不起一丝精神，忘了在哪里看到一句话，“人会累是因为做的太少”，无聊会耗尽人的精神。于是，自己也开始思考，如何将无聊转化成充实。以前每天下午下班回家，做完饭或者单纯吃饭就耗尽了精神，再也提不起劲来打开电脑学习，于是一整个晚上白白耗费。第二天再循环往复，会觉得一周怎么过得这么这么快，一个月过得也特别快。<br>&emsp;&emsp;事情出现转机是在一个周末，因为第二天要跟导师汇报研究进展，我在学校图书馆待到了接近凌晨十二点。晚上的图书馆很安静，出了校园外面的街道也静悄悄，我骑着自行车吹着晚风，那一刻我感到了前所未有的平静。那种感觉如此玄妙，以至于让人不可自拔地想要重复。说干就干，以往下班回家做完饭就不想出门了，但现在抱着还要回办公室的念头，会迅速将晚餐解决掉，重新回到办公室。重新回到办公室，坐下来的那一瞬间，我又找到了那种久违的平静。就这样，再待上一会儿，再趁着夜色骑车回家，我感到前所未有的满足。<br>&emsp;&emsp;都说工作生活要平衡，工作之外要有生活，对我来说却是生活包含工作，工作中也有生活。工作不是一刻不停的低头敲击键盘，也有和同事的聊天吐槽，和同事们的工作午餐和碰头时的寒暄，工作中也有生活；生活不是无止境的狂欢，不是燃尽所有激情，也有思考，也有激烈的辩论和思维的碰撞，生活中也有工作。如果严格地将两者分开来，很难想象阿基米德如何在洗澡时发现浮力定律，也没有偶尔的灵光一现，人类的现代化进程恐怕也要延后许多。工作即为生活，生活也是工作，认清这一点很重要。<br>&emsp;&emsp;另外一个感悟来自于对家务和琐事的思考。一直以来，特别是自己一个人住之后，对于家务有种本能的厌恶，觉得很累，是一种慢性精神自杀。但也是一个很巧的契机，让我在洗碗这件事上找到了一丝平静，好像进入了冥想的状态，不仅不感觉到累，反而觉得很解压很放松。后面在少数派的一篇文章中又看到一句很棒的话，“<strong>家务是人类和生活的必要摩擦，如果少了这些摩擦，可能「生活」的实感就会像从冰面上滑过一样掠过记忆。</strong>” <a href="https://sspai.com/post/78265">当我在做家务时我在想什么</a>。 让我对家务和琐事有了新的认识，不是抗拒而是慢慢地学会接受，甚至学会享受它。<br>&emsp;&emsp;回到晚自习计划，这也是我对两个感悟的完美实践。不需要太多无效的放松时间，高质量的专注反而让人轻松；回家吃个饭再回来，也不再是那么难以实现。思绪又一下飘到本科时候，那时候特别喜欢晚上十点之后再去跑步，路上，校园里人都慢慢变少，我能清晰地听见自己的呼吸声，跑鞋踏在地上的声音，我是如此地喜欢夜晚，喜欢平静且饱含激情。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;继&lt;a href=&quot;https://silkiller.github.io/posts/12247.html&quot;&gt;睡眠时间延后4小时&lt;/a&gt;，和&lt;a href=&quot;https://silkiller.github.io/posts/1665d4b7.html&quot;&gt;8小时连续工作法&lt;/a&gt;，我的life experiment进入第三章，晚自习计划！！睡眠延后4小时基于疫情隔离在家和R&amp;amp;R的背景下，8小时连续工作法则是在写毕业论文的背景下，进入PhD阶段，虽然这边不强调加班，但还是想多利用时间，特别是现在没有太多的烦恼和羁绊，可以全身心投入工作，不能让宝贵的博士时光白白流逝。于是，晚自习计划应运而生，主要内容是，将晚上的时间利用起来，尽可能多地待在办公室，下午6点下班后，回家做饭或休息一小时，然后折返回办公室自习，待到11左右，回家直接洗澡睡觉。  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Life Experiment" scheme="https://silkiller.github.io/categories/Life-Experiment/"/>
+    
+    
+    <category term="晚自习" scheme="https://silkiller.github.io/tags/%E6%99%9A%E8%87%AA%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>祝bolg生日快乐2018-2023</title>
+    <link href="https://silkiller.github.io/posts/691acd9c/"/>
+    <id>https://silkiller.github.io/posts/691acd9c/</id>
+    <published>2023-03-15T22:23:43.000Z</published>
+    <updated>2023-03-15T22:38:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年3月15日上午10:58:46，我写下第一篇博客<a href="https://silkiller.github.io/posts/48586.html">2019考研复习规划(For 学弟学妹)</a>,五年过去，笔耕不辍，竟写下134篇博文，平均每个月三篇。这些博文记录了我无数个不眠的夜晚和沉思的瞬间，我的很多深层的思考和感悟，都记录在这里。我感激有这样一个不受拘束的平台，可以让我畅所欲言；我感激5年前的自己，攻克无数困难终于迈出建站的第一步；我感激过去五年的自己，坚持写作和思考，点点思绪终于汇聚成河。五年过去，2023年3月15日23:36:04，我在办公室记录这神圣的一刻。    </p><p><strong>五周岁生日快乐，我的博客！</strong> </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2018年3月15日上午10:58:46，我写下第一篇博客&lt;a href=&quot;https://silkiller.github.io/posts/48586.html&quot;&gt;2019考研复习规划(For 学弟学妹)&lt;/a&gt;,五年过去，笔耕不辍，竟写下134篇博文，平均每个月三篇。</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="Birthday" scheme="https://silkiller.github.io/tags/Birthday/"/>
+    
+    <category term="blog" scheme="https://silkiller.github.io/tags/blog/"/>
+    
+    <category term="2018-2023" scheme="https://silkiller.github.io/tags/2018-2023/"/>
+    
+  </entry>
+  
+</feed>

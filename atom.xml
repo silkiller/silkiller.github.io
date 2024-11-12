@@ -6,7 +6,7 @@
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
-  <updated>2024-10-17T15:47:59.210Z</updated>
+  <updated>2024-11-12T15:22:15.506Z</updated>
   <id>https://silkiller.github.io/</id>
   
   <author>
@@ -17,22 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://silkiller.github.io/posts/4a17b156/"/>
-    <id>https://silkiller.github.io/posts/4a17b156/</id>
-    <published>2024-10-17T15:47:59.210Z</published>
-    <updated>2024-10-17T15:47:59.210Z</updated>
+    <title>我的第一次马拉松大满贯赛事体验报告</title>
+    <link href="https://silkiller.github.io/posts/e1263e8e/"/>
+    <id>https://silkiller.github.io/posts/e1263e8e/</id>
+    <published>2024-11-12T15:18:48.000Z</published>
+    <updated>2024-11-12T15:22:15.506Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Berlin marathon</p><span id="more"></span>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;Berlin marathon&lt;/p&gt;</summary>
     
     
     
+    
+    <category term="Berlin Marathon" scheme="https://silkiller.github.io/tags/Berlin-Marathon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>重复造轮子背后的纠结</title>
+    <link href="https://silkiller.github.io/posts/f17dcf79/"/>
+    <id>https://silkiller.github.io/posts/f17dcf79/</id>
+    <published>2024-11-12T13:19:55.000Z</published>
+    <updated>2024-11-12T15:16:25.766Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;本来随着个人网站的上线，已经下定决心将所有注意力放在研究类博客的更新上，但是心中涌起的诸多疑惑、烦恼、拧巴，还是不吐不快，决定还是要好好经营自己的这一方小小天地。</p><span id="more"></span><p>&emsp;&emsp;实话说，目前的烦恼还真不少。<strong>首先，关于是否应该积极拥抱社交媒体</strong>，我很困扰。以我现在对自我的了解，我是一个具有很强烈倾诉欲的人，但同时我厌恶无意识地去追逐潮流，公开发表意见而成为意见领袖，因为这会引来我所不愿见到的无意义的讨论或刺痛某人的敏感神经，给自己找不痛快。但同时，以往的社交媒体的体验，又让我感受到了由衷的分享的乐趣。于是就重复陷入到，比如：在公开自己的博客，让Google可以检索之后，然后又撤掉Google/Bing的检索；在朋友圈分享生活和LinkedIn分享学术的犹豫不决；在是否要经营自己的小红书/抖音帐号踟蹰不前。这些问题涉及到了最本质的几个问题：</p><blockquote><ul><li>我是一个什么样的人？</li><li>我想成为什么样的人？</li><li>我心中的最符合我想成为的这个人的人是谁？</li></ul></blockquote><p>&emsp;&emsp;<strong>我是什么样的人？</strong> 在写了这么多篇博客之后，可能可以稍微归纳总结一下：处女座、ENTJ、爱运动、爱独处和思考、喜欢琢磨和弄清事情的本质（特别喜欢琢磨自己）、喜欢新鲜感、不喜欢重复和单调的生活、系统要第一时间更新、新功能要第一时间尝试、喜欢历史、纪录片、人物传记和贴近现实的影视作品、思想偏保守和传统、提倡男女平等、情商有一点但不多、且同理心正在逐步降低、自我矛盾且清高自负，在乎他人的看法……写完发现，自己怎么有点Nerd？<br>&emsp;&emsp;<strong>我想成为什么样的人，我心中的最符合我想成为的这个人的人是谁？</strong>都说ENTJ是E中最I的一类人，想来有点道理。我一直都憧憬着成为像余秋雨那样的作家，在旅途中记录所思所想，用华丽且舒适的文字述说所见所想。前段时间去柏林跑马拉松，在往和返的9个小时的火车上，我找到了久违的平静。火车飞速地开，我沉浸在忙碌的工作中，或是听着歌，朝着窗外发呆（可惜因为太忙忘记记录了）。以至于从柏林归来之后，我久久无法忘怀并无比地期待下一次的火车旅行。或许在内心深处，我就是一个文人，试图在科技时代寻求一份内心的安宁自洽的文人。<br>&emsp;&emsp;回到最初的问题，是否应该积极拥抱社交媒体呢？这样看来，似乎并不适合。我更适合和自己对话， 和三五好友把酒畅谈，在这些情境下，我是自由的、快乐的。一旦脱离，我便开始慌张和局促不安。我想，我的作品应该为我说话，而不是我去说话。写到这里，告诫自己，扎扎实实做一点工作，认认真真写一点文章。真正的朋友不会因为少几个点赞或者评论而渐渐疏远，虚假的友谊哪怕表面功夫到家也不一定长久。<br>&emsp;&emsp;针对本博客，提出几点发展方向：聚焦几个重点板块，随笔用来记录所思所想；可以写一些关于足球的评论文章，关于马拉松的体验，关于此时此刻发生的事情的评论等等。沉淀下来。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;本来随着个人网站的上线，已经下定决心将所有注意力放在研究类博客的更新上，但是心中涌起的诸多疑惑、烦恼、拧巴，还是不吐不快，决定还是要好好经营自己的这一方小小天地。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="纠结" scheme="https://silkiller.github.io/tags/%E7%BA%A0%E7%BB%93/"/>
+    
+    <category term="拧巴" scheme="https://silkiller.github.io/tags/%E6%8B%A7%E5%B7%B4/"/>
     
   </entry>
   
@@ -464,34 +486,6 @@
     
     
     <category term="晚自习" scheme="https://silkiller.github.io/tags/%E6%99%9A%E8%87%AA%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>祝bolg生日快乐2018-2023</title>
-    <link href="https://silkiller.github.io/posts/691acd9c/"/>
-    <id>https://silkiller.github.io/posts/691acd9c/</id>
-    <published>2023-03-15T22:23:43.000Z</published>
-    <updated>2023-03-15T22:38:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>2018年3月15日上午10:58:46，我写下第一篇博客<a href="https://silkiller.github.io/posts/48586.html">2019考研复习规划(For 学弟学妹)</a>,五年过去，笔耕不辍，竟写下134篇博文，平均每个月三篇。这些博文记录了我无数个不眠的夜晚和沉思的瞬间，我的很多深层的思考和感悟，都记录在这里。我感激有这样一个不受拘束的平台，可以让我畅所欲言；我感激5年前的自己，攻克无数困难终于迈出建站的第一步；我感激过去五年的自己，坚持写作和思考，点点思绪终于汇聚成河。五年过去，2023年3月15日23:36:04，我在办公室记录这神圣的一刻。    </p><p><strong>五周岁生日快乐，我的博客！</strong> </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;2018年3月15日上午10:58:46，我写下第一篇博客&lt;a href=&quot;https://silkiller.github.io/posts/48586.html&quot;&gt;2019考研复习规划(For 学弟学妹)&lt;/a&gt;,五年过去，笔耕不辍，竟写下134篇博文，平均每个月三篇。</summary>
-      
-    
-    
-    
-    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="Birthday" scheme="https://silkiller.github.io/tags/Birthday/"/>
-    
-    <category term="blog" scheme="https://silkiller.github.io/tags/blog/"/>
-    
-    <category term="2018-2023" scheme="https://silkiller.github.io/tags/2018-2023/"/>
     
   </entry>
   

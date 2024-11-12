@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Y.K.&#39;s BLOG</title>
   
-  <subtitle>理想是成为全才</subtitle>
+  
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
@@ -63,14 +63,15 @@
     <link href="https://silkiller.github.io/posts/8d934611/"/>
     <id>https://silkiller.github.io/posts/8d934611/</id>
     <published>2024-06-04T19:51:45.000Z</published>
-    <updated>2024-08-31T08:54:55.000Z</updated>
+    <updated>2024-11-12T18:25:27.565Z</updated>
     
-    <content type="html"><![CDATA[<p>我的个人网站  <a href="http://www.yongkangyang.com/">www.yongkangyang.com</a>  已经可以正式访问了，该网站以后将建设为个人网站以及研究类博客，本博客站的更新频率也会随之降低很多。倒不是因为没有情绪吐露或是没有事情记录了，而是随着年龄增长，就像歌词里唱的那样：“就让往事随风”，应该随风去了，给自己背上太沉重的包袱，不利于轻装出发。本网站将专注于年度总结系列，从周更博主，到月更，终于到了年更博主咯。</p>]]></content>
+    <content type="html"><![CDATA[<p>我的个人网站  <a href="http://www.yongkangyang.com/">www.yongkangyang.com</a>  已经可以正式访问了，该网站以后将建设为个人网站以及研究类博客。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;我的个人网站  &lt;a href=&quot;http://www.yongkangyang.com/&quot;&gt;www.yongkangyang.com&lt;/a&gt;  已经可以正式访问了，该网站以后将建设为个人网站以及研究类博客，本博客站的更新频率也会随之降低很多。倒不是因为没有情绪吐露或是没有</summary>
+    <summary type="html">&lt;p&gt;我的个人网站  &lt;a href=&quot;http://www.yongkangyang.com/&quot;&gt;www.yongkangyang.com&lt;/a&gt;  已经可以正式访问了，该网站以后将建设为个人网站以及研究类博客。&lt;/p&gt;
+</summary>
       
     
     

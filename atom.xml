@@ -6,7 +6,7 @@
   <link href="https://silkiller.github.io/atom.xml" rel="self"/>
   
   <link href="https://silkiller.github.io/"/>
-  <updated>2024-11-20T11:41:51.242Z</updated>
+  <updated>2024-11-22T21:53:33.435Z</updated>
   <id>https://silkiller.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RSS</title>
+    <link href="https://silkiller.github.io/posts/f38d2d15/"/>
+    <id>https://silkiller.github.io/posts/f38d2d15/</id>
+    <published>2024-11-22T21:50:21.000Z</published>
+    <updated>2024-11-22T21:53:33.435Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近又重归了RSS的怀抱，也给自己的博客加上了RSS订阅，复制此链接<a href="https://silkiller.github.io/atom.xml">https://silkiller.github.io/atom.xml</a> 到RSS阅读器便可以及时收到最新文章订阅了。</p><span id="more"></span><blockquote><p>This message is used to verify that this feed (feedId:82898170112587776) belongs to me (userId:82875362231734272). Join me in enjoying the next generation information browser <a href="https://follow.is/">https://follow.is</a>.</p></blockquote>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;最近又重归了RSS的怀抱，也给自己的博客加上了RSS订阅，复制此链接&lt;a href=&quot;https://silkiller.github.io/atom.xml&quot;&gt;https://silkiller.github.io/atom.xml&lt;/a&gt; 到RSS阅读器便可以及时收到最新文章订阅了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://silkiller.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="rss" scheme="https://silkiller.github.io/tags/rss/"/>
+    
+  </entry>
   
   <entry>
     <title>荷兰火车环游计划</title>
@@ -467,28 +488,6 @@
     <category term="hexo" scheme="https://silkiller.github.io/tags/hexo/"/>
     
     <category term="blog" scheme="https://silkiller.github.io/tags/blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>在晴天的乌云下散步</title>
-    <link href="https://silkiller.github.io/posts/434b1638/"/>
-    <id>https://silkiller.github.io/posts/434b1638/</id>
-    <published>2023-04-08T17:07:36.000Z</published>
-    <updated>2023-04-15T13:44:41.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>给汪老师制作这本纪念册收获了很多感动，特此记录。  </p><p>“May your days be filled with an abundance of happiness, and may your smile never fade.”<br>“惟愿笑口常开，快乐满怀”</p><span id="more"></span><p><strong>给汪老师的留言：</strong> </p><p>汪老师，你到荷兰的那天，我正从巴塞罗那乘火车前往马德里。飞驰的火车翻过广袤苍凉的卡斯蒂利亚高原，它不曾知道，车上的人也不知道，你也跨越大洲大洋来到了郁金香国度。  </p><p>第一次见你，是在烟雾缭绕又香气扑鼻的烤肉店，我们大块朵颐、纵情谈论，彷佛不曾陌生过。一起玩 Blackjack、一起组队 Padel、一起坐着无人车唱着歌、一起在晴天的乌云下散步、一起在雪中看一场女足联赛抑或是荷兰国家队比赛……快乐的时刻太多，以至于忘了时间过得有多快。转眼间，你又要跨洲跨洋，去往另一个国度，辗转再回香港。  </p><p>你来时，荷兰风雪交加；将离开时，最好的荷兰却即将揭幕，在最差的季节遇见一群很棒的朋友未尝不是人生一大幸事。没有见过荷兰的夏天却总是遗憾，我因此放了好些夏天的照片在这本纪念册里，希望能将这份遗憾稍稍补足。  </p><p>古人云，山川异域，风月同天。相信再见的那一天一定不会太遥远。  </p><p><img src="https://s2.loli.net/2023/04/09/Rx2vSYbQaP3iWKo.png" alt="image.png"><br><img src="https://s2.loli.net/2023/04/09/gj1Q2xobUIvnyOl.png" alt="image.png"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;给汪老师制作这本纪念册收获了很多感动，特此记录。  &lt;/p&gt;
-&lt;p&gt;“May your days be filled with an abundance of happiness, and may your smile never fade.”&lt;br&gt;“惟愿笑口常开，快乐满怀”&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://silkiller.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="离别" scheme="https://silkiller.github.io/tags/%E7%A6%BB%E5%88%AB/"/>
     
   </entry>
   

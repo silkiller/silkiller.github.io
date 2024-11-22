@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://silkiller.github.io/posts/f38d2d15/</loc>
+    
+    <lastmod>2024-11-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://silkiller.github.io/posts/bbdec22c/</loc>
     
     <lastmod>2024-11-20</lastmod>
@@ -3328,6 +3337,13 @@
   
   <url>
     <loc>https://silkiller.github.io/tags/%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA/</loc>
+    <lastmod>2024-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://silkiller.github.io/tags/rss/</loc>
     <lastmod>2024-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -15,15 +15,101 @@
       </tags>
   </entry>
   <entry>
-    <title>GITHUB ACTION</title>
-    <url>/posts/bd7ca760/</url>
-    <content><![CDATA[<p>test23456789&#x2F;10</p>
+    <title>GITHUB ACTION test and guideline</title>
+    <url>/posts/6f4cfb5d/</url>
+    <content><![CDATA[<p>经过10次测试：test123456789&#x2F;10&#x2F;，终于在github远程部署成功，此为记录。</p>
+<p>由于经常往返鹿特丹-阿姆，在火车上的时光难免想写点东西。但是博客本地部署在家里的电脑上，写起来难免觉得别扭，了解到github可以自动进行部署，于是说干就干：</p>
+<h3 id="参考资料："><a href="#参考资料：" class="headerlink" title="参考资料："></a>参考资料：</h3><p>[1] <a href="https://isedu.top/index.php/archives/144/">https://isedu.top/index.php/archives/144/</a><br>[2] <a href="https://claude.ai/">Claude 3.7 sonnet</a><br>[3] <a href="https://manus.im/app">Manus</a></p>
+<h3 id="最难搞定的点-Troubleshooting"><a href="#最难搞定的点-Troubleshooting" class="headerlink" title="最难搞定的点 Troubleshooting"></a>最难搞定的点 Troubleshooting</h3><ol>
+<li>github workflow的设置：需要生成一个public key和private key 分别放在github page 和private repo；</li>
+<li>Make sure your GitHub Pages repository is configured to deploy from the correct branch： 这个太容易忽略了，导致需要pull request，其实直接就可以merge到github page；</li>
+<li>If you’re using custom themes or plugins, ensure they’re properly included in your repository：这个是最坑爹的，直接upload本地的theme，可能存在不同的兼容性问题，workflow各种报错，最终解决办法是直接clone repo：<a href="https://github.com/silkiller/hexo-theme-oasis_updated.git%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%8E%9F%E5%A7%8B%E7%9A%84theme%E7%BB%93%E6%9E%84%E9%9C%80%E8%A6%81%E6%9B%B4%E6%94%B9%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5fork%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84repo%EF%BC%8C%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%8B%BF%E5%88%B0theme%E7%9A%84%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%9C%A8%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8A%E4%BF%AE%E6%94%B9%EF%BC%8C%E7%84%B6%E5%90%8E%E5%90%8C%E6%AD%A5%E5%88%B0github">https://github.com/silkiller/hexo-theme-oasis_updated.git，如果原始的theme结构需要更改，可以直接fork到自己的repo，相当于拿到theme的源代码，直接在源代码上修改，然后同步到github</a> page中。</li>
+<li>version Management：版本管理，最好用老一点的node版本，比如16，新版本存在一些兼容性问题。</li>
+</ol>
+<h1 id="Simplified-Guide-Deploying-Hexo-Blog-with-GitHub-Actions"><a href="#Simplified-Guide-Deploying-Hexo-Blog-with-GitHub-Actions" class="headerlink" title="Simplified Guide: Deploying Hexo Blog with GitHub Actions"></a>Simplified Guide: Deploying Hexo Blog with GitHub Actions</h1><p>This guide has been customized to meet your specific requirements:</p>
+<ol>
+<li>Creating a private repository to store your Hexo blog source files</li>
+<li>Setting up automatic deployment whenever you add or update content in that repository</li>
+</ol>
+<h2 id="Step-1-Create-a-Private-Source-Repository"><a href="#Step-1-Create-a-Private-Source-Repository" class="headerlink" title="Step 1: Create a Private Source Repository"></a>Step 1: Create a Private Source Repository</h2><ol>
+<li><p>Go to GitHub and click on the “+” icon in the top-right corner, then select “New repository”.</p>
+</li>
+<li><p>Name your repository something like <code>hexo-blog-source</code> or any name you prefer.</p>
+</li>
+<li><p>Set the repository to “Private” to keep your drafts and source files protected.</p>
+</li>
+<li><p>Click “Create repository” without adding any files yet.</p>
+</li>
+<li><p>Push your local Hexo blog files to this new repository (Or Manually upload)</p>
+</li>
+</ol>
+<h2 id="Step-2-Set-Up-SSH-Keys-for-Deployment"><a href="#Step-2-Set-Up-SSH-Keys-for-Deployment" class="headerlink" title="Step 2: Set Up SSH Keys for Deployment"></a>Step 2: Set Up SSH Keys for Deployment</h2><p>For GitHub Actions to deploy to your GitHub Pages repository, you need to set up SSH keys:</p>
+<ol>
+<li>Generate a new SSH key pair:</li>
+</ol>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -b 4096 -C <span class="string">&quot;youngfor823@gmail.com&quot;</span> -f github-actions-deploy</span><br></pre></td></tr></table></figure>
+
+<p>This will create two files: <code>github-actions-deploy</code> (private key) and <code>github-actions-deploy.pub</code> (public key).</p>
+<ol start="2">
+<li><p>Add the public key to your GitHub Pages repository (<code>silkiller.github.io</code>):</p>
+<ul>
+<li>Go to your GitHub Pages repository</li>
+<li>Navigate to “Settings” &gt; “Deploy keys”</li>
+<li>Click “Add deploy key”</li>
+<li>Give it a title like “GitHub Actions Deploy Key”</li>
+<li>Paste the contents of the <code>github-actions-deploy.pub</code> file</li>
+<li>Check the “Allow write access” box</li>
+<li>Click “Add key”</li>
+</ul>
+</li>
+<li><p>Add the private key to your source repository:</p>
+<ul>
+<li>Go to your source repository</li>
+<li>Navigate to “Settings” &gt; “Secrets and variables” &gt; “Actions”</li>
+<li>Click “New repository secret”</li>
+<li>Name the secret <code>DEPLOY_KEY</code></li>
+<li>Paste the contents of the <code>github-actions-deploy</code> file (the private key)</li>
+<li>Click “Add secret”</li>
+</ul>
+</li>
+</ol>
+<h2 id="Step-3-Create-the-GitHub-Actions-Workflow"><a href="#Step-3-Create-the-GitHub-Actions-Workflow" class="headerlink" title="Step 3: Create the GitHub Actions Workflow"></a>Step 3: Create the GitHub Actions Workflow</h2><ol>
+<li><p>In your private source repository, create a new directory structure <code>.github/workflows/</code> if it doesn’t already exist.</p>
+</li>
+<li><p>Create a new file named <code>deploy.yml</code> in the <code>.github/workflows/</code> directory with the following content:</p>
+</li>
+</ol>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">Deploy</span> <span class="string">Hexo</span> <span class="string">Blog</span></span><br><span class="line"></span><br><span class="line"><span class="attr">on:</span></span><br><span class="line">  <span class="attr">push:</span></span><br><span class="line">    <span class="attr">branches:</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">master</span>  <span class="comment"># **非常关键！！master, depending on your default branch name**</span></span><br><span class="line">    <span class="attr">paths:</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&#x27;source/**&#x27;</span>  <span class="comment"># Trigger only when files in the source directory change</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&#x27;themes/**&#x27;</span>  <span class="comment"># Or when theme files change</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&#x27;_config.yml&#x27;</span>  <span class="comment"># Or when config changes</span></span><br><span class="line"></span><br><span class="line"><span class="attr">jobs:</span></span><br><span class="line">  <span class="attr">build-and-deploy:</span></span><br><span class="line">    <span class="attr">runs-on:</span> <span class="string">ubuntu-latest</span></span><br><span class="line">    <span class="attr">steps:</span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Checkout</span> <span class="string">source</span></span><br><span class="line">        <span class="attr">uses:</span> <span class="string">actions/checkout@v4</span></span><br><span class="line">        <span class="attr">with:</span></span><br><span class="line">          <span class="attr">submodules:</span> <span class="literal">true</span>   <span class="comment"># Fetch submodules (themes, etc.)</span></span><br><span class="line">          <span class="attr">fetch-depth:</span> <span class="number">0</span>    <span class="comment"># Fetch all history for .git info</span></span><br><span class="line">          </span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Setup</span> <span class="string">Node.js</span></span><br><span class="line">        <span class="attr">uses:</span> <span class="string">actions/setup-node@v4</span></span><br><span class="line">        <span class="attr">with:</span></span><br><span class="line">          <span class="attr">node-version:</span> <span class="string">&#x27;16&#x27;</span>  <span class="comment"># Use the Node.js version you&#x27;re using locally</span></span><br><span class="line">          </span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Cache</span> <span class="string">dependencies</span></span><br><span class="line">        <span class="attr">uses:</span> <span class="string">actions/cache@v4</span></span><br><span class="line">        <span class="attr">with:</span></span><br><span class="line">          <span class="attr">path:</span> <span class="string">node_modules</span></span><br><span class="line">          <span class="attr">key:</span> <span class="string">$&#123;&#123;</span> <span class="string">runner.os</span> <span class="string">&#125;&#125;-node-$&#123;&#123;</span> <span class="string">hashFiles(&#x27;**/package-lock.json&#x27;)</span> <span class="string">&#125;&#125;</span></span><br><span class="line">          <span class="attr">restore-keys:</span> <span class="string">|</span></span><br><span class="line"><span class="string">            $&#123;&#123; runner.os &#125;&#125;-node-</span></span><br><span class="line"><span class="string"></span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Install</span> <span class="string">dependencies</span></span><br><span class="line">        <span class="attr">run:</span> <span class="string">|</span></span><br><span class="line"><span class="string">          npm install -g hexo-cli</span></span><br><span class="line"><span class="string"></span>          </span><br><span class="line"></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Install</span> <span class="string">landscape</span> <span class="string">theme</span></span><br><span class="line">        <span class="attr">run:</span> <span class="string">|</span></span><br><span class="line"><span class="string">          # Check if theme is already installed</span></span><br><span class="line"><span class="string">          if [ ! -d &quot;themes/landscape&quot; ]; then</span></span><br><span class="line"><span class="string">            git clone https://github.com/silkiller/hexo-theme-oasis_updated.git themes/oasis</span></span><br><span class="line"><span class="string">          fi</span></span><br><span class="line"><span class="string"></span>          </span><br><span class="line">          <span class="comment"># Install theme dependencies</span></span><br><span class="line">          <span class="string">cd</span> <span class="string">themes/oasis</span></span><br><span class="line">          <span class="string">npm</span> <span class="string">install</span></span><br><span class="line">          <span class="string">cd</span> <span class="string">../..</span></span><br><span class="line">          </span><br><span class="line"></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Generate</span> <span class="string">static</span> <span class="string">files</span></span><br><span class="line">        <span class="attr">run:</span> <span class="string">hexo</span> <span class="string">clean</span> <span class="string">&amp;&amp;</span> <span class="string">hexo</span> <span class="string">generate</span></span><br><span class="line"></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Deploy</span> <span class="string">to</span> <span class="string">GitHub</span> <span class="string">Pages</span></span><br><span class="line">        <span class="attr">uses:</span> <span class="string">peaceiris/actions-gh-pages@v3</span></span><br><span class="line">        <span class="attr">with:</span></span><br><span class="line">          <span class="attr">deploy_key:</span> <span class="string">$&#123;&#123;</span> <span class="string">secrets.DEPLOY_KEY</span> <span class="string">&#125;&#125;</span></span><br><span class="line">          <span class="attr">external_repository:</span> <span class="string">silkiller/silkiller.github.io</span>  <span class="comment"># Your GitHub Pages repository</span></span><br><span class="line">          <span class="attr">publish_branch:</span> <span class="string">master</span>  <span class="comment"># The branch where your site is published，同步更改此处branch</span></span><br><span class="line">          <span class="attr">publish_dir:</span> <span class="string">./public</span>  <span class="comment"># Directory with the generated content</span></span><br><span class="line">          <span class="attr">commit_message:</span> <span class="string">$&#123;&#123;</span> <span class="string">github.event.head_commit.message</span> <span class="string">&#125;&#125;</span>  <span class="comment"># Use the same commit message</span></span><br><span class="line">          <span class="attr">full_commit_message:</span> <span class="string">$&#123;&#123;</span> <span class="string">github.event.head_commit.message</span> <span class="string">&#125;&#125;</span></span><br><span class="line">          <span class="attr">user_name:</span> <span class="string">&#x27;github-actions[bot]&#x27;</span></span><br><span class="line">          <span class="attr">user_email:</span> <span class="string">&#x27;41898282+github-actions[bot]@users.noreply.github.com&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p>Note the <code>on.push.paths</code> section which ensures the workflow only triggers when you make changes to your blog content, themes, or configuration.</p>
+<h2 id="Step-5-Adding-New-Blog-Posts"><a href="#Step-5-Adding-New-Blog-Posts" class="headerlink" title="Step 5: Adding New Blog Posts"></a>Step 5: Adding New Blog Posts</h2><p>Now, whenever you want to add a new blog post:</p>
+<ol>
+<li><p>Create your new post file in the <code>source/_posts</code> directory of your private repository.</p>
+</li>
+<li><p>You can do this directly on GitHub by:</p>
+<ul>
+<li>Navigating to your private repository</li>
+<li>Going to the <code>source/_posts</code> directory</li>
+<li>Clicking “Add file” &gt; “Create new file”</li>
+<li>Naming it with the <code>.md</code> extension</li>
+<li><strong>Adding your content with proper front matter</strong></li>
+</ul>
+</li>
+<li><p>Once you push the changes, GitHub Actions will automatically:</p>
+<ul>
+<li>Detect the change in the <code>source/_posts</code> directory</li>
+<li>Build your Hexo blog</li>
+<li>Deploy it to your GitHub Pages repository</li>
+</ul>
+</li>
+</ol>
+<hr>
 ]]></content>
       <categories>
         <category>技术</category>
       </categories>
       <tags>
-        <tag>GITHUB</tag>
+        <tag>GITHUB action</tag>
       </tags>
   </entry>
   <entry>
@@ -2936,7 +3022,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是我看到的教程中最好的一篇了，基本都完美的解决了我的问题，但有一个地方，按照这个教程，在 hexo d 这个命令下会报错，我找到的解决方案是：<br>_config.yml文件中，找到 </p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:  </span><br><span class="line">type: git   </span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
 
-<p>其中 repo的地址修改为<a href="mailto:&#x67;&#x69;&#116;&#64;&#103;&#105;&#116;&#x68;&#x75;&#98;&#x2e;&#99;&#111;&#109;">git@github.com</a>:yourname&#x2F;yourname.github.io.git（作者：白羽 著作权归作者所有）<br>注意：冒号后面都有<strong>一个空格</strong>，这是很多小白容易犯的错误！   </p>
+<p>其中 repo的地址修改为<a href="mailto:&#x67;&#x69;&#x74;&#x40;&#103;&#x69;&#x74;&#x68;&#117;&#x62;&#x2e;&#x63;&#x6f;&#109;">git@github.com</a>:yourname&#x2F;yourname.github.io.git（作者：白羽 著作权归作者所有）<br>注意：冒号后面都有<strong>一个空格</strong>，这是很多小白容易犯的错误！   </p>
 <hr>
 <h3 id="免费申请Google-Voice美国电话号码"><a href="#免费申请Google-Voice美国电话号码" class="headerlink" title="免费申请Google Voice美国电话号码"></a>免费申请Google Voice美国电话号码</h3><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为什么会想到申请一个美国电话号码呢，因为喜欢的女生要出国了，想和她继续保持联系……虽然这个电话一直没打过，但的确省了不少事，很多只需要一次注册的网站都用的这个号码，包括百毒（后来也注销了），这里也把教程贴出来：  </p>
 <blockquote>

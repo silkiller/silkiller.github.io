@@ -5,9 +5,10 @@
 <h3 id="最难搞定的点-Troubleshooting"><a href="#最难搞定的点-Troubleshooting" class="headerlink" title="最难搞定的点 Troubleshooting"></a>最难搞定的点 Troubleshooting</h3><ol>
 <li>github workflow的设置：需要生成一个public key和private key 分别放在github page 和private repo；</li>
 <li>Make sure your GitHub Pages repository is configured to deploy from the correct branch： 这个太容易忽略了，导致需要pull request，其实直接就可以merge到github page；</li>
-<li>If you’re using custom themes or plugins, ensure they’re properly included in your repository：这个是最坑爹的，直接upload本地的theme，可能存在不同的兼容性问题，workflow各种报错，最终解决办法是直接clone repo：<a target="_blank" rel="noopener" href="https://github.com/silkiller/hexo-theme-oasis_updated.git%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%8E%9F%E5%A7%8B%E7%9A%84theme%E7%BB%93%E6%9E%84%E9%9C%80%E8%A6%81%E6%9B%B4%E6%94%B9%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5fork%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84repo%EF%BC%8C%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%8B%BF%E5%88%B0theme%E7%9A%84%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%9C%A8%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8A%E4%BF%AE%E6%94%B9%EF%BC%8C%E7%84%B6%E5%90%8E%E5%90%8C%E6%AD%A5%E5%88%B0github">https://github.com/silkiller/hexo-theme-oasis_updated.git，如果原始的theme结构需要更改，可以直接fork到自己的repo，相当于拿到theme的源代码，直接在源代码上修改，然后同步到github</a> page中。</li>
-<li>version Management：版本管理，最好用老一点的node版本，比如16，新版本存在一些兼容性问题。</li>
+<li>If you’re using custom themes or plugins, ensure they’re properly included in your repository：这个是最坑爹的，直接upload本地的theme，可能存在不同的兼容性问题，workflow各种报错，最终解决办法是直接:</li>
 </ol>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">clone repo：https://github.com/silkiller/hexo-theme-oasis_updated.git</span><br></pre></td></tr></table></figure>
+<p>如果原始的theme结构需要更改，可以直接fork到自己的repo，相当于拿到theme的源代码，直接在源代码上修改，然后同步到github page中。<br>5. version Management：版本管理，最好用老一点的node版本，比如16，新版本存在一些兼容性问题。</p>
 <h1 id="Simplified-Guide-Deploying-Hexo-Blog-with-GitHub-Actions"><a href="#Simplified-Guide-Deploying-Hexo-Blog-with-GitHub-Actions" class="headerlink" title="Simplified Guide: Deploying Hexo Blog with GitHub Actions"></a>Simplified Guide: Deploying Hexo Blog with GitHub Actions</h1><p>This guide has been customized to meet your specific requirements:</p>
 <ol>
 <li>Creating a private repository to store your Hexo blog source files</li>

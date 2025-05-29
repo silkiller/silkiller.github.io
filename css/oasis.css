@@ -1,50 +1,6 @@
-.tag-cloud {
-  margin: 2em 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.8em;
-}
-.tag-cloud a {
-  display: inline-block;
-  padding: 0.4em 0.8em;
-  border-radius: 4px;
-  background-color: #f3f3f3;
-  color: #113cfc;
-  text-decoration: none;
-  transition: all 0.2s ease;
-}
-.tag-cloud a:hover {
-  background-color: #e0e0e0;
-}
-.tag-cloud a .tag-count {
-  font-size: 0.8em;
-  margin-left: 0.2em;
-  vertical-align: super;
-}
-.tag-cloud .tag-size-1 {
-  font-size: 0.9em;
-}
-.tag-cloud .tag-size-2 {
-  font-size: 1em;
-}
-.tag-cloud .tag-size-3 {
-  font-size: 1.1em;
-}
-.tag-cloud .tag-size-4 {
-  font-size: 1.2em;
-}
-.tag-cloud .tag-size-5 {
-  font-size: 1.3em;
-}
-.tag-cloud .tag-size-6 {
-  font-size: 1.4em;
-}
-.tag-cloud .tag-size-7 {
-  font-size: 1.5em;
-}
-.tag-cloud .tag-size-8 {
-  font-size: 1.6em;
-}
+#@import "tag",
+color-accent = #394867,
+color-primary = #1a202c,
 body {
   display: flex;
   flex-direction: column;
@@ -53,7 +9,7 @@ body {
   padding-top: 5em;
   padding-bottom: 8em;
   font-family: Inter var, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
-  color: #1a202c;
+  color: color-primary;
 }
 div#content {
   width: 40em;
@@ -71,11 +27,11 @@ nav#menu-inner span {
   font-weight: 520;
 }
 nav#menu-inner span {
-  color: #1a202c;
+  color: color-primary;
   text-decoration: none;
 }
 nav#menu-inner a {
-  color: #394867;
+  color: color-accent;
   text-decoration: underline;
 }
 div#content-outer {
@@ -85,11 +41,11 @@ div#content-outer div#content-inner div#paginator {
   margin-top: 4em;
 }
 div#content-outer div#content-inner div#paginator a {
-  color: #394867;
+  color: color-accent;
   margin-right: 1em;
 }
 div#content-outer div#content-inner div#paginator span {
-  color: #394867;
+  color: color-accent;
   margin-right: 1em;
 }
 div.post-item {
@@ -138,14 +94,14 @@ img {
   max-width: 100%;
 }
 aside a {
-  color: #394867;
+  color: color-accent;
 }
 aside li {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
 #post {
-  color: #1a202c;
+  color: color-primary;
 }
 #post p {
   text-align: justify;
@@ -201,7 +157,7 @@ aside li {
   padding: 0;
   font-size: 1.1em;
   font-family: font-serif;
-  color: #394867;
+  color: color-accent;
 }
 #post blockquote.pullquote.left {
   margin-right: 1em;
@@ -236,7 +192,7 @@ aside li {
   margin-top: 5em;
 }
 #post div.post-tags a {
-  color: #394867;
+  color: color-accent;
 }
 #post p code {
   background: #f3f3f3;

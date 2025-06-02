@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Claude 4有多强呢-以一个图片处理任务为例</title>
+    <url>/posts/377cf967/</url>
+    <content><![CDATA[<p>Claude 4 自从发布之后广受赞誉，它的强已经不是单纯的 AI chatbox 了，而是一个初具雏形的 AI agent。 今天，想给电脑换个IOS 最新的壁纸，但是由于版权限制，官方不提供直链下载，只能在 IOS 或者 IPad 设备上使用。这我肯定就不乐意了呀，找来找去还是找到了一张分辨率不高的照片：</p>
+<p><img src="https://s2.loli.net/2025/06/02/DAfY3SEMtHG9gyr.png" alt="band-bhm-kf-c1-hero-202501.png"></p>
+<p>因为想和手机上的风格保持一致，就想调整成黑白的，不知道怎么的，这么简单一个任务，就想用 AI 来试试。毫不意外，其他 AI 都失败了，用 Claude 4  Opus 试了试竟然成功，而且成功将图片提升到 2K 分辨率。<strong>当看到思考过程中的像素点跳动时，竟然没由来的感动!</strong> 太强了！！！</p>
+<p><img src="https://s2.loli.net/2025/06/02/TKJaGgzLDVSu6p3.png" alt="843342c8778460de0ffab9c13eff7dc2.png"></p>
+<p>生成的照片如下：效果非常不错</p>
+<p><img src="https://s2.loli.net/2025/06/02/HUR7AgXFk6zWNBx.png" alt="image.png"></p>
+<p>图片下载链接如下：<br><a href="https://drive.google.com/file/d/1Fi_3ffmsuBkchWRwdADK4NZboCu4btaJ/view?usp=drive_link">https://drive.google.com/file/d/1Fi_3ffmsuBkchWRwdADK4NZboCu4btaJ/view?usp=drive_link</a> </p>
+]]></content>
+      <tags>
+        <tag>Claude 4</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>感谢利物浦球迷为我写歌，踢得不好也没放弃我</title>
     <url>/posts/4d079271/</url>
     <content><![CDATA[<p>利物浦这家 100 多年的俱乐部，无数的球员在这家俱乐部留下了自己的印记，当然俱乐部也在他们身上刻下了深深的烙印，为什么这家俱乐部一直能够在留在这么多知名球员心中，除了那个”this is Anfield”的牌子，除了 6 座欧冠冠军，20 座英格兰顶级联赛冠军等等荣誉，或许是这只球队背后的员工，球迷对这只球队深深的爱，这份爱通过每一次的呐喊，每一次歌唱，即使在这家俱乐部短暂停留的球员也会被深深触动。这篇博文简单介绍利物浦这赛季的边缘球员：基耶萨，为什么一个边缘球员会获得利物浦球迷那么多的爱。而为什么在球队待了 20 多年的阿诺德会被球迷嘘。</p>
@@ -1657,7 +1673,7 @@
 <p><strong>示例2: To do List</strong><br><img src="https://s2.loli.net/2022/01/03/FDnCBvXjwAtRoza.png" alt="task.png"></p>
 <p>&emsp;&emsp;此外notion的一大好处是可以把其他页面的task集成到todolist中，这样就打通了所有任务之间的关系，做到任务间的链接，简直完美。关于痛点四，如何进行周计划，月计划和年计划的制定，还是过于理想化了，在确定任务的截止日期后，以DDL（Deadline）进行管理是比较可行且实际的方案，不紧急的任务，不重要的任务根据情况进行安排。此外，痛点四的解决，关键是要进行任务拆分，分为几个子模块，在固定的时间期限内再划分出几个子任务，这样每完成一个子任务都是在向最后的任务前进。例如，阅读社会科学的英文书籍，首先肯定这肯定是一个长期计划，进行拆分，读哪些书，先读什么，再读什么，建立任务清单。比如，今天要读完How to write a lot的introduction和second chapter，这样可以规划在一定时间内读完一本书，如果没有读完该部分，则合理往后顺延。这样一大好处就是避免了任务启动时的畏难情绪。</p>
 <h2 id="2025-5-19-Update："><a href="#2025-5-19-Update：" class="headerlink" title="2025.5.19 Update："></a>2025.5.19 Update：</h2><p>Notion革命性地整合了 calendar 和 email 服务，之前使用 notion 的痛点（notion 任务不能同步到 calendar，inbox 的邮箱无法转换成任务……） 已经全部解决。</p>
-<p>而且学校邮箱在毕业后即将失效，也让我痛下决心寻找一个长期的解决方案。试过自己的域名邮箱，但是由于每年需要付费，且支持邮箱服务的费用较高，迫使自己寻找一个更加有效的产品来整合所有信息。思来想去，最佳的方案诞生，那便是重新申请一个谷歌工作邮箱，比如 <a href="mailto:&#121;&#107;&#x79;&#97;&#110;&#103;&#46;&#114;&#101;&#115;&#101;&#x61;&#114;&#99;&#x68;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#x6d;">ykyang.research@gmail.com</a>，既可以享受到 gmail 的强大，又具有很好的辨识度，而且可以整合到 notion calendar 中，实现所有 tasks 的更新，堪称完美！</p>
+<p>而且学校邮箱在毕业后即将失效，也让我痛下决心寻找一个长期的解决方案。试过自己的域名邮箱，但是由于每年需要付费，且支持邮箱服务的费用较高，迫使自己寻找一个更加有效的产品来整合所有信息。思来想去，最佳的方案诞生，那便是重新申请一个谷歌工作邮箱，比如 <a href="mailto:&#x79;&#107;&#121;&#97;&#110;&#103;&#x2e;&#x72;&#x65;&#x73;&#x65;&#97;&#114;&#99;&#x68;&#x40;&#103;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;">ykyang.research@gmail.com</a>，既可以享受到 gmail 的强大，又具有很好的辨识度，而且可以整合到 notion calendar 中，实现所有 tasks 的更新，堪称完美！</p>
 <p>具体来说 任务流为：</p>
 <ol>
 <li>每个 research project 的任务，link 到总的 tasks 列表中</li>
@@ -3025,7 +3041,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是我看到的教程中最好的一篇了，基本都完美的解决了我的问题，但有一个地方，按照这个教程，在 hexo d 这个命令下会报错，我找到的解决方案是：<br>_config.yml文件中，找到 </p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:  </span><br><span class="line">type: git   </span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
 
-<p>其中 repo的地址修改为<a href="mailto:&#x67;&#x69;&#x74;&#64;&#x67;&#105;&#x74;&#x68;&#x75;&#98;&#46;&#x63;&#111;&#x6d;">git@github.com</a>:yourname&#x2F;yourname.github.io.git（作者：白羽 著作权归作者所有）<br>注意：冒号后面都有<strong>一个空格</strong>，这是很多小白容易犯的错误！   </p>
+<p>其中 repo的地址修改为<a href="mailto:&#x67;&#x69;&#x74;&#x40;&#103;&#x69;&#116;&#x68;&#117;&#x62;&#46;&#99;&#111;&#109;">git@github.com</a>:yourname&#x2F;yourname.github.io.git（作者：白羽 著作权归作者所有）<br>注意：冒号后面都有<strong>一个空格</strong>，这是很多小白容易犯的错误！   </p>
 <hr>
 <h3 id="免费申请Google-Voice美国电话号码"><a href="#免费申请Google-Voice美国电话号码" class="headerlink" title="免费申请Google Voice美国电话号码"></a>免费申请Google Voice美国电话号码</h3><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为什么会想到申请一个美国电话号码呢，因为喜欢的女生要出国了，想和她继续保持联系……虽然这个电话一直没打过，但的确省了不少事，很多只需要一次注册的网站都用的这个号码，包括百毒（后来也注销了），这里也把教程贴出来：  </p>
 <blockquote>

@@ -1,6 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>音频转文字那点事儿</title>
+    <url>/posts/a80f3e66/</url>
+    <content><![CDATA[<p>时钟拨回到 10 年前，2016 年 4 月份，大二下学期，我还在给太哥当助研，分配给我的任务之一便是将采访的音频转换为文字。</p>
+<p><img src="https://s2.loli.net/2025/06/05/Ir1dAUNb8lX3Mk5.png" alt="image.png"></p>
+<p>彼时彼刻，没有此时此刻（注：《让子弹飞》的经典台词：彼时彼刻，恰如此时此刻）的Deepseek，ChatGPT，Claude，Gemini 等一系列的 AI 工具，只能是手动的听一句，写一句，痛苦非比寻常。当然，也是因为这次任务，让我阴差阳错被太哥欣赏，进而走上了学术道路，此处暂且不表。后来，讯飞公司推出了“<a href="https://www.iflyrec.com/">讯飞听见</a>”的服务，可以花钱将音频转化为文字，痛苦减轻了不少，但仍然存在准确率不高和没有实时转译的缺点。如今，这些缺点都不存在了，但是会议记录和采访的文字处理的需求还在，也想来探讨一下音频文本应该如何处理，什么样的工作流最为有效？</p>
+<h1 id="传统方式：录音笔-转写工具"><a href="#传统方式：录音笔-转写工具" class="headerlink" title="传统方式：录音笔+转写工具"></a>传统方式：录音笔+转写工具</h1><p>大概 5 年前，录音笔+转写工具是最实用的音频转文字方式。录音笔相比于手机，其录音的音质和降噪效果要明显优于手机或笔记本，直至今天仍然是很多职场或学术人的标配。比如索尼的<a href="https://www.sony.com.tw/zh/electronics/voice-recorders/icd-tx660">ICD-TX660</a>。</p>
+<p>转写工具，相对来说较多：讯飞听见是网页版的，可以直接上传音频文件，可以生成文本文件同时附上时间线，非常好用。开源工具有：<a href="https://github.com/WEIFENG2333/AsrTools">Asrtools</a>。至于 AI就更更多了，此处推荐<a href="https://www.feishu.cn/product/minutes">飞书的转写工具</a>。</p>
+<h1 id="带有-AI-功能的录音笔"><a href="#带有-AI-功能的录音笔" class="headerlink" title="带有 AI 功能的录音笔"></a>带有 AI 功能的录音笔</h1><p>但是人总是懒的。比如我去学校停车棚停车，每次都是直接可以停进去的车位被早早占据，稍微需要抬起车身的车位总是空着。录音和转写这事儿也是如此，奥克姆剃刀原则说：若无必要，勿增实体。如果可以一步搞定的事儿，为啥需要两步呢，更何况从录音笔中导出音频文件，再上传，再整理，一次两次还行，在高强度，高频率的开会当饭吃的现在，确实有点吃不消了。</p>
+<p>于是机智的厂商们想到，为啥不把录音笔和 AI 结合起来呢？这样录完的音频可以直接导出 transcript，还能用 AI 自动整理笔记，生成 action items。这样诞生了科大讯飞的 B1， H1pro 等产品。但是最引起轰动的，还是一款叫<a href="https://www.plaud.ai/products/plaud-note-ai-voice-recorder">Plaud Note</a>的录音笔。这款录音笔可以贴在 iPhone 的背后，像一个电池背夹，同时兼具 AI 功能，造型像一个日默瓦的行李箱，非常好看。</p>
+<p><img src="https://s2.loli.net/2025/06/05/pFrajkqPRDEAQKc.png" alt="image.png"></p>
+<h1 id="带有-AI-的笔记软件"><a href="#带有-AI-的笔记软件" class="headerlink" title="带有 AI 的笔记软件"></a>带有 AI 的笔记软件</h1><p>有人喜欢硬件的解决方案，有人不怕麻烦，归根结底是每个人的喜好不同。还有一种方案是利用现在的笔记软件自带的recording 功能，完成以上的所有步骤。此处推荐两个我正在用的：</p>
+<h2 id="Notion-AI-Meeting-Note"><a href="#Notion-AI-Meeting-Note" class="headerlink" title="Notion AI Meeting Note"></a>Notion AI Meeting Note</h2><p>Notion 是一直在用的，在<a href="https://silkiller.github.io/posts/81caec1a/">任务管理</a>博文中有过详细介绍，此处不再展开。主要介绍一下最近 Notion 正在进行beta 测试的：AI meeting 功能。</p>
+<p><img src="https://s2.loli.net/2025/06/05/yab8Fgp7NG6AYz2.png" alt="image.png"></p>
+<p><strong>勾选 consent 之后，可以开始录制：</strong></p>
+<p><img src="https://s2.loli.net/2025/06/05/c2Z1qD73lX6WUyE.png" alt="image.png"></p>
+<p><strong>录制完毕后会自动生成总结，同时生成 action items，还会附带 transcript。</strong></p>
+<p><img src="https://s2.loli.net/2025/06/05/KfYW2ySDHP3tVTF.png" alt="image.png"></p>
+<p>试用了几次之后，开会的效率大增！于是激情升级了 Notion business 版本。一个月 24 刀，属实有点肉痛。我这种才用了几次的人就开始考虑三五年之后的事儿了，一直这么续费也不是个事儿啊？况且目前的订阅属实有点多了，得稍微控制一下。于是呢，开始思考一些低成本的解决方案，bingo！各位客官，请往下看：</p>
+<h2 id="Apple-Notes"><a href="#Apple-Notes" class="headerlink" title="Apple Notes"></a>Apple Notes</h2><p>Apples notes是最近无意中发现的，因为最近在关注 Apple 的 WWDC 和 MacOS 26，想看看到底 Apple intellgence 有多强，就去体验了一下 Apple 生态内的 AI 服务。邮件服务是最先体验的，怎么说呢，实际用 AI 来回复的时候比较少，AI 智能生成的Category也没有看出有多么有用，反而经常是把重要的邮件分到了promotion 的分类中。就在我要对 apple intellgence 失去信心的时候，我发现原来 Apple 把系统自带的 Notes 也升级了！并且在其中嵌入了 Recording 和 AI 功能。</p>
+<p>于是为了测试到底这个 Notes 有多强，我把利物浦口音（如果不知道可以去听一下，颠覆你对英语的印象）的<a href="https://www.youtube.com/shorts/cAB5mTxgPSo">卡拉格和内维尔的对话</a>录下来，看看能不能识别。</p>
+<p><img src="https://s2.loli.net/2025/06/05/ANZRpmjVKdfyHxk.jpg" alt="24fb84181246d0e0f6e8f4872a737b2c.jpg"></p>
+<p>识别的 transcript 可以看出来已经尽力了：</p>
+<blockquote>
+<p>who was the bigger club.</p>
+</blockquote>
+<blockquote>
+<p>Well she answer a big fucking home.</p>
+</blockquote>
+<blockquote>
+<p>So how does he find that?</p>
+</blockquote>
+<blockquote>
+<p>Many different ways.</p>
+</blockquote>
+<blockquote>
+<p>I’ll give you one.</p>
+</blockquote>
+<blockquote>
+<p>Premier League titles.</p>
+</blockquote>
+<blockquote>
+<p>Everyone on European Cup.</p>
+</blockquote>
+<blockquote>
+<p>So you’ go to Europeanans.</p>
+</blockquote>
+<blockquote>
+<p>So European comes, Trump, Well, if Liverpool do you think a lot of Liverpool are going to win the league, scale of club size Liverpool are probably going to go level Manchester.</p>
+</blockquote>
+<blockquote>
+<p>Probably.</p>
+</blockquote>
+<blockquote>
+<p>Probably.</p>
+</blockquote>
+<blockquote>
+<p>They’re not yet, though either.</p>
+</blockquote>
+<blockquote>
+<p>Three.barass It’s it’s not enough.</p>
+</blockquote>
+<blockquote>
+<p>It’s not good enough for Manchester United. Successful manag loads are basically, giants.</p>
+</blockquote>
+<blockquote>
+<p>Giants.</p>
+</blockquote>
+<blockquote>
+<p>Monsters, giants..</p>
+</blockquote>
+<blockquote>
+<p>They’re pioneers. Don’t leave a legacy.</p>
+</blockquote>
+<blockquote>
+<p>Pioneer.s don’t. Don’t be a legacy.’ve got relegance .</p>
+</blockquote>
+<blockquote>
+<p>Sir, must be always don’t leave a legacy.</p>
+</blockquote>
+<p><strong>但是核心的意思还是保留了，并且总结出来的 key points 也非常正确，此处加分！</strong></p>
+<p><img src="https://s2.loli.net/2025/06/05/Lxwnab2AJrE4jvN.jpg" alt="10c200dc58fc85382fa053e8d8a9e9f4.jpg"></p>
+<p><strong>如果不满意，也可以将音频文件导出，在其他工具中进行处理。</strong></p>
+<p><img src="https://s2.loli.net/2025/06/05/o2ZJi4sDjHqEGg1.jpg" alt="339cb13ab38ab7649a65f1bad441c1cd.jpg"></p>
+<p>于是一个完美替代 Notion meeting notes 的免费方案就此出炉！！下个月 Notion 不用续费了🙏🙏</p>
+]]></content>
+      <tags>
+        <tag>Notion</tag>
+        <tag>Apple Note</tag>
+        <tag>Plaud Note</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Claude 4有多强呢-以一个图片处理任务为例</title>
     <url>/posts/377cf967/</url>
     <content><![CDATA[<p>Claude 4 自从发布之后广受赞誉，它的强已经不是单纯的 AI chatbox 了，而是一个初具雏形的 AI agent。 今天，想给电脑换个IOS 最新的壁纸，但是由于版权限制，官方不提供直链下载，只能在 IOS 或者 IPad 设备上使用。这我肯定就不乐意了呀，找来找去还是找到了一张分辨率不高的照片：</p>
@@ -1673,7 +1765,7 @@
 <p><strong>示例2: To do List</strong><br><img src="https://s2.loli.net/2022/01/03/FDnCBvXjwAtRoza.png" alt="task.png"></p>
 <p>&emsp;&emsp;此外notion的一大好处是可以把其他页面的task集成到todolist中，这样就打通了所有任务之间的关系，做到任务间的链接，简直完美。关于痛点四，如何进行周计划，月计划和年计划的制定，还是过于理想化了，在确定任务的截止日期后，以DDL（Deadline）进行管理是比较可行且实际的方案，不紧急的任务，不重要的任务根据情况进行安排。此外，痛点四的解决，关键是要进行任务拆分，分为几个子模块，在固定的时间期限内再划分出几个子任务，这样每完成一个子任务都是在向最后的任务前进。例如，阅读社会科学的英文书籍，首先肯定这肯定是一个长期计划，进行拆分，读哪些书，先读什么，再读什么，建立任务清单。比如，今天要读完How to write a lot的introduction和second chapter，这样可以规划在一定时间内读完一本书，如果没有读完该部分，则合理往后顺延。这样一大好处就是避免了任务启动时的畏难情绪。</p>
 <h2 id="2025-5-19-Update："><a href="#2025-5-19-Update：" class="headerlink" title="2025.5.19 Update："></a>2025.5.19 Update：</h2><p>Notion革命性地整合了 calendar 和 email 服务，之前使用 notion 的痛点（notion 任务不能同步到 calendar，inbox 的邮箱无法转换成任务……） 已经全部解决。</p>
-<p>而且学校邮箱在毕业后即将失效，也让我痛下决心寻找一个长期的解决方案。试过自己的域名邮箱，但是由于每年需要付费，且支持邮箱服务的费用较高，迫使自己寻找一个更加有效的产品来整合所有信息。思来想去，最佳的方案诞生，那便是重新申请一个谷歌工作邮箱，比如 <a href="mailto:&#x79;&#107;&#121;&#97;&#110;&#103;&#x2e;&#x72;&#x65;&#x73;&#x65;&#97;&#114;&#99;&#x68;&#x40;&#103;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;">ykyang.research@gmail.com</a>，既可以享受到 gmail 的强大，又具有很好的辨识度，而且可以整合到 notion calendar 中，实现所有 tasks 的更新，堪称完美！</p>
+<p>而且学校邮箱在毕业后即将失效，也让我痛下决心寻找一个长期的解决方案。试过自己的域名邮箱，但是由于每年需要付费，且支持邮箱服务的费用较高，迫使自己寻找一个更加有效的产品来整合所有信息。思来想去，最佳的方案诞生，那便是重新申请一个谷歌工作邮箱，比如 <a href="mailto:&#x79;&#107;&#x79;&#x61;&#x6e;&#x67;&#46;&#114;&#101;&#115;&#x65;&#97;&#114;&#99;&#104;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#46;&#99;&#x6f;&#x6d;">ykyang.research@gmail.com</a>，既可以享受到 gmail 的强大，又具有很好的辨识度，而且可以整合到 notion calendar 中，实现所有 tasks 的更新，堪称完美！</p>
 <p>具体来说 任务流为：</p>
 <ol>
 <li>每个 research project 的任务，link 到总的 tasks 列表中</li>
@@ -3041,7 +3133,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是我看到的教程中最好的一篇了，基本都完美的解决了我的问题，但有一个地方，按照这个教程，在 hexo d 这个命令下会报错，我找到的解决方案是：<br>_config.yml文件中，找到 </p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:  </span><br><span class="line">type: git   </span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
 
-<p>其中 repo的地址修改为<a href="mailto:&#x67;&#x69;&#x74;&#x40;&#103;&#x69;&#116;&#x68;&#117;&#x62;&#46;&#99;&#111;&#109;">git@github.com</a>:yourname&#x2F;yourname.github.io.git（作者：白羽 著作权归作者所有）<br>注意：冒号后面都有<strong>一个空格</strong>，这是很多小白容易犯的错误！   </p>
+<p>其中 repo的地址修改为<a href="mailto:&#x67;&#x69;&#116;&#64;&#103;&#x69;&#116;&#104;&#x75;&#98;&#46;&#99;&#x6f;&#109;">git@github.com</a>:yourname&#x2F;yourname.github.io.git（作者：白羽 著作权归作者所有）<br>注意：冒号后面都有<strong>一个空格</strong>，这是很多小白容易犯的错误！   </p>
 <hr>
 <h3 id="免费申请Google-Voice美国电话号码"><a href="#免费申请Google-Voice美国电话号码" class="headerlink" title="免费申请Google Voice美国电话号码"></a>免费申请Google Voice美国电话号码</h3><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为什么会想到申请一个美国电话号码呢，因为喜欢的女生要出国了，想和她继续保持联系……虽然这个电话一直没打过，但的确省了不少事，很多只需要一次注册的网站都用的这个号码，包括百毒（后来也注销了），这里也把教程贴出来：  </p>
 <blockquote>

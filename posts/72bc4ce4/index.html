@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Apple ID 无法登录 ChatGPT 解决方案 │ Y.K.'s BLOG</title><link rel="stylesheet" href="/css/oasis.css"><meta name="generator" content="Hexo 7.2.0"><link rel="alternate" href="/atom.xml" title="Y.K.'s BLOG" type="application/atom+xml">
+</head><body><div id="content"><h1 id="title">Apple ID 无法登录 ChatGPT 解决方案</h1><div id="menu-outer"><nav id="menu-inner"><a id="menu-back" href="javascript:history.back()">Back</a><time datetime="2025-06-29T22:34:40.000Z">2025-06-29</time></nav></div><div id="content-outer"><div id="content-inner"><article id="post"><p>今天小鱼找我求助说 Apple ID 无法登录 ChatGPT （error: Username not found），结果我自己一试也不行，弹出 email address is not supported. 联想到之前 ChatGPT 根据 ip 封号，第一时间想的是切换ip更换节点，但是在荷兰应该不存在这个问题，问题应该没那么简单。</p>
+<p>询问了perplexity和其他 AI，提到最多的就是： </p>
+<blockquote>
+<p>Apple Private Relay emails (e.g., <a href="mailto:&#120;&#120;&#120;&#x40;&#112;&#x72;&#105;&#x76;&#97;&#116;&#x65;&#x72;&#x65;&#x6c;&#97;&#x79;&#x2e;&#x61;&#x70;&#x70;&#x6c;&#101;&#105;&#x64;&#x2e;&#99;&#x6f;&#x6d;">xxx@privaterelay.appleid.com</a>) are sometimes not supported by the ChatGPT desktop or mobile apps, causing login failures or the login button to be disabled. This is because the apps currently do not fully support Apple’s Private Relay login feature, even though it works on the web version. </p>
+</blockquote>
+<p>于是重置所有登录流程，在 appleID 中取消了 ChatGPT 的登录授权。在重新登录的时候发现，原来有一个选项：“Share my email ” 和 “hide my email”，一时顿悟。原因大概率是因为 apple 更新了自己的隐私政策，ChatGPT检测不到 email address 或者发现异常，直接退出账号，但是重新登录又无法触发这个 “Share my email ” 和 “hide my email”的选项 （而且在其他浏览器上似乎都无法做到，Safari 针对 appleid 的密码管理更完备），只有停止 ChatGPT 的登录授权，重新在 Safari 中登录，选择“share my email”，问题解决。</p>
+<p>具体步骤为： </p>
+<ol>
+<li>登录 Apple ID <a target="_blank" rel="noopener" href="https://account.apple.com/account/manage">https://account.apple.com/account/manage</a></li>
+<li>打开 “Sign in with Apple”</li>
+<li>点击:  “stop using Sign-in with Apple”</li>
+<li>在 Safari 浏览器中打开 <a target="_blank" rel="noopener" href="https://chatgpt.com/">https://chatgpt.com</a> </li>
+<li>点击 Continue with Apple</li>
+<li>点击  “ Share with Apple “ (very important!!!)</li>
+</ol>
+<div class="post-tags"><a class="post-tag-link" href="/tags/AppleID/" rel="tag">#AppleID</a>, <a class="post-tag-link" href="/tags/ChatGPT/" rel="tag">#ChatGPT</a></div></article><div id="paginator"></div></div></div><div id="bottom-outer"><div id="bottom-inner"><hr><div><div><a>2025@ </a><a href="/atom.xml"><img src="/assets/rss.png"></a></div><div id="hexo"><a>Powered by&nbsp</a><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><a>&nbsp&&nbsp</a><a target="_blank" rel="noopener" href="https://github.com/qiantao94/hexo-theme-oasis">Oasis</a></div></div></div></div></div></body><script src="/js/oasis.js"></script></html>
